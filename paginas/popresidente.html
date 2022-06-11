@@ -1,0 +1,1584 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ProjectoWeb</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+        <link rel="stylesheet" href="../alternativa.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+        <link href='https://fonts.googleapis.com/css?family=DM Sans' rel='stylesheet'>
+        <link href="../outrosscripts/nouislider.css" rel="stylesheet">
+        <script src="../script/nouislider.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+        <script src="https://d3js.org/d3.v6.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"></script>
+        <script src="../geojson/contornoAmp.geojson"></script>
+        <script src="../geojson/contornoFreguesias.geojson"></script>
+        <script src="../geojson/PopulacaoResidente/PopResidenteConcelho.geojson"></script>
+        <script src="../geojson/PopulacaoResidente/PopResidenteFreguesia.geojson"></script>
+        <script src="../geojson/PopulacaoResidente/PercentagemVariacaoConcelhos.geojson"></script>
+        <script src="../geojson/PopulacaoResidente/VariacaoPercentagemFreguesias.geojson"></script>
+        <script src="../outrosscripts/leaflet.zoomhome.js"></script>
+        <script src="../dist/echarts.js"></script> 
+        <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+        <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+        <script src="https://cdn.amcharts.com/lib/4/plugins/forceDirected.js"></script>
+        <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/highcharts-more.js"></script>
+        <!-- CASO QUEIRA EXPORTAR <script src="https://code.highcharts.com/modules/exporting.js"></script> -->
+        <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    </head>
+<body>
+        
+    <nav class="nav-main">
+        <div class="btn-toggle-nav" onclick="toggleNav()"></div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+
+        </ul>
+    </nav>
+    <aside class="nav-sidebar">
+
+            <li><span class="categoria"><strong>Habitação Categorias</strong></span></li>
+            <li>
+                <a href="#" class="sub-btn">Censos<i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu " id="mostrarBarra">
+                    <a href="popresidente.html"  class="sub-item active">População Residente</a>
+                    <a href="agregadosfamiliares.html"  class="sub-item">Agregados Familiares</a>
+                    <a href="alojamentosfamiliares.html"  class="sub-item">Alojamentos Familiares</a>
+
+                </div>
+            </li>
+            <li><a href="#">Habitação Social</a></li>
+            <li>
+                <a href="#" class="sub-btn">Mercado Habitacional<i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="#" class="sub-btn mercadoHabitacional"><strong>Arrendamento</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="arrendamentopreco.html"  class="sub-item">Preços</a>
+                    <a href="#"  class="sub-item">Contratos</a>
+                </div>
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Venda</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="#"  class="sub-item">Preço</a>
+                    <a href="#"  class="sub-item">Crédito à habitação</a>
+                    <a href="#"  class="sub-item">Avaliação Bancária</a>
+                </div>
+                </div>
+            </li>
+            <li><a href="#" class="sub-btn">Condições de Habitabilidade<i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="#"  class="sub-item">Sobrelotação</a>
+                    <a href="#"  class="sub-item">Taxa de Privação Severa</a>
+                    </div>
+            </li>
+            <li><a href="#" class="sub-btn">Morfologia Urbana<i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="tipoalojamento.html" class="sub-item">Tipo de Alojamento</a>
+                    <a href="#"  class="sub-item">Forma de Ocupação</a>
+                    <a href="#"  class="sub-item">Regime de Ocupação</a>
+                    <a href="#"  class="sub-item">Época de Construção</a>
+            </li>
+            <li><a href="#" class="sub-btn">Acessibilidade à Habitação<i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                <a href="#"  class="sub-item">Taxa de Esforço</a>
+                <a href="#"  class="sub-item">Acessibilidade</a>
+                <a href="#"  class="sub-item">Renda </a>
+                <a href="#"  class="sub-item">Encargos Mensais (compra)</a>
+                <a href="#"  class="sub-item">Sobrecarga</a>
+                </div>
+            </li>
+
+    </aside>
+    <div id = "space">
+        <button class="btn active3" onclick="opcaoMapa()">Mapa</button>
+        <button class="btn" onclick="opcaoGrafico()">Gráfico</button>
+        <button class="btn" onclick="opcaoTabela()">Tabela</button>
+    </div>
+    <div id="barraTabela">
+        <div id ="opcoesTabela">
+            <button id = 'tabelaPopResidente' class="btn active1">Número Absoluto</button>
+            <button id = 'tabelaVariacao' class="btn">Taxa de Variação</button>
+            <button id = 'tabelaPercentagem' class="btn" onclick="">Percentagem</button>
+        </div>
+    </div>
+    <div class="flex-container">
+        <div id='mapDIV'></div>
+<!--         <figure class="highcharts-figure"> -->
+        <div id="grafico">
+            <div id="divLegenda"></div> 
+            <div id="divGrafico"></div>
+            <div id="my_dataviz"></div>
+        </div>
+        
+<!--         </figure> -->
+        <div id='tabela'>
+            <div class ="tableFixHead">
+                <table id="populacaoresidente_tabela">
+                    <thead>
+                        <tr class="fixar1">
+                            <th colspan="2"></th>
+                            <th colspan="4" class="ano borderleft">Ano</th>
+                        </tr>
+                        <tr class="fixar2">
+                            <th class="borderbottom">Concelho</th>
+                            <th class="borderbottom">Freguesia</th>
+                            <th class="borderleft borderbottom">1991</th>
+                            <th class="borderbottom">2001</th>
+                            <th class="borderbottom">2011</th>
+                            <th class="borderbottom">2021</th>
+                        </tr>
+                    </thead>
+                    <tbody id="juntarValores"></tbody>
+<!--             <tbody>
+            <tr>
+                <td class="bgcolor"><strong>Área Metropolitana do Porto</strong></td>
+                <td class="bgcolor">Área Metropolitana do Porto</td>
+                <td class="borderleft bgcolor">1.595.762</td>
+                <td class="bgcolor">1.730.845</td>
+                <td class="bgcolor">1.759.524</td>
+                <td class="bgcolor">1.737.395</td>
+            </tr>   
+            <tr>
+                <td class="bgcolor"><strong>Arouca</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">23.894</td>
+                <td class="bgcolor">24.227</td>
+                <td class="bgcolor">22.359</td>
+                <td class="bgcolor">21.154</td>
+            </tr> 
+            <tr>
+                <td rowspan="16"></td>
+                <td>Alvarenga</td>
+                <td class="borderleft">1.637</td>
+                <td>1.368</td>
+                <td>1.223</td>
+                <td>1.057</td>
+            </tr> 
+            <tr>
+                <td>Chave</td>
+                <td class="borderleft">1.398</td>
+                <td>1.414</td>
+                <td>1.253</td>
+                <td>1.270</td>
+            </tr> 
+            <tr>
+                <td>Escariz</td>
+                <td class="borderleft">2.055</td>
+                <td>2.255</td>
+                <td>2.222</td>
+                <td>2.114</td>
+            </tr> 
+            <tr>
+                <td>Fermedo</td>
+                <td class="borderleft">1.552</td>
+                <td>1.504</td>
+                <td>1.340</td>
+                <td>1.261</td>
+            </tr> 
+            <tr>
+                <td>Mansores</td>
+                <td class="borderleft">1.125</td>
+                <td>1.155</td>
+                <td>1.081</td>
+                <td>1.100</td>
+            </tr>
+            <tr>
+                <td>Moldes</td>
+                <td class="borderleft">1.596</td>
+                <td>1.477</td>
+                <td>1.257</td>
+                <td>1.126</td>
+            </tr>
+            <tr>
+                <td>Rossas</td>
+                <td class="borderleft">1.527</td>
+                <td>1.693</td>
+                <td>1.599</td>
+                <td>1.491</td>
+            </tr>
+            <tr>
+                <td>Santa Eulália</td>
+                <td class="borderleft">2.132</td>
+                <td>2.339</td>
+                <td>2.253</td>
+                <td>2.120</td>
+            </tr>
+            <tr>
+                <td>São Miguel do Mato</td>
+                <td class="borderleft">851</td>
+                <td>800</td>
+                <td>598</td>
+                <td>550</td>
+            </tr>
+            <tr>
+                <td>Tropeço</td>
+                <td class="borderleft">1.277</td>
+                <td>1.297</td>
+                <td>1.150</td>
+                <td>1.086</td>
+            </tr>
+            <tr>
+                <td>U.F. de Arouca e Burgo</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>5.178</td>
+                <td>5.124</td>
+            </tr>
+            <tr>
+                <td>U.F. de Cabreiros e Albergaria da Serra</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>231</td>
+                <td>185</td>
+            </tr>
+            <tr>
+                <td>U.F. de Canelas e Espiunca</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>1.183</td>
+                <td>1.065</td>
+            </tr>
+            <tr>
+                <td>U.F. de Covelo de Paivó e Janarde</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>222</td>
+                <td>171</td>
+            </tr>
+            <tr>
+                <td>Urrô</td>
+                <td class="borderleft">1.068</td>
+                <td>1.206</td>
+                <td>1.029</td>
+                <td>900</td>
+            </tr>
+            <tr>
+                <td>Várzea</td>
+                <td class="borderleft">545</td>
+                <td>559</td>
+                <td>540</td>
+                <td>534</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Espinho</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">34.956</td>
+                <td class="bgcolor">33.701</td>
+                <td class="bgcolor">31.786</td>
+                <td class="bgcolor">31.045</td>
+            </tr> 
+            <tr>
+                <td rowspan="4"></td>
+                <td>Espinho</td>
+                <td class="borderleft">11.888</td>
+                <td>10.225</td>
+                <td>9.832</td>
+                <td>10.434</td>
+            </tr>
+            <tr>
+                <td>Paramos</td>
+                <td class="borderleft">3.820</td>
+                <td>3.789</td>
+                <td>3.515</td>
+                <td>3.127</td>
+            </tr>
+            <tr>
+                <td>Silvalde</td>
+                <td class="borderleft">8.180</td>
+                <td>7.540</td>
+                <td>6.673</td>
+                <td>6.108</td>
+            </tr> 
+            <tr>
+                <td>U.F. de Anta e Guetim</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>11.766</td>
+                <td>11.376</td>
+            </tr> 
+            <tr>
+                <td class="bgcolor"><strong>Gondomar</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">143.178</td>
+                <td class="bgcolor">164.096</td>
+                <td class="bgcolor">168.027</td>
+                <td class="bgcolor">164.277</td>
+            </tr> 
+            <tr>
+                <td rowspan="7"></td>
+                <td>Baguim do Monte (Rio Tinto)</td>
+                <td class="borderleft">9.651</td>
+                <td>13.943</td>
+                <td>14.102</td>
+                <td>14.387</td>
+            </tr>
+            <tr>
+                <td>Lomba</td>
+                <td class="borderleft">1.851</td>
+                <td>1.711</td>
+                <td>1.505</td>
+                <td>1.286</td>
+            </tr>
+            <tr>
+                <td>Rio Tinto</td>
+                <td class="borderleft">40.907</td>
+                <td>47.695</td>
+                <td>50.713</td>
+                <td>51.086</td>
+            </tr> 
+            <tr>
+                <td>U.F. de Fânzeres e São Pedro da Cova</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>39.586</td>
+                <td>37.756</td>
+            </tr> 
+            <tr>
+                <td>U.F. de Foz do Sousa e Covelo</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>7.701</td>
+                <td>7.040</td>
+            </tr> 
+            <tr>
+                <td>U.F. de Gondomar (São Cosme), Valbom e Jovim</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>48.600</td>
+                <td>47.427</td>
+            </tr> 
+            <tr>
+                <td>U.F. de Melres e Medas</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>5.820</td>
+                <td>5.295</td>
+            </tr>  
+            <tr>
+                <td class="bgcolor"><strong>Maia</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">143.178</td>
+                <td class="bgcolor">164.096</td>
+                <td class="bgcolor">135.306</td>
+                <td class="bgcolor">164.277</td>
+            </tr> 
+            <tr>
+                <td rowspan="10"></td>
+                <td>Águas Santas</td>
+                <td class="borderleft">9.651</td>
+                <td>13.943</td>
+                <td>27.470</td>
+                <td>26.635</td>
+            </tr>
+            <tr>
+                <td>Castêlo da Maia</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>18.395</td>
+                <td>18.588</td>
+            </tr>  
+            <tr>
+                <td>Cidade da Maia</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>40.134</td>
+                <td>40.535</td>
+            </tr>  
+            <tr>
+                <td>Folgosa</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>3.704</td>
+                <td>3.605</td>
+            </tr>  
+            <tr>
+                <td>Milheirós</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>4.861</td>
+                <td>4.762</td>
+            </tr>  
+            <tr>
+                <td>Moreira</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>12.890</td>
+                <td>13.094</td>
+            </tr>  
+            <tr>
+                <td>Nogueira e Silva Escura</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>7.980</td>
+                <td>8.381</td>
+            </tr>  
+            <tr>
+                <td>Pedrouços</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>12.149</td>
+                <td>11.568</td>
+            </tr>  
+            <tr>
+                <td>São Pedro Fins</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>1.837</td>
+                <td>1.816</td>
+            </tr>  
+            <tr>
+                <td>Vila Nova da Telha</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>8.886</td>
+                <td>6.004</td>
+            </tr>  
+            <tr>
+                <td class="bgcolor"><strong>Matosinhos</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">151.682</td>
+                <td class="bgcolor">167.026</td>
+                <td class="bgcolor">175.478</td>
+                <td class="bgcolor">172.586</td>
+            </tr> 
+            <tr>
+                <td rowspan="4"></td>
+                <td>U.F de Custóias, Leça do Balio e Guifões</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>45.716</td>
+                <td>44.048</td>
+            </tr>
+            <tr>
+                <td>U.F de Matosinhos e Leça da Palmeira</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>49.486</td>
+                <td>49.046</td>
+            </tr>
+            <tr>
+                <td>U.F de Perafita, Lavra e Santa Cruz do Bispo</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>29.407</td>
+                <td>29.653</td>
+            </tr>
+            <tr>
+                <td>U.F de São Mamede de Infesta e Senhora da Hora</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>50.869</td>
+                <td>49.839</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Oliveira de Azeméis</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">66.846</td>
+                <td class="bgcolor">70.721</td>
+                <td class="bgcolor">68.611</td>
+                <td class="bgcolor">66.190</td>
+            </tr> 
+            <tr>
+                <td rowspan="12"></td>
+                <td>Carregosa</td>
+                <td class="borderleft">3.544</td>
+                <td>3.552</td>
+                <td>3.419</td>
+                <td>3.466</td>
+            </tr>
+            <tr>
+                <td>Cesar</td>
+                <td class="borderleft">2.739</td>
+                <td>3.288</td>
+                <td>3.166</td>
+                <td>3.073</td>
+            </tr>
+            <tr>
+                <td>Fajões</td>
+                <td class="borderleft">3.112</td>
+                <td>3.180</td>
+                <td>3.087</td>
+                <td>2.896</td>
+            </tr>
+            <tr>
+                <td>Loureiro</td>
+                <td class="borderleft">3.376</td>
+                <td>3.491</td>
+                <td>3.531</td>
+                <td>3.638</td>
+            </tr>
+            <tr>
+                <td>Macieira de Sarnes</td>
+                <td class="borderleft">2.193</td>
+                <td>2.214</td>
+                <td>1.925</td>
+                <td>1.856</td>
+            </tr>
+            <tr>
+                <td>Ossela</td>
+                <td class="borderleft">2.359</td>
+                <td>2.538</td>
+                <td>2.208</td>
+                <td>1.918</td>
+            </tr>
+            <tr>
+                <td>São Martinho da Gândara</td>
+                <td class="borderleft">2.237</td>
+                <td>2.289</td>
+                <td>1.985</td>
+                <td>1.854</td>
+            </tr>
+            <tr>
+                <td>São Roque</td>
+                <td class="borderleft">5.156</td>
+                <td>5.480</td>
+                <td>5.228</td>
+                <td>5.025</td>
+            </tr>
+            <tr>
+                <td>U.F. de Nogueira do Cravo e Pindelo</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>5.390</td>
+                <td>5.098</td>
+            </tr>
+            <tr>
+                <td>U.F. de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>20.760</td>
+                <td>20.667</td>
+            </tr>
+            <tr>
+                <td>U.F. de Pinheiro da Bemposta, Travanca e Palmaz</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>7.207</td>
+                <td>6.736</td>
+            </tr>
+            <tr>
+                <td>Vila de Cucujães</td>
+                <td class="borderleft">11.130</td>
+                <td>11.094</td>
+                <td>10.705</td>
+                <td>9.963</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Paredes</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">72.999</td>
+                <td class="bgcolor">83.376</td>
+                <td class="bgcolor">86.854</td>
+                <td class="bgcolor">84.371</td>
+            </tr> 
+            <tr>
+                <td rowspan="18"></td>
+                <td>Aguiar de Sousa</td>
+                <td class="borderleft">1.713</td>
+                <td>1.600</td>
+                <td>1.631</td>
+                <td>1.582</td>
+            </tr>
+            <tr>
+                <td>Astromil</td>
+                <td class="borderleft">728</td>
+                <td>784</td>
+                <td>1.086</td>
+                <td>1.067</td>
+            </tr>
+            <tr>
+                <td>Baltar</td>
+                <td class="borderleft">4.023</td>
+                <td>4.666</td>
+                <td>4.818</td>
+                <td>4.724</td>
+            </tr>
+            <tr>
+                <td>Beire</td>
+                <td class="borderleft">2.092</td>
+                <td>2.256</td>
+                <td>2.040</td>
+                <td>2.014</td>
+            </tr>
+            <tr>
+                <td>Cete</td>
+                <td class="borderleft">2.284</td>
+                <td>2.517</td>
+                <td>3.113</td>
+                <td>3.091</td>
+            </tr>
+            <tr>
+                <td>Cristelo</td>
+                <td class="borderleft">1.377</td>
+                <td>1.914</td>
+                <td>1.891</td>
+                <td>1.761</td>
+            </tr>
+            <tr>
+                <td>Duas Igrejas</td>
+                <td class="borderleft">3.632</td>
+                <td>3.843</td>
+                <td>3.879</td>
+                <td>3.649</td>
+            </tr>
+            <tr>
+                <td>Gandra</td>
+                <td class="borderleft">5.164</td>
+                <td>5.804</td>
+                <td>6.974</td>
+                <td>6.967</td>
+            </tr>
+            <tr>
+                <td>Lordelo</td>
+                <td class="borderleft">9.686</td>
+                <td>9.930</td>
+                <td>10.025</td>
+                <td>9.107</td>
+            </tr>
+            <tr>
+                <td>Louredo</td>
+                <td class="borderleft">1.296</td>
+                <td>1.364</td>
+                <td>1.514</td>
+                <td>1.384</td>
+            </tr>
+            <tr>
+                <td>Parada de Todeia</td>
+                <td class="borderleft">1.687</td>
+                <td>1.844</td>
+                <td>1.848</td>
+                <td>1.793</td>
+            </tr>
+            <tr>
+                <td>Paredes</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>19.834</td>
+                <td>20.591</td>
+            </tr>
+            <tr>
+                <td>Rebordosa</td>
+                <td class="borderleft">9.104</td>
+                <td>10.813</td>
+                <td>9.106</td>
+                <td>8.496</td>
+            </tr>
+            <tr>
+                <td>Recarei</td>
+                <td class="borderleft">4.553</td>
+                <td>4.686</td>
+                <td>4.631</td>
+                <td>4.479</td>
+            </tr>
+            <tr>
+                <td>Sobreira</td>
+                <td class="borderleft">3.706</td>
+                <td>4.0769</td>
+                <td>4.300</td>
+                <td>4.124</td>
+            </tr>
+            <tr>
+                <td>Sobrosa</td>
+                <td class="borderleft">2.389</td>
+                <td>2.502</td>
+                <td>2.641</td>
+                <td>2.497</td>
+            </tr>
+            <tr>
+                <td>Vandoma</td>
+                <td class="borderleft">1.960</td>
+                <td>2.074</td>
+                <td>2.363</td>
+                <td>2.306</td>
+            </tr>
+            <tr>
+                <td>Vilela</td>
+                <td class="borderleft">3.966</td>
+                <td>5.080</td>
+                <td>5.160</td>
+                <td>4.739</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Porto</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">302.472</td>
+                <td class="bgcolor">263.131</td>
+                <td class="bgcolor">237.591</td>
+                <td class="bgcolor">231.828</td>
+            </tr> 
+            <tr>
+                <td rowspan="7"></td>
+                <td>Bonfim</td>
+                <td class="borderleft">34.497</td>
+                <td>28.578</td>
+                <td>24.265</td>
+                <td>22.981</td>
+            </tr>
+            <tr>
+                <td>Campanhã</td>
+                <td class="borderleft">49.107</td>
+                <td>38.757</td>
+                <td>32.659</td>
+                <td>29.674</td>
+            </tr>
+            <tr>
+                <td>Paranhos</td>
+                <td class="borderleft">50.906</td>
+                <td>48.686</td>
+                <td>44.298</td>
+                <td>45.890</td>
+            </tr>
+            <tr>
+                <td>Ramalde</td>
+                <td class="borderleft">36.300</td>
+                <td>37.647</td>
+                <td>38.012</td>
+                <td>38.849</td>
+            </tr>
+            <tr>
+                <td>U.F. de Aldoar, Foz do Douro e Nevogilde</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>28.858</td>
+                <td>29.087</td>
+            </tr>
+            <tr>
+                <td>U.F. de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>40.440</td>
+                <td>37.434</td>
+            </tr>
+            <tr>
+                <td>U.F. de Lordelo do Ouro e Massarelos</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>29.059</td>
+                <td>27.913</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Póvoa de Varzim</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">302.472</td>
+                <td class="bgcolor">263.131</td>
+                <td class="bgcolor">237.591</td>
+                <td class="bgcolor">64.257</td>
+            </tr> 
+            <tr>
+                <td rowspan="7"></td>
+                <td>Balazar</td>
+                <td class="borderleft">2.337</td>
+                <td>2.475</td>
+                <td>2.543</td>
+                <td>2.482</td>
+            </tr>
+            <tr>
+                <td>Estela</td>
+                <td class="borderleft">2.399</td>
+                <td>2.596</td>
+                <td>2.307</td>
+                <td>2.287</td>
+            </tr>
+            <tr>
+                <td>Laundos</td>
+                <td class="borderleft">2.119</td>
+                <td>2.131</td>
+                <td>2.055</td>
+                <td>1.937</td>
+            </tr>
+            <tr>
+                <td>Rates</td>
+                <td class="borderleft">2.347</td>
+                <td>2.539</td>
+                <td>2.505</td>
+                <td>2.472</td>
+            </tr>
+            <tr>
+                <td>U.F. da Póvoa de Varzim, Beiriz e Argivai</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>34.266</td>
+                <td>35.437</td>
+            </tr>
+            <tr>
+                <td>U.F. de Aguçadoura e Navais</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>5.745</td>
+                <td>5.389</td>
+            </tr>
+            <tr>
+                <td>U.F. de Aver-o-Mar, Amorim e Terroso</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>13.987</td>
+                <td>14.253</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Santa Maria da Feira</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">118.641</td>
+                <td class="bgcolor">135.964</td>
+                <td class="bgcolor">139.309</td>
+                <td class="bgcolor">137.615</td>
+            </tr> 
+            <tr>
+                <td rowspan="21"></td>
+                <td>Argoncilhe</td>
+                <td class="borderleft">8.318</td>
+                <td>8.605</td>
+                <td>8.420</td>
+                <td>8.184</td>
+            </tr>
+            <tr>
+                <td>Arrifana</td>
+                <td class="borderleft">5.600</td>
+                <td>6.544</td>
+                <td>6.551</td>
+                <td>6.311</td>
+            </tr>
+            <tr>
+                <td>Escapães</td>
+                <td class="borderleft">2.979</td>
+                <td>3.028</td>
+                <td>3.309</td>
+                <td>3.316</td>
+            </tr>
+            <tr>
+                <td>Fiães</td>
+                <td class="borderleft">8.842</td>
+                <td>8.754</td>
+                <td>7.991</td>
+                <td>7.097</td>
+            </tr>
+            <tr>
+                <td>Fornos</td>
+                <td class="borderleft">2.536</td>
+                <td>2.810</td>
+                <td>3.397</td>
+                <td>3.436</td>
+            </tr>
+            <tr>
+                <td>Lourosa</td>
+                <td class="borderleft">8.113</td>
+                <td>9.204</td>
+                <td>8.636</td>
+                <td>8.005</td>
+            </tr>
+            <tr>
+                <td>Milheirós de Poiares</td>
+                <td class="borderleft">2.823</td>
+                <td>3.859</td>
+                <td>3.791</td>
+                <td>3.594</td>
+            </tr>
+            <tr>
+                <td>Mozelos</td>
+                <td class="borderleft">4.800</td>
+                <td>6.502</td>
+                <td>7.142</td>
+                <td>7.297</td>
+            </tr>
+            <tr>
+                <td>Nogueira da Regedoura</td>
+                <td class="borderleft">4.259</td>
+                <td>5.026</td>
+                <td>5.790</td>
+                <td>5.740</td>
+            </tr>
+            <tr>
+                <td>Paços de Brandão</td>
+                <td class="borderleft">4.469</td>
+                <td>4.590</td>
+                <td>4.867</td>
+                <td>4.775</td>
+            </tr>
+            <tr>
+                <td>Rio Meão</td>
+                <td class="borderleft">4.324</td>
+                <td>4.688</td>
+                <td>4.931</td>
+                <td>4.814</td>
+            </tr>
+            <tr>
+                <td>Romariz</td>
+                <td class="borderleft">3.358</td>
+                <td>3.650</td>
+                <td>3.023</td>
+                <td>2.739</td>
+            </tr>
+            <tr>
+                <td>Sanguedo</td>
+                <td class="borderleft">3.154</td>
+                <td>3.542</td>
+                <td>3.600</td>
+                <td>3.475</td>
+            </tr>
+            <tr>
+                <td>Santa Maria de Lamas</td>
+                <td class="borderleft">3.900</td>
+                <td>5.120</td>
+                <td>5.073</td>
+                <td>4.748</td>
+            </tr>
+            <tr>
+                <td>São João de Ver</td>
+                <td class="borderleft">6.981</td>
+                <td>8.816</td>
+                <td>10.579</td>
+                <td>11.029</td>
+            </tr>
+            <tr>
+                <td>São Paio de Oleiros</td>
+                <td class="borderleft">3.682</td>
+                <td>4.003</td>
+                <td>4.069</td>
+                <td>3.661</td>
+            </tr>
+            <tr>
+                <td>U.F. de Caldas de São Jorge e Pigeiros</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>3.897</td>
+                <td>3.689</td>
+            </tr>
+            <tr>
+                <td>U.F. de Canedo, Vale e Vila Maior</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>9.455</td>
+                <td>8.882</td>
+            </tr>
+            <tr>
+                <td>U.F. de Lobão, Gião, Louredo e Guisande</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>9.860</td>
+                <td>9.649</td>
+            </tr>
+            <tr>
+                <td>U.F. de Santa Maria da Feira, Travanca, Sanfins e Espargo</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>18.194</td>
+                <td>19.792</td>
+            </tr>
+            <tr>
+                <td>U.F. de São Miguel de Souto e Mosteirô</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>6.734</td>
+                <td>6.482</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Santo Tirso</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">69.773</td>
+                <td class="bgcolor">72.396</td>
+                <td class="bgcolor">71.530</td>
+                <td class="bgcolor">67.725</td>
+            </tr> 
+            <tr>
+                <td rowspan="14"></td>
+                <td>Agrela</td>
+                <td class="borderleft">1.581</td>
+                <td>1.604</td>
+                <td>1.584</td>
+                <td>1.486</td>
+            </tr>
+            <tr>
+                <td>Água Longa</td>
+                <td class="borderleft">1.968</td>
+                <td>2.134</td>
+                <td>2.207</td>
+                <td>2.342</td>
+            </tr>
+            <tr>
+                <td>Aves</td>
+                <td class="borderleft">8.485</td>
+                <td>8.492</td>
+                <td>8.458</td>
+                <td>7.948</td>
+            </tr>
+            <tr>
+                <td>Monte Córdova</td>
+                <td class="borderleft">3.122</td>
+                <td>3.669</td>
+                <td>3.958</td>
+                <td>3.850</td>
+            </tr>
+            <tr>
+                <td>Negrelos (São Tomé)</td>
+                <td class="borderleft">4.169</td>
+                <td>4.241</td>
+                <td>4.032</td>
+                <td>3.755</td>
+            </tr>
+            <tr>
+                <td>Rebordões</td>
+                <td class="borderleft">3.744</td>
+                <td>3.559</td>
+                <td>3.368</td>
+                <td>3.130</td>
+            </tr>
+            <tr>
+                <td>Reguenga</td>
+                <td class="borderleft">1.480</td>
+                <td>1.595</td>
+                <td>1.596</td>
+                <td>1.427</td>
+            </tr>
+            <tr>
+                <td>Roriz</td>
+                <td class="borderleft">3.978</td>
+                <td>3.724</td>
+                <td>3.665</td>
+                <td>3.308</td>
+            </tr>
+            <tr>
+                <td>U.F. de Areias, Sequeiró, Lama e Palmeira</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>6.795</td>
+                <td>6.369</td>
+            </tr>
+            <tr>
+                <td>U.F. de Carreira e Refojos de Riba de Ave</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>2.072</td>
+                <td>2.042</td>
+            </tr>
+            <tr>
+                <td>U.F. de Lamelas e Guimarei</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>1.660</td>
+                <td>1.567</td>
+            </tr>
+            <tr>
+                <td>U.F. de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>21.538</td>
+                <td>20.595</td>
+            </tr>
+            <tr>
+                <td>Vila Nova do Campo</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>6.809</td>
+                <td>6.315</td>
+            </tr>
+            <tr>
+                <td>Vilarinho</td>
+                <td class="borderleft">3.674</td>
+                <td>4.036</td>
+                <td>3.788</td>
+                <td>3.591</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>São João da Madeira</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">18.452</td>
+                <td class="bgcolor">21.102</td>
+                <td class="bgcolor">21.713</td>
+                <td class="bgcolor">22.144</td>
+            </tr> 
+            <tr>
+                <td></td>
+                <td>São João da Madeira</td>
+                <td class="borderleft">18.452</td>
+                <td>21.102</td>
+                <td>21.713</td>
+                <td>22.144</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Trofa</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">32.820</td>
+                <td class="bgcolor">37.581</td>
+                <td class="bgcolor">38.999</td>
+                <td class="bgcolor">38.554</td>
+            </tr> 
+            <tr>
+                <td rowspan="5"></td>
+                <td>Covelas</td>
+                <td class="borderleft">1.560</td>
+                <td>1.662</td>
+                <td>1.563</td>
+                <td>1.463</td>
+            </tr>
+            <tr>
+                <td>Muro</td>
+                <td class="borderleft">1.356</td>
+                <td>1.972</td>
+                <td>1.922</td>
+                <td>1.840</td>
+            </tr>
+            <tr>
+                <td>U.F. de Alvarelhos e Guidões</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>4.810</td>
+                <td>4.771</td>
+            </tr>
+            <tr>
+                <td>U.F. de Bougado (São Martinho e Santiago)</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>21.585</td>
+                <td>21.375</td>
+            </tr>
+            <tr>
+                <td>U.F. de Coronado (São Romão e São Mamede)</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>9.119</td>
+                <td>9.105</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Vale de Cambra</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">24.537</td>
+                <td class="bgcolor">24.798</td>
+                <td class="bgcolor">22.864</td>
+                <td class="bgcolor">21.275</td>
+            </tr> 
+            <tr>
+                <td rowspan="7"></td>
+                <td>Arões</td>
+                <td class="borderleft">2.202</td>
+                <td>1.952</td>
+                <td>1.459</td>
+                <td>1.169</td>
+            </tr>
+            <tr>
+                <td>Cepelos</td>
+                <td class="borderleft">1.759</td>
+                <td>1.587</td>
+                <td>1.313</td>
+                <td>1.158</td>
+            </tr>
+            <tr>
+                <td>Junqueira</td>
+                <td class="borderleft">1.466</td>
+                <td>1.295</td>
+                <td>1.067</td>
+                <td>834</td>
+            </tr>
+            <tr>
+                <td>Macieira de Cambra</td>
+                <td class="borderleft">4.704</td>
+                <td>4.821</td>
+                <td>4.747</td>
+                <td>4.391</td>
+            </tr>
+            <tr>
+                <td>Roge</td>
+                <td class="borderleft">1.933</td>
+                <td>1.901</td>
+                <td>1.752</td>
+                <td>1.540</td>
+            </tr>
+            <tr>
+                <td>São Pedro de Castelões</td>
+                <td class="borderleft">7.389</td>
+                <td>7.625</td>
+                <td>7.181</td>
+                <td>6.833</td>
+            </tr>
+            <tr>
+                <td>U.F. de Vila Chã, Codal e Vila Cova de Perrinho</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>5.345</td>
+                <td>5.350</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Valongo</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">74.172</td>
+                <td class="bgcolor">86.005</td>
+                <td class="bgcolor">93.858</td>
+                <td class="bgcolor">94.697</td>
+            </tr> 
+            <tr>
+                <td rowspan="4"></td>
+                <td>Alfena</td>
+                <td class="borderleft">12.129</td>
+                <td>13.665</td>
+                <td>15.211</td>
+                <td>14.439</td>
+            </tr>
+            <tr>
+                <td>Ermesinde</td>
+                <td class="borderleft">34.415</td>
+                <td>38.315</td>
+                <td>38.798</td>
+                <td>39.095</td>
+            </tr>
+            <tr>
+                <td>U.F de Campo e Sobrado</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>15.924</td>
+                <td>15.280</td>
+            </tr>
+            <tr>
+                <td>Valongo</td>
+                <td class="borderleft">13.103</td>
+                <td>18.698</td>
+                <td>23.925</td>
+                <td>25.883</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Vila do Conde</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">64.836</td>
+                <td class="bgcolor">74.391</td>
+                <td class="bgcolor">79.533</td>
+                <td class="bgcolor">80.831</td>
+            </tr> 
+            <tr>
+                <td rowspan="21"></td>
+                <td>Árvore</td>
+                <td class="borderleft">3.406</td>
+                <td>4.261</td>
+                <td>5.196</td>
+                <td>5.569</td>
+            </tr>
+            <tr>
+                <td>Aveleda</td>
+                <td class="borderleft">1.446</td>
+                <td>1.479</td>
+                <td>1.314</td>
+                <td>1.224</td>
+            </tr>
+            <tr>
+                <td>Azurara</td>
+                <td class="borderleft">1.794</td>
+                <td>2.102</td>
+                <td>2.305</td>
+                <td>2.367</td>
+            </tr>
+            <tr>
+                <td>Fajozes</td>
+                <td class="borderleft">1.457</td>
+                <td>1.467</td>
+                <td>1.425</td>
+                <td>1.637</td>
+            </tr>
+            <tr>
+                <td>Gião</td>
+                <td class="borderleft">1.457</td>
+                <td>1.535</td>
+                <td>1.756</td>
+                <td>1.659</td>
+            </tr>
+            <tr>
+                <td>Guilhabreu</td>
+                <td class="borderleft">1.885</td>
+                <td>2.386</td>
+                <td>2.357</td>
+                <td>2.190</td>
+            </tr>
+            <tr>
+                <td>Junqueira</td>
+                <td class="borderleft">1.929</td>
+                <td>2.234</td>
+                <td>2.019</td>
+                <td>1.917</td>
+            </tr>
+            <tr>
+                <td>Labruge</td>
+                <td class="borderleft">2.159</td>
+                <td>2.472</td>
+                <td>2.806</td>
+                <td>3.000</td>
+            </tr>
+            <tr>
+                <td>Macieira da Maia</td>
+                <td class="borderleft">1.870</td>
+                <td>1.898</td>
+                <td>2.321</td>
+                <td>2.491</td>
+            </tr>
+            <tr>
+                <td>Mindelo</td>
+                <td class="borderleft">2.859</td>
+                <td>3.402</td>
+                <td>3.491</td>
+                <td>3.988</td>
+            </tr>
+            <tr>
+                <td>Modivas</td>
+                <td class="borderleft">1.888</td>
+                <td>1.899</td>
+                <td>1.806</td>
+                <td>1.764</td>
+            </tr>
+            <tr>
+                <td>U.F. de Bagunte, Ferreiró, Outeiro Maior e Parada</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>2.848</td>
+                <td>2.662</td>
+            </tr>
+            <tr>
+                <td>U.F. de Fornelo e Vairão</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>2.643</td>
+                <td>2.413</td>
+            </tr>
+            <tr>
+                <td>U.F. de Malta e Canidelo</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>2.291</td>
+                <td>2.221</td>
+            </tr>
+            <tr>
+                <td>U.F. de Retorta e Tougues</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>2.052</td>
+                <td>2.044</td>
+            </tr>
+            <tr>
+                <td>U.F. de Rio Mau e Arcos</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>2.681</td>
+                <td>2.643</td>
+            </tr>
+            <tr>
+                <td>U.F. de Touguinha e Touguinhó</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>3.386</td>
+                <td>3.346</td>
+            </tr>
+            <tr>
+                <td>U.F. de Vilar e Mosteiró</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>2.569</td>
+                <td>2.398</td>
+            </tr>
+            <tr>
+                <td>Vila Chã</td>
+                <td class="borderleft">3.021</td>
+                <td>2.957</td>
+                <td>3.094</td>
+                <td>3.404</td>
+            </tr>
+            <tr>
+                <td>Vila do Conde</td>
+                <td class="borderleft">19.990</td>
+                <td>25.731</td>
+                <td>28.636</td>
+                <td>29.332</td>
+            </tr>
+            <tr>
+                <td>Vilar de Pinheiro</td>
+                <td class="borderleft">2.269</td>
+                <td>2.579</td>
+                <td>2.537</td>
+                <td>2.562</td>
+            </tr>
+            <tr>
+                <td class="bgcolor"><strong>Vila Nova de Gaia</strong></td>
+                <td class="bgcolor">Concelho</td>
+                <td class="bgcolor borderleft">248.565</td>
+                <td class="bgcolor">288.749</td>
+                <td class="bgcolor">302.298</td>
+                <td class="bgcolor">303.854</td>
+            </tr> 
+            <tr>
+                <td rowspan="15"></td>
+                <td>Arcozelo</td>
+                <td class="borderleft">9.610</td>
+                <td>12.393</td>
+                <td>14.352</td>
+                <td>15.145</td>
+            </tr>
+            <tr>
+                <td>Avintes</td>
+                <td class="borderleft">10.986</td>
+                <td>11.523</td>
+                <td>11.497</td>
+                <td>10.838</td>
+            </tr>
+            <tr>
+                <td>Canelas</td>
+                <td class="borderleft">8.275</td>
+                <td>12.303</td>
+                <td>13.459</td>
+                <td>13.919</td>
+            </tr>
+            <tr>
+                <td>Canidelo</td>
+                <td class="borderleft">16.987</td>
+                <td>23.737</td>
+                <td>27.769</td>
+                <td>28.059</td>
+            </tr>
+            <tr>
+                <td>Madalena</td>
+                <td class="borderleft">8.597</td>
+                <td>9.356</td>
+                <td>10.040</td>
+                <td>10.553</td>
+            </tr>
+            <tr>
+                <td>Oliveira do Douro</td>
+                <td class="borderleft">20.645</td>
+                <td>23.384</td>
+                <td>22.383</td>
+                <td>22.616</td>
+            </tr>
+            <tr>
+                <td>São Félix da Marinha</td>
+                <td class="borderleft">9.816</td>
+                <td>11.171</td>
+                <td>12.706</td>
+                <td>13.560</td>
+            </tr>
+            <tr>
+                <td>U.F. de Grijó e Sermonde</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>11.938</td>
+                <td>12.018</td>
+            </tr>
+            <tr>
+                <td>U.F. de Gulpilhares e Valadares</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>22.019</td>
+                <td>22.324</td>
+            </tr>
+            <tr>
+                <td>U.F. de Mafamude e Vilar do Paraíso</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>52.422</td>
+                <td>52.850</td>
+            </tr>
+            <tr>
+                <td>U.F. de Pedroso e Seixezelo</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>20.426</td>
+                <td>20.229</td>
+            </tr>
+            <tr>
+                <td>U.F. de Sandim, Olival, Lever e Crestuma</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>17.168</td>
+                <td>15.956</td>
+            </tr>
+            <tr>
+                <td>U.F. de Santa Marinha e São Pedro da Afurada</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>33.714</td>
+                <td>34.035</td>
+            </tr>
+            <tr>
+                <td>U.F. de Serzedo e Perosinho</td>
+                <td class="borderleft"></td>
+                <td></td>
+                <td>14.250</td>
+                <td>13.746</td>
+            </tr>
+            <tr>
+                <td>Vilar de Andorinho</td>
+                <td class="borderleft">11.518</td>
+                <td>16.710</td>
+                <td>18.155</td>
+                <td>18.006</td>
+            </tr>
+            </tbody> -->
+        </table>
+        </div>
+        </div>
+        <div id='painel'>
+            <div id = "myDIV">
+                <button id = 'concelho' class="butaoEscala active2">Concelho</button>
+                <button id = 'freguesias' class="butaoEscala">Freguesias</button>
+            </div>
+            <div id="painelLegenda" class="painelLegenda">Legenda
+                <div id='legendaA'></div>
+                <!-- <div id="grad1"></div> -->
+            </div>
+            <div id="filtrar">
+                <strong>Filtrar:</strong>
+                <p>Minímo<input type="number"  id="input-number-min">
+                Máximo<input type="number"  id="input-number-max"></p>
+            </div>    
+            <div id="slidersGeral">
+                <div class="sliderAtivo"></div>
+            </div>
+            <div id="geralEscalas">
+                <div id="escalasConcelho">
+                    <button id="absoluto" class="butao active4">Número Absoluto</button>
+                    <button id="taxaVariacao" class="butao">Taxa de Variação</button>
+                    <button id="percentagem" class="butao">Percentagem</button>
+                </div>
+                <div id="escalasFreguesias">
+                    <button id="absolutoFreguesia" class="btn active5">Número Absoluto</button>
+                    <button id="taxaVariacaoFreguesia" class="btn">Taxa de Variação</button>
+                    <button id="percentagemFreguesia" class="btn">Percentagem</button> 
+                </div>
+            </div>
+            <div id="temporal">
+                <div class="titulo">
+                    <p>Escolha o ano:</p>
+                </div>
+                <div class="margin">
+                <!-- <button type="submit" name="Anterior" onclick="prev()"  id="btnPrev">
+                    <img src="../imagens/seta3.svg" height ="10" width="10"></button> -->
+                    <a onclick="prev()" class="previous round">&#8249;</a>
+                    <select id="mySelect" onchange="myFunction()">
+                        <option value="2021">2021</option>
+                        <option value="2011">2011</option>
+                        <option value="2001">2001</option>
+                        <option value="1991">1991</option>  
+                    </select>
+                <!-- <button type="submit" name="Seguinte" onclick="next()" id="btnNext">
+                    <img src="../imagens/ArrowRight.svg" height ="10" width="10"></button> -->
+                    <a onclick="next()" class="previous round">&#8250; </a>
+                </div>
+            </div>
+
+        </div>
+        <div id="Fontes">
+            <div class="ine"></div>
+        </div>
+    </div>
+    
+
+    <script src="../script/popresidente.js" defer></script>
+
+    <script>
+        $(document).ready(function(){
+            $('.sub-btn').click(function(){
+                $(this).next('.sub-menu').slideToggle();
+                $(this).find('.dropdown').toggleClass('rotate');
+            });
+        });
+
+    </script>
+</body>
+</html>
