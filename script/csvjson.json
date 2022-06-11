@@ -1,0 +1,1040 @@
+[
+  {
+    "id": 0,
+    "freguesia": "Alvarenga",
+    "value": 1057,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 1,
+    "freguesia": "Chave",
+    "value": 1270,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 2,
+    "freguesia": "Escariz",
+    "value": 2114,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 3,
+    "freguesia": "Fermedo",
+    "value": 1261,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 4,
+    "freguesia": "Mansores",
+    "value": 1100,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 5,
+    "freguesia": "Moldes",
+    "value": 1126,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 6,
+    "freguesia": "Rossas",
+    "value": 1491,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 7,
+    "freguesia": "Santa Eulália",
+    "value": 2120,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 8,
+    "freguesia": "São Miguel do Mato",
+    "value": 550,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 9,
+    "freguesia": "Tropeço",
+    "value": 1086,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 10,
+    "freguesia": "União das freguesias de Arouca e Burgo",
+    "value": 5124,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 11,
+    "freguesia": "União das freguesias de Cabreiros e Albergaria da Serra",
+    "value": 185,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 12,
+    "freguesia": "União das freguesias de Canelas e Espiunca",
+    "value": 1065,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 13,
+    "freguesia": "União das freguesias de Covelo de Paivó e Janarde",
+    "value": 171,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 14,
+    "freguesia": "Urrô",
+    "value": 900,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 15,
+    "freguesia": "Várzea",
+    "value": 534,
+    "concelho": "Arouca"
+  },
+  {
+    "id": 16,
+    "freguesia": "Espinho",
+    "value": 10434,
+    "concelho": "Espinho"
+  },
+  {
+    "id": 17,
+    "freguesia": "Paramos",
+    "value": 3127,
+    "concelho": "Espinho"
+  },
+  {
+    "id": 18,
+    "freguesia": "Silvalde",
+    "value": 6108,
+    "concelho": "Espinho"
+  },
+  {
+    "id": 19,
+    "freguesia": "União das freguesias de Anta e Guetim",
+    "value": 11376,
+    "concelho": "Espinho"
+  },
+  {
+    "id": 20,
+    "freguesia": "Baguim do Monte (Rio Tinto)",
+    "value": 14387,
+    "concelho": "Gondomar"
+  },
+  {
+    "id": 21,
+    "freguesia": "Lomba",
+    "value": 1286,
+    "concelho": "Gondomar"
+  },
+  {
+    "id": 22,
+    "freguesia": "Rio Tinto",
+    "value": 51086,
+    "concelho": "Gondomar"
+  },
+  {
+    "id": 23,
+    "freguesia": "União das freguesias de Fânzeres e São Pedro da Cova",
+    "value": 37756,
+    "concelho": "Gondomar"
+  },
+  {
+    "id": 24,
+    "freguesia": "União das freguesias de Foz do Sousa e Covelo",
+    "value": 7040,
+    "concelho": "Gondomar"
+  },
+  {
+    "id": 25,
+    "freguesia": "União das freguesias de Gondomar (São Cosme), Valbom e Jovim",
+    "value": 47427,
+    "concelho": "Gondomar"
+  },
+  {
+    "id": 26,
+    "freguesia": "União das freguesias de Melres e Medas",
+    "value": 5295,
+    "concelho": "Gondomar"
+  },
+  {
+    "id": 27,
+    "freguesia": "Águas Santas",
+    "value": 26635,
+    "concelho": "Maia"
+  },
+  {
+    "id": 28,
+    "freguesia": "Castêlo da Maia",
+    "value": 18588,
+    "concelho": "Maia"
+  },
+  {
+    "id": 29,
+    "freguesia": "Cidade da Maia",
+    "value": 40535,
+    "concelho": "Maia"
+  },
+  {
+    "id": 30,
+    "freguesia": "Folgosa",
+    "value": 3605,
+    "concelho": "Maia"
+  },
+  {
+    "id": 31,
+    "freguesia": "Milheirós",
+    "value": 4762,
+    "concelho": "Maia"
+  },
+  {
+    "id": 32,
+    "freguesia": "Moreira",
+    "value": 13094,
+    "concelho": "Maia"
+  },
+  {
+    "id": 33,
+    "freguesia": "Nogueira e Silva Escura",
+    "value": 8381,
+    "concelho": "Maia"
+  },
+  {
+    "id": 34,
+    "freguesia": "Pedrouços",
+    "value": 11568,
+    "concelho": "Maia"
+  },
+  {
+    "id": 35,
+    "freguesia": "São Pedro Fins",
+    "value": 1816,
+    "concelho": "Maia"
+  },
+  {
+    "id": 36,
+    "freguesia": "Vila Nova da Telha",
+    "value": 6004,
+    "concelho": "Maia"
+  },
+  {
+    "id": 37,
+    "freguesia": "União das freguesias de Custóias, Leça do Balio e Guifões",
+    "value": 44048,
+    "concelho": "Matosinhos"
+  },
+  {
+    "id": 38,
+    "freguesia": "União das freguesias de Matosinhos e Leça da Palmeira",
+    "value": 49046,
+    "concelho": "Matosinhos"
+  },
+  {
+    "id": 39,
+    "freguesia": "União das freguesias de Perafita, Lavra e Santa Cruz do Bispo",
+    "value": 29653,
+    "concelho": "Matosinhos"
+  },
+  {
+    "id": 40,
+    "freguesia": "União das freguesias de São Mamede de Infesta e Senhora da Hora",
+    "value": 49839,
+    "concelho": "Matosinhos"
+  },
+  {
+    "id": 41,
+    "freguesia": "Carregosa",
+    "value": 3466,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 42,
+    "freguesia": "Cesar",
+    "value": 3073,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 43,
+    "freguesia": "Fajões",
+    "value": 2896,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 44,
+    "freguesia": "Loureiro",
+    "value": 3638,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 45,
+    "freguesia": "Macieira de Sarnes",
+    "value": 1856,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 46,
+    "freguesia": "Ossela",
+    "value": 1918,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 47,
+    "freguesia": "São Martinho da Gândara",
+    "value": 1854,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 48,
+    "freguesia": "São Roque",
+    "value": 5025,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 49,
+    "freguesia": "União das freguesias de Nogueira do Cravo e Pindelo",
+    "value": 5098,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 50,
+    "freguesia": "União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",
+    "value": 20667,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 51,
+    "freguesia": "União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz",
+    "value": 6736,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 52,
+    "freguesia": "Vila de Cucujães",
+    "value": 9963,
+    "concelho": "Oliveira de Azeméis"
+  },
+  {
+    "id": 53,
+    "freguesia": "Aguiar de Sousa",
+    "value": 1582,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 54,
+    "freguesia": "Astromil",
+    "value": 1067,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 55,
+    "freguesia": "Baltar",
+    "value": 4724,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 56,
+    "freguesia": "Beire",
+    "value": 2014,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 57,
+    "freguesia": "Cete",
+    "value": 3091,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 58,
+    "freguesia": "Cristelo",
+    "value": 1761,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 59,
+    "freguesia": "Duas Igrejas",
+    "value": 3649,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 60,
+    "freguesia": "Gandra",
+    "value": 6967,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 61,
+    "freguesia": "Lordelo",
+    "value": 9107,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 62,
+    "freguesia": "Louredo",
+    "value": 1384,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 63,
+    "freguesia": "Parada de Todeia",
+    "value": 1793,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 64,
+    "freguesia": "Paredes",
+    "value": 20591,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 65,
+    "freguesia": "Rebordosa",
+    "value": 8496,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 66,
+    "freguesia": "Recarei",
+    "value": 4479,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 67,
+    "freguesia": "Sobreira",
+    "value": 4124,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 68,
+    "freguesia": "Sobrosa",
+    "value": 2497,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 69,
+    "freguesia": "Vandoma",
+    "value": 2306,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 70,
+    "freguesia": "Vilela",
+    "value": 4739,
+    "concelho": "Paredes"
+  },
+  {
+    "id": 71,
+    "freguesia": "Bonfim",
+    "value": 22981,
+    "concelho": "Porto"
+  },
+  {
+    "id": 72,
+    "freguesia": "Campanhã",
+    "value": 29674,
+    "concelho": "Porto"
+  },
+  {
+    "id": 73,
+    "freguesia": "Paranhos",
+    "value": 45890,
+    "concelho": "Porto"
+  },
+  {
+    "id": 74,
+    "freguesia": "Ramalde",
+    "value": 38849,
+    "concelho": "Porto"
+  },
+  {
+    "id": 75,
+    "freguesia": "União das freguesias de Aldoar, Foz do Douro e Nevogilde",
+    "value": 29087,
+    "concelho": "Porto"
+  },
+  {
+    "id": 76,
+    "freguesia": "União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "value": 37434,
+    "concelho": "Porto"
+  },
+  {
+    "id": 77,
+    "freguesia": "União das freguesias de Lordelo do Ouro e Massarelos",
+    "value": 27913,
+    "concelho": "Porto"
+  },
+  {
+    "id": 78,
+    "freguesia": "Balazar",
+    "value": 2482,
+    "concelho": "Póvoa de Varzim"
+  },
+  {
+    "id": 79,
+    "freguesia": "Estela",
+    "value": 2287,
+    "concelho": "Póvoa de Varzim"
+  },
+  {
+    "id": 80,
+    "freguesia": "Laundos",
+    "value": 1937,
+    "concelho": "Póvoa de Varzim"
+  },
+  {
+    "id": 81,
+    "freguesia": "Rates",
+    "value": 2472,
+    "concelho": "Póvoa de Varzim"
+  },
+  {
+    "id": 82,
+    "freguesia": "União das freguesias da Póvoa de Varzim, Beiriz e Argivai",
+    "value": 35437,
+    "concelho": "Póvoa de Varzim"
+  },
+  {
+    "id": 83,
+    "freguesia": "União das freguesias de Aguçadoura e Navais",
+    "value": 5389,
+    "concelho": "Póvoa de Varzim"
+  },
+  {
+    "id": 84,
+    "freguesia": "União das freguesias de Aver-o-Mar, Amorim e Terroso",
+    "value": 14253,
+    "concelho": "Póvoa de Varzim"
+  },
+  {
+    "id": 85,
+    "freguesia": "Argoncilhe",
+    "value": 8184,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 86,
+    "freguesia": "Arrifana",
+    "value": 6311,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 87,
+    "freguesia": "Escapões",
+    "value": 3316,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 88,
+    "freguesia": "Fiães",
+    "value": 7097,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 89,
+    "freguesia": "Fornos",
+    "value": 3436,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 90,
+    "freguesia": "Lourosa",
+    "value": 8005,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 91,
+    "freguesia": "Milheirós de Poiares",
+    "value": 3594,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 92,
+    "freguesia": "Mozelos",
+    "value": 7297,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 93,
+    "freguesia": "Nogueira da Regedoura",
+    "value": 5740,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 94,
+    "freguesia": "Paços de Brandão",
+    "value": 4775,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 95,
+    "freguesia": "Rio Meão",
+    "value": 4814,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 96,
+    "freguesia": "Romariz",
+    "value": 2739,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 97,
+    "freguesia": "Sanguedo",
+    "value": 3475,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 98,
+    "freguesia": "Santa Maria de Lamas",
+    "value": 4748,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 99,
+    "freguesia": "São João de Ver",
+    "value": 11029,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 100,
+    "freguesia": "São Paio de Oleiros",
+    "value": 3661,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 101,
+    "freguesia": "União das freguesias de Caldas de São Jorge e Pigeiros",
+    "value": 3689,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 102,
+    "freguesia": "União das freguesias de Canedo, Vale e Vila Maior",
+    "value": 8882,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 103,
+    "freguesia": "União das freguesias de Lobão, Gião, Louredo e Guisande",
+    "value": 9649,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 104,
+    "freguesia": "União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo",
+    "value": 19792,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 105,
+    "freguesia": "União de freguesias de São Miguel de Souto e Mosteirô",
+    "value": 6482,
+    "concelho": "Santa Maria da Feira"
+  },
+  {
+    "id": 106,
+    "freguesia": "Agrela",
+    "value": 1486,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 107,
+    "freguesia": "Água Longa",
+    "value": 2342,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 108,
+    "freguesia": "Aves",
+    "value": 7948,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 109,
+    "freguesia": "Monte Córdova",
+    "value": 3850,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 110,
+    "freguesia": "Negrelos (São Tomé)",
+    "value": 3755,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 111,
+    "freguesia": "Rebordões",
+    "value": 3130,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 112,
+    "freguesia": "Reguenga",
+    "value": 1427,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 113,
+    "freguesia": "Roriz",
+    "value": 3308,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 114,
+    "freguesia": "União das freguesias de Areias, Sequeiró, Lama e Palmeira",
+    "value": 6369,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 115,
+    "freguesia": "Vila Nova do Campo",
+    "value": 6315,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 116,
+    "freguesia": "União das freguesias de Carreira e Refojos de Riba de Ave",
+    "value": 2042,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 117,
+    "freguesia": "União das freguesias de Lamelas e Guimarei",
+    "value": 1567,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 118,
+    "freguesia": "União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgões",
+    "value": 20595,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 119,
+    "freguesia": "Vilarinho",
+    "value": 3591,
+    "concelho": "Santo Tirso"
+  },
+  {
+    "id": 120,
+    "freguesia": "São João da Madeira",
+    "value": 22144,
+    "concelho": "São João da Madeira"
+  },
+  {
+    "id": 121,
+    "freguesia": "Covelas",
+    "value": 1463,
+    "concelho": "Trofa"
+  },
+  {
+    "id": 122,
+    "freguesia": "Muro",
+    "value": 1840,
+    "concelho": "Trofa"
+  },
+  {
+    "id": 123,
+    "freguesia": "União das freguesias de Alvarelhos e Guidões",
+    "value": 4771,
+    "concelho": "Trofa"
+  },
+  {
+    "id": 124,
+    "freguesia": "União das freguesias de Bougado (São Martinho e Santiago)",
+    "value": 21375,
+    "concelho": "Trofa"
+  },
+  {
+    "id": 125,
+    "freguesia": "União das freguesias de Coronado (São Romão e São Mamede)",
+    "value": 9105,
+    "concelho": "Trofa"
+  },
+  {
+    "id": 126,
+    "freguesia": "Arões",
+    "value": 1169,
+    "concelho": "Vale de Cambra"
+  },
+  {
+    "id": 127,
+    "freguesia": "Cepelos",
+    "value": 1158,
+    "concelho": "Vale de Cambra"
+  },
+  {
+    "id": 128,
+    "freguesia": "Junqueira",
+    "value": 834,
+    "concelho": "Vale de Cambra"
+  },
+  {
+    "id": 129,
+    "freguesia": "Macieira de Cambra",
+    "value": 4391,
+    "concelho": "Vale de Cambra"
+  },
+  {
+    "id": 130,
+    "freguesia": "Roge",
+    "value": 1540,
+    "concelho": "Vale de Cambra"
+  },
+  {
+    "id": 131,
+    "freguesia": "São Pedro de Castelões",
+    "value": 6833,
+    "concelho": "Vale de Cambra"
+  },
+  {
+    "id": 132,
+    "freguesia": "União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho",
+    "value": 5350,
+    "concelho": "Vale de Cambra"
+  },
+  {
+    "id": 133,
+    "freguesia": "Alfena",
+    "value": 14439,
+    "concelho": "Valongo"
+  },
+  {
+    "id": 134,
+    "freguesia": "Ermesinde",
+    "value": 39095,
+    "concelho": "Valongo"
+  },
+  {
+    "id": 135,
+    "freguesia": "União das freguesias de Campo e Sobrado",
+    "value": 15280,
+    "concelho": "Valongo"
+  },
+  {
+    "id": 136,
+    "freguesia": "Valongo",
+    "value": 25883,
+    "concelho": "Valongo"
+  },
+  {
+    "id": 137,
+    "freguesia": "Árvore",
+    "value": 5569,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 138,
+    "freguesia": "Aveleda",
+    "value": 1224,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 139,
+    "freguesia": "Azurara",
+    "value": 2367,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 140,
+    "freguesia": "Fajozes",
+    "value": 1637,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 141,
+    "freguesia": "Gião",
+    "value": 1659,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 142,
+    "freguesia": "Guilhabreu",
+    "value": 2190,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 143,
+    "freguesia": "Junqueira",
+    "value": 1917,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 144,
+    "freguesia": "Labruge",
+    "value": 3000,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 145,
+    "freguesia": "Macieira da Maia",
+    "value": 2491,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 146,
+    "freguesia": "Mindelo",
+    "value": 3988,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 147,
+    "freguesia": "Modivas",
+    "value": 1764,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 148,
+    "freguesia": "União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada",
+    "value": 2662,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 149,
+    "freguesia": "União das freguesias de Fornelo e Vairão",
+    "value": 2413,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 150,
+    "freguesia": "União das freguesias de Malta e Canidelo",
+    "value": 2221,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 151,
+    "freguesia": "União das freguesias de Retorta e Tougues",
+    "value": 2044,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 152,
+    "freguesia": "União das freguesias de Rio Mau e Arcos",
+    "value": 2643,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 153,
+    "freguesia": "União das freguesias de Touguinha e Touguinhó",
+    "value": 3346,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 154,
+    "freguesia": "União das freguesias de Vilar e Mosteiró",
+    "value": 2398,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 155,
+    "freguesia": "Vila Chã",
+    "value": 3404,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 156,
+    "freguesia": "Vila do Conde",
+    "value": 29332,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 157,
+    "freguesia": "Vilar de Pinheiro",
+    "value": 29332,
+    "concelho": "Vila do Conde"
+  },
+  {
+    "id": 158,
+    "freguesia": "Arcozelo",
+    "value": 15145,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 159,
+    "freguesia": "Avintes",
+    "value": 10838,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 160,
+    "freguesia": "Canelas",
+    "value": 13919,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 161,
+    "freguesia": "Canidelo",
+    "value": 28059,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 162,
+    "freguesia": "Madalena",
+    "value": 10553,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 163,
+    "freguesia": "Oliveira do Douro",
+    "value": 22616,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 164,
+    "freguesia": "São Félix da Marinha",
+    "value": 13560,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 165,
+    "freguesia": "União das freguesias de Grijó e Sermonde",
+    "value": 12018,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 166,
+    "freguesia": "União das freguesias de Gulpilhares e Valadares",
+    "value": 22324,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 167,
+    "freguesia": "União das freguesias de Mafamude e Vilar do Paraíso",
+    "value": 52850,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 168,
+    "freguesia": "União das freguesias de Pedroso e Seixezelo",
+    "value": 20229,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 169,
+    "freguesia": "União das freguesias de Sandim, Olival, Lever e Crestuma",
+    "value": 15956,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 170,
+    "freguesia": "União das freguesias de Santa Marinha e São Pedro da Afurada",
+    "value": 34035,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 171,
+    "freguesia": "União das freguesias de Serzedo e Perosinho",
+    "value": 13746,
+    "concelho": "Vila Nova de Gaia"
+  },
+  {
+    "id": 172,
+    "freguesia": "Vilar de Andorinho",
+    "value": 18006,
+    "concelho": "Vila Nova de Gaia"
+  }
+]

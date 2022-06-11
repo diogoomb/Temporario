@@ -1,0 +1,7642 @@
+[
+    {
+      "Concelho": "Área Metropolitana do Porto",
+      "Freguesia": "Área Metropolitana do Porto",
+      "GrupoEtario": "Total",
+      "DADOS2021": 681446,
+      "DADOS2011": 646703,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 5.37
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 443281,
+      "DADOS2011": 436350,
+      "PER2021": 65.05,
+      "PER2011": 67.47,
+      "VAR2111": 1.59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 186061,
+      "DADOS2011": 164738,
+      "PER2021": 27.3,
+      "PER2011": 25.47,
+      "VAR2111": 12.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 52104,
+      "DADOS2011": 45615,
+      "PER2021": 7.65,
+      "PER2011": 7.05,
+      "VAR2111": 14.23
+    },
+    {
+      "Concelho": "Arouca",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 7601,
+      "DADOS2011": 7402,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 2.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 6130,
+      "DADOS2011": 6006,
+      "PER2021": 80.65,
+      "PER2011": 81.14,
+      "VAR2111": 2.06
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 692,
+      "DADOS2011": 619,
+      "PER2021": 9.1,
+      "PER2011": 8.36,
+      "VAR2111": 11.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 779,
+      "DADOS2011": 777,
+      "PER2021": 10.25,
+      "PER2011": 10.5,
+      "VAR2111": 0.26
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alvarenga",
+      "GrupoEtario": "Total",
+      "DADOS2021": 416,
+      "DADOS2011": 451,
+      "PER2021": 6.09,
+      "PER2011": 6.09,
+      "VAR2111": -7.76
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 317,
+      "DADOS2011": 347,
+      "PER2021": 76.2,
+      "PER2011": 76.94,
+      "VAR2111": -8.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 33,
+      "DADOS2011": 31,
+      "PER2021": 7.93,
+      "PER2011": 6.87,
+      "VAR2111": 6.45
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 66,
+      "DADOS2011": 73,
+      "PER2021": 15.87,
+      "PER2011": 16.19,
+      "VAR2111": -9.59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Chave",
+      "GrupoEtario": "Total",
+      "DADOS2021": 455,
+      "DADOS2011": 431,
+      "PER2021": 5.99,
+      "PER2011": 5.82,
+      "VAR2111": 5.57
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 383,
+      "DADOS2011": 378,
+      "PER2021": 84.18,
+      "PER2011": 87.7,
+      "VAR2111": 1.32
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 26,
+      "DADOS2011": 13,
+      "PER2021": 5.71,
+      "PER2011": 3.02,
+      "VAR2111": 100
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 46,
+      "DADOS2011": 40,
+      "PER2021": 10.11,
+      "PER2011": 9.28,
+      "VAR2111": 15
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Escariz",
+      "GrupoEtario": "Total",
+      "DADOS2021": 739,
+      "DADOS2011": 707,
+      "PER2021": 9.72,
+      "PER2011": 9.55,
+      "VAR2111": 4.53
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 598,
+      "DADOS2011": 556,
+      "PER2021": 80.92,
+      "PER2011": 78.64,
+      "VAR2111": 7.55
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 69,
+      "DADOS2011": 66,
+      "PER2021": 9.34,
+      "PER2011": 9.34,
+      "VAR2111": 4.55
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 72,
+      "DADOS2011": 85,
+      "PER2021": 9.74,
+      "PER2011": 12.02,
+      "VAR2111": -15.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fermedo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 464,
+      "DADOS2011": 455,
+      "PER2021": 6.1,
+      "PER2011": 6.15,
+      "VAR2111": 1.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 370,
+      "DADOS2011": 364,
+      "PER2021": 79.74,
+      "PER2011": 80,
+      "VAR2111": 1.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 40,
+      "DADOS2011": 43,
+      "PER2021": 8.62,
+      "PER2011": 9.45,
+      "VAR2111": -6.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 54,
+      "DADOS2011": 48,
+      "PER2021": 11.64,
+      "PER2011": 10.55,
+      "VAR2111": 12.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mansores",
+      "GrupoEtario": "Total",
+      "DADOS2021": 385,
+      "DADOS2011": 350,
+      "PER2021": 5.07,
+      "PER2011": 4.73,
+      "VAR2111": 10
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 319,
+      "DADOS2011": 290,
+      "PER2021": 82.86,
+      "PER2011": 82.86,
+      "VAR2111": 10
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 27,
+      "DADOS2011": 21,
+      "PER2021": 7.01,
+      "PER2011": 6,
+      "VAR2111": 28.57
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 39,
+      "DADOS2011": 39,
+      "PER2021": 10.13,
+      "PER2011": 11.14,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Moldes",
+      "GrupoEtario": "Total",
+      "DADOS2021": 384,
+      "DADOS2011": 388,
+      "PER2021": 5.05,
+      "PER2011": 5.24,
+      "VAR2111": -1.03
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 327,
+      "DADOS2011": 321,
+      "PER2021": 85.16,
+      "PER2011": 82.73,
+      "VAR2111": 1.87
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 9,
+      "DADOS2011": 12,
+      "PER2021": 2.34,
+      "PER2011": 3.09,
+      "VAR2111": -25
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 48,
+      "DADOS2011": 55,
+      "PER2021": 12.5,
+      "PER2011": 14.18,
+      "VAR2111": -12.73
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rossas",
+      "GrupoEtario": "Total",
+      "DADOS2021": 529,
+      "DADOS2011": 524,
+      "PER2021": 6.96,
+      "PER2011": 7.08,
+      "VAR2111": 0.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 459,
+      "DADOS2011": 455,
+      "PER2021": 86.77,
+      "PER2011": 86.83,
+      "VAR2111": 0.88
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 18,
+      "DADOS2011": 20,
+      "PER2021": 3.4,
+      "PER2011": 3.82,
+      "VAR2111": -10
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 52,
+      "DADOS2011": 49,
+      "PER2021": 9.83,
+      "PER2011": 9.35,
+      "VAR2111": 6.12
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Eulália",
+      "GrupoEtario": "Total",
+      "DADOS2021": 756,
+      "DADOS2011": 721,
+      "PER2021": 9.95,
+      "PER2011": 9.74,
+      "VAR2111": 4.85
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 611,
+      "DADOS2011": 582,
+      "PER2021": 80.82,
+      "PER2011": 80.72,
+      "VAR2111": 4.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 53,
+      "DADOS2011": 61,
+      "PER2021": 7.01,
+      "PER2011": 8.46,
+      "VAR2111": -13.11
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 92,
+      "DADOS2011": 78,
+      "PER2021": 12.17,
+      "PER2011": 10.82,
+      "VAR2111": 17.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Miguel do Mato",
+      "GrupoEtario": "Total",
+      "DADOS2021": 197,
+      "DADOS2011": 204,
+      "PER2021": 2.59,
+      "PER2011": 2.76,
+      "VAR2111": -3.43
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 166,
+      "DADOS2011": 182,
+      "PER2021": 84.26,
+      "PER2011": 89.22,
+      "VAR2111": -8.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 3,
+      "DADOS2011": 2,
+      "PER2021": 1.52,
+      "PER2011": 0.98,
+      "VAR2111": 50
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 28,
+      "DADOS2011": 20,
+      "PER2021": 14.21,
+      "PER2011": 9.8,
+      "VAR2111": 40
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Tropeço",
+      "GrupoEtario": "Total",
+      "DADOS2021": 406,
+      "DADOS2011": 402,
+      "PER2021": 5.34,
+      "PER2011": 5.43,
+      "VAR2111": 1
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 349,
+      "DADOS2011": 348,
+      "PER2021": 85.96,
+      "PER2011": 86.57,
+      "VAR2111": 0.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 17,
+      "DADOS2011": 21,
+      "PER2021": 4.19,
+      "PER2011": 5.22,
+      "VAR2111": -19.05
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 40,
+      "DADOS2011": 33,
+      "PER2021": 9.85,
+      "PER2011": 8.21,
+      "VAR2111": 21.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Arouca e Burgo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1823,
+      "DADOS2011": 1679,
+      "PER2021": 23.98,
+      "PER2011": 22.68,
+      "VAR2111": 8.58
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1309,
+      "DADOS2011": 1238,
+      "PER2021": 71.8,
+      "PER2011": 73.73,
+      "VAR2111": 5.74
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 349,
+      "DADOS2011": 284,
+      "PER2021": 19.14,
+      "PER2011": 16.91,
+      "VAR2111": 22.89
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 165,
+      "DADOS2011": 157,
+      "PER2021": 9.05,
+      "PER2011": 9.35,
+      "VAR2111": 5.1
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Cabreiros e Albergaria da Serra",
+      "GrupoEtario": "Total",
+      "DADOS2021": 79,
+      "DADOS2011": 96,
+      "PER2021": 1.04,
+      "PER2011": 1.3,
+      "VAR2111": -17.71
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 74,
+      "DADOS2011": 78,
+      "PER2021": 93.67,
+      "PER2011": 81.25,
+      "VAR2111": -5.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 3,
+      "DADOS2011": 0,
+      "PER2021": 3.8,
+      "PER2011": 0,
+      "VAR2111": 300
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 2,
+      "DADOS2011": 18,
+      "PER2021": 2.53,
+      "PER2011": 18.75,
+      "VAR2111": -88.89
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Canelas e Espiunca",
+      "GrupoEtario": "Total",
+      "DADOS2021": 377,
+      "DADOS2011": 376,
+      "PER2021": 4.96,
+      "PER2011": 5.08,
+      "VAR2111": 0.27
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 336,
+      "DADOS2011": 329,
+      "PER2021": 89.12,
+      "PER2011": 87.5,
+      "VAR2111": 2.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 6,
+      "DADOS2011": 4,
+      "PER2021": 1.59,
+      "PER2011": 1.06,
+      "VAR2111": 50
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 35,
+      "DADOS2011": 43,
+      "PER2021": 9.28,
+      "PER2011": 11.44,
+      "VAR2111": -18.6
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Covelo de Paivó e Janarde",
+      "GrupoEtario": "Total",
+      "DADOS2021": 64,
+      "DADOS2011": 82,
+      "PER2021": 0.84,
+      "PER2011": 1.11,
+      "VAR2111": -21.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 62,
+      "DADOS2011": 77,
+      "PER2021": 96.88,
+      "PER2011": 93.9,
+      "VAR2111": -19.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 0,
+      "DADOS2011": 0,
+      "PER2021": 0,
+      "PER2011": 0,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 2,
+      "DADOS2011": 5,
+      "PER2021": 3.13,
+      "PER2011": 6.1,
+      "VAR2111": -60
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Urrô",
+      "GrupoEtario": "Total",
+      "DADOS2021": 345,
+      "DADOS2011": 354,
+      "PER2021": 4.54,
+      "PER2011": 4.78,
+      "VAR2111": -2.54
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 299,
+      "DADOS2011": 308,
+      "PER2021": 86.67,
+      "PER2011": 87.01,
+      "VAR2111": -2.92
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 22,
+      "DADOS2011": 25,
+      "PER2021": 6.38,
+      "PER2011": 7.06,
+      "VAR2111": -12
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 24,
+      "DADOS2011": 21,
+      "PER2021": 6.96,
+      "PER2011": 5.93,
+      "VAR2111": 14.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Várzea",
+      "GrupoEtario": "Total",
+      "DADOS2021": 182,
+      "DADOS2011": 182,
+      "PER2021": 2.39,
+      "PER2011": 2.46,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 151,
+      "DADOS2011": 153,
+      "PER2021": 82.97,
+      "PER2011": 84.07,
+      "VAR2111": -1.31
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 17,
+      "DADOS2011": 16,
+      "PER2021": 9.34,
+      "PER2011": 8.79,
+      "VAR2111": 6.25
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 14,
+      "DADOS2011": 13,
+      "PER2021": 7.69,
+      "PER2011": 7.14,
+      "VAR2111": 7.69
+    },
+    {
+      "Concelho": "Espinho",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 12488,
+      "DADOS2011": 11931,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 4.67
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 7263,
+      "DADOS2011": 7142,
+      "PER2021": 58.16,
+      "PER2011": 59.86,
+      "VAR2111": 1.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 4018,
+      "DADOS2011": 3564,
+      "PER2021": 32.17,
+      "PER2011": 29.87,
+      "VAR2111": 12.74
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1207,
+      "DADOS2011": 1225,
+      "PER2021": 9.67,
+      "PER2011": 10.27,
+      "VAR2111": -1.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Espinho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 4636,
+      "DADOS2011": 4154,
+      "PER2021": 37.12,
+      "PER2011": 34.82,
+      "VAR2111": 11.6
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2420,
+      "DADOS2011": 2381,
+      "PER2021": 52.2,
+      "PER2011": 57.32,
+      "VAR2111": 1.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1785,
+      "DADOS2011": 1436,
+      "PER2021": 38.5,
+      "PER2011": 34.57,
+      "VAR2111": 24.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 431,
+      "DADOS2011": 337,
+      "PER2021": 9.3,
+      "PER2011": 8.11,
+      "VAR2111": 27.89
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paramos",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1175,
+      "DADOS2011": 1213,
+      "PER2021": 9.41,
+      "PER2011": 10.17,
+      "VAR2111": -3.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 745,
+      "DADOS2011": 752,
+      "PER2021": 63.4,
+      "PER2011": 62,
+      "VAR2111": -0.93
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 300,
+      "DADOS2011": 315,
+      "PER2021": 25.53,
+      "PER2011": 25.97,
+      "VAR2111": -4.76
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 130,
+      "DADOS2011": 146,
+      "PER2021": 11.06,
+      "PER2011": 12.04,
+      "VAR2111": -10.96
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Silvalde",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2310,
+      "DADOS2011": 2325,
+      "PER2021": 0.18,
+      "PER2011": 0.19,
+      "VAR2111": -0.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1287,
+      "DADOS2011": 1270,
+      "PER2021": 55.71,
+      "PER2011": 54.62,
+      "VAR2111": 1.34
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 775,
+      "DADOS2011": 750,
+      "PER2021": 33.55,
+      "PER2011": 32.26,
+      "VAR2111": 3.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 248,
+      "DADOS2011": 305,
+      "PER2021": 10.74,
+      "PER2011": 13.12,
+      "VAR2111": -18.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Anta e Guetim",
+      "GrupoEtario": "Total",
+      "DADOS2021": 4367,
+      "DADOS2011": 4239,
+      "PER2021": 34.97,
+      "PER2011": 35.53,
+      "VAR2111": 3.02
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2811,
+      "DADOS2011": 2739,
+      "PER2021": 64.37,
+      "PER2011": 64.61,
+      "VAR2111": 2.63
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1158,
+      "DADOS2011": 1063,
+      "PER2021": 26.52,
+      "PER2011": 25.08,
+      "VAR2111": 8.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 398,
+      "DADOS2011": 437,
+      "PER2021": 9.11,
+      "PER2011": 10.31,
+      "VAR2111": -8.92
+    },
+    {
+      "Concelho": "Gondomar",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 64036,
+      "DADOS2011": 61103,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 4.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 42493,
+      "DADOS2011": 41422,
+      "PER2021": 66.36,
+      "PER2011": 67.79,
+      "VAR2111": 2.59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 17064,
+      "DADOS2011": 15463,
+      "PER2021": 26.65,
+      "PER2011": 25.31,
+      "VAR2111": 10.35
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 4479,
+      "DADOS2011": 4218,
+      "PER2021": 6.99,
+      "PER2011": 6.9,
+      "VAR2111": 6.19
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Baguim do Monte (Rio Tinto)",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5529,
+      "DADOS2011": 5119,
+      "PER2021": 8.63,
+      "PER2011": 8.38,
+      "VAR2111": 8.01
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 3883,
+      "DADOS2011": 3723,
+      "PER2021": 70.23,
+      "PER2011": 72.73,
+      "VAR2111": 4.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1305,
+      "DADOS2011": 1104,
+      "PER2021": 23.6,
+      "PER2011": 21.57,
+      "VAR2111": 18.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 341,
+      "DADOS2011": 292,
+      "PER2021": 6.17,
+      "PER2011": 5.7,
+      "VAR2111": 16.78
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lomba",
+      "GrupoEtario": "Total",
+      "DADOS2021": 486,
+      "DADOS2011": 495,
+      "PER2021": 0.76,
+      "PER2011": 0.81,
+      "VAR2111": -1.82
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 381,
+      "DADOS2011": 394,
+      "PER2021": 78.4,
+      "PER2011": 79.6,
+      "VAR2111": -3.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 52,
+      "DADOS2011": 56,
+      "PER2021": 10.7,
+      "PER2011": 11.31,
+      "VAR2111": -7.14
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 53,
+      "DADOS2011": 45,
+      "PER2021": 10.91,
+      "PER2011": 9.09,
+      "VAR2111": 17.78
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Tinto",
+      "GrupoEtario": "Total",
+      "DADOS2021": 20851,
+      "DADOS2011": 19490,
+      "PER2021": 32.56,
+      "PER2011": 31.9,
+      "VAR2111": 6.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 13461,
+      "DADOS2011": 13167,
+      "PER2021": 64.56,
+      "PER2011": 67.56,
+      "VAR2111": 2.23
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 6219,
+      "DADOS2011": 5427,
+      "PER2021": 29.83,
+      "PER2011": 27.85,
+      "VAR2111": 14.59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1171,
+      "DADOS2011": 896,
+      "PER2021": 5.62,
+      "PER2011": 4.6,
+      "VAR2111": 30.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Fânzeres e São Pedro da Cova",
+      "GrupoEtario": "Total",
+      "DADOS2021": 14387,
+      "DADOS2011": 13962,
+      "PER2021": 22.47,
+      "PER2011": 22.85,
+      "VAR2111": 3.04
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 9309,
+      "DADOS2011": 9175,
+      "PER2021": 64.7,
+      "PER2011": 65.71,
+      "VAR2111": 1.46
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 3875,
+      "DADOS2011": 3529,
+      "PER2021": 26.93,
+      "PER2011": 25.28,
+      "VAR2111": 9.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1203,
+      "DADOS2011": 1258,
+      "PER2021": 8.36,
+      "PER2011": 9.01,
+      "VAR2111": -4.37
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Foz do Sousa e Covelo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2515,
+      "DADOS2011": 2539,
+      "PER2021": 3.93,
+      "PER2011": 4.16,
+      "VAR2111": -0.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1890,
+      "DADOS2011": 1837,
+      "PER2021": 75.15,
+      "PER2011": 72.35,
+      "VAR2111": 2.89
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 345,
+      "DADOS2011": 351,
+      "PER2021": 13.72,
+      "PER2011": 13.82,
+      "VAR2111": -1.71
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 280,
+      "DADOS2011": 351,
+      "PER2021": 11.13,
+      "PER2011": 13.82,
+      "VAR2111": -20.23
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Gondomar (São Cosme), Valbom e Jovim",
+      "GrupoEtario": "Total",
+      "DADOS2021": 18456,
+      "DADOS2011": 17666,
+      "PER2021": 28.82,
+      "PER2011": 28.91,
+      "VAR2111": 4.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 12180,
+      "DADOS2011": 11750,
+      "PER2021": 65.99,
+      "PER2011": 66.51,
+      "VAR2111": 3.66
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5023,
+      "DADOS2011": 4747,
+      "PER2021": 27.22,
+      "PER2011": 26.87,
+      "VAR2111": 5.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1253,
+      "DADOS2011": 1169,
+      "PER2021": 6.79,
+      "PER2011": 6.62,
+      "VAR2111": 7.19
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Melres e Medas",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1812,
+      "DADOS2011": 1832,
+      "PER2021": 2.83,
+      "PER2011": 3,
+      "VAR2111": -1.09
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1389,
+      "DADOS2011": 1376,
+      "PER2021": 76.66,
+      "PER2011": 75.11,
+      "VAR2111": 0.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 245,
+      "DADOS2011": 249,
+      "PER2021": 13.52,
+      "PER2011": 13.59,
+      "VAR2111": -1.61
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 178,
+      "DADOS2011": 207,
+      "PER2021": 9.82,
+      "PER2011": 11.3,
+      "VAR2111": -14.01
+    },
+    {
+      "Concelho": "Maia",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 52100,
+      "DADOS2011": 49827,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 4.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 35901,
+      "DADOS2011": 35792,
+      "PER2021": 68.91,
+      "PER2011": 71.83,
+      "VAR2111": 0.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 12927,
+      "DADOS2011": 11191,
+      "PER2021": 24.81,
+      "PER2011": 22.46,
+      "VAR2111": 15.51
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 3272,
+      "DADOS2011": 2844,
+      "PER2021": 6.28,
+      "PER2011": 5.71,
+      "VAR2111": 15.05
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Águas Santas",
+      "GrupoEtario": "Total",
+      "DADOS2021": 10511,
+      "DADOS2011": 10260,
+      "PER2021": 20.17,
+      "PER2011": 20.59,
+      "VAR2111": 2.45
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 7261,
+      "DADOS2011": 7375,
+      "PER2021": 69.08,
+      "PER2011": 71.88,
+      "VAR2111": -1.55
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2640,
+      "DADOS2011": 2394,
+      "PER2021": 25.12,
+      "PER2011": 23.33,
+      "VAR2111": 10.28
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 610,
+      "DADOS2011": 491,
+      "PER2021": 5.8,
+      "PER2011": 4.79,
+      "VAR2111": 24.24
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Castêlo da Maia",
+      "GrupoEtario": "Total",
+      "DADOS2021": 6879,
+      "DADOS2011": 6482,
+      "PER2021": 13.2,
+      "PER2011": 13.01,
+      "VAR2111": 6.12
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 4739,
+      "DADOS2011": 4650,
+      "PER2021": 68.89,
+      "PER2011": 71.74,
+      "VAR2111": 1.91
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1647,
+      "DADOS2011": 1377,
+      "PER2021": 23.94,
+      "PER2011": 21.24,
+      "VAR2111": 19.61
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 493,
+      "DADOS2011": 455,
+      "PER2021": 7.17,
+      "PER2011": 7.02,
+      "VAR2111": 8.35
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cidade da Maia",
+      "GrupoEtario": "Total",
+      "DADOS2021": 15959,
+      "DADOS2011": 15030,
+      "PER2021": 30.63,
+      "PER2011": 30.16,
+      "VAR2111": 6.18
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 11142,
+      "DADOS2011": 11233,
+      "PER2021": 69.82,
+      "PER2011": 74.74,
+      "VAR2111": -0.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 3895,
+      "DADOS2011": 3040,
+      "PER2021": 24.41,
+      "PER2011": 20.23,
+      "VAR2111": 28.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 922,
+      "DADOS2011": 757,
+      "PER2021": 5.78,
+      "PER2011": 5.04,
+      "VAR2111": 21.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Folgosa",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1256,
+      "DADOS2011": 1252,
+      "PER2021": 2.41,
+      "PER2011": 2.51,
+      "VAR2111": 0.32
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 884,
+      "DADOS2011": 874,
+      "PER2021": 70.38,
+      "PER2011": 69.81,
+      "VAR2111": 1.14
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 250,
+      "DADOS2011": 264,
+      "PER2021": 19.9,
+      "PER2011": 21.09,
+      "VAR2111": -5.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 122,
+      "DADOS2011": 114,
+      "PER2021": 9.71,
+      "PER2011": 9.11,
+      "VAR2111": 7.02
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Milheirós",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1764,
+      "DADOS2011": 1716,
+      "PER2021": 3.39,
+      "PER2011": 3.44,
+      "VAR2111": 2.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1223,
+      "DADOS2011": 1186,
+      "PER2021": 69.33,
+      "PER2011": 69.11,
+      "VAR2111": 3.12
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 426,
+      "DADOS2011": 432,
+      "PER2021": 24.15,
+      "PER2011": 25.17,
+      "VAR2111": -1.39
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 115,
+      "DADOS2011": 98,
+      "PER2021": 6.52,
+      "PER2011": 5.71,
+      "VAR2111": 17.35
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Moreira",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5078,
+      "DADOS2011": 4787,
+      "PER2021": 9.75,
+      "PER2011": 9.61,
+      "VAR2111": 6.08
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 3600,
+      "DADOS2011": 3538,
+      "PER2021": 70.89,
+      "PER2011": 73.91,
+      "VAR2111": 1.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1168,
+      "DADOS2011": 977,
+      "PER2021": 23,
+      "PER2011": 20.41,
+      "VAR2111": 19.55
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 310,
+      "DADOS2011": 272,
+      "PER2021": 6.1,
+      "PER2011": 5.68,
+      "VAR2111": 13.97
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira e Silva Escura",
+      "GrupoEtario": "Total",
+      "DADOS2021": 3054,
+      "DADOS2011": 2815,
+      "PER2021": 5.86,
+      "PER2011": 5.65,
+      "VAR2111": 8.49
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2168,
+      "DADOS2011": 2033,
+      "PER2021": 70.99,
+      "PER2011": 72.22,
+      "VAR2111": 6.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 692,
+      "DADOS2011": 610,
+      "PER2021": 22.66,
+      "PER2011": 21.67,
+      "VAR2111": 13.44
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 194,
+      "DADOS2011": 172,
+      "PER2021": 6.35,
+      "PER2011": 6.11,
+      "VAR2111": 12.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Pedrouços",
+      "GrupoEtario": "Total",
+      "DADOS2021": 4772,
+      "DADOS2011": 4808,
+      "PER2021": 9.16,
+      "PER2011": 9.65,
+      "VAR2111": -0.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2781,
+      "DADOS2011": 2860,
+      "PER2021": 58.28,
+      "PER2011": 59.48,
+      "VAR2111": -2.76
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1651,
+      "DADOS2011": 1605,
+      "PER2021": 34.6,
+      "PER2011": 33.38,
+      "VAR2111": 2.87
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 340,
+      "DADOS2011": 343,
+      "PER2021": 7.12,
+      "PER2011": 7.13,
+      "VAR2111": -0.87
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro Fins",
+      "GrupoEtario": "Total",
+      "DADOS2021": 626,
+      "DADOS2011": 594,
+      "PER2021": 1.2,
+      "PER2011": 1.19,
+      "VAR2111": 5.39
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 436,
+      "DADOS2011": 412,
+      "PER2021": 69.65,
+      "PER2011": 69.36,
+      "VAR2111": 5.83
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 144,
+      "DADOS2011": 138,
+      "PER2021": 23,
+      "PER2011": 23.23,
+      "VAR2111": 4.35
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 46,
+      "DADOS2011": 44,
+      "PER2021": 7.35,
+      "PER2011": 7.41,
+      "VAR2111": 4.55
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Nova da Telha",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2201,
+      "DADOS2011": 2083,
+      "PER2021": 4.22,
+      "PER2011": 4.18,
+      "VAR2111": 5.66
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1667,
+      "DADOS2011": 1631,
+      "PER2021": 75.74,
+      "PER2011": 78.3,
+      "VAR2111": 2.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 414,
+      "DADOS2011": 354,
+      "PER2021": 18.81,
+      "PER2011": 16.99,
+      "VAR2111": 16.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 120,
+      "DADOS2011": 98,
+      "PER2021": 5.45,
+      "PER2011": 4.7,
+      "VAR2111": 22.45
+    },
+    {
+      "Concelho": "Matosinhos",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 69980,
+      "DADOS2011": 67188,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 4.16
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 44456,
+      "DADOS2011": 44511,
+      "PER2021": 63.53,
+      "PER2011": 66.25,
+      "VAR2111": -0.12
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 20767,
+      "DADOS2011": 18637,
+      "PER2021": 29.68,
+      "PER2011": 27.74,
+      "VAR2111": 11.43
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 4757,
+      "DADOS2011": 4040,
+      "PER2021": 6.8,
+      "PER2011": 6.01,
+      "VAR2111": 17.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Custóias, Leça do Balio e Guifões",
+      "GrupoEtario": "Total",
+      "DADOS2021": 17061,
+      "DADOS2011": 16759,
+      "PER2021": 24.38,
+      "PER2011": 24.94,
+      "VAR2111": 1.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 10825,
+      "DADOS2011": 10744,
+      "PER2021": 63.45,
+      "PER2011": 64.11,
+      "VAR2111": 0.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5175,
+      "DADOS2011": 4966,
+      "PER2021": 30.33,
+      "PER2011": 29.63,
+      "VAR2111": 4.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1061,
+      "DADOS2011": 1049,
+      "PER2021": 6.22,
+      "PER2011": 6.26,
+      "VAR2111": 1.14
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Matosinhos e Leça da Palmeira",
+      "GrupoEtario": "Total",
+      "DADOS2021": 20510,
+      "DADOS2011": 19577,
+      "PER2021": 29.31,
+      "PER2011": 29.14,
+      "VAR2111": 4.77
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 12651,
+      "DADOS2011": 12611,
+      "PER2021": 61.68,
+      "PER2011": 64.42,
+      "VAR2111": 0.32
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 6490,
+      "DADOS2011": 5869,
+      "PER2021": 31.64,
+      "PER2011": 29.98,
+      "VAR2111": 10.58
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1369,
+      "DADOS2011": 1097,
+      "PER2021": 6.67,
+      "PER2011": 5.6,
+      "VAR2111": 24.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Perafita, Lavra e Santa Cruz do Bispo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 11182,
+      "DADOS2011": 10560,
+      "PER2021": 15.98,
+      "PER2011": 15.72,
+      "VAR2111": 5.89
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 6972,
+      "DADOS2011": 6756,
+      "PER2021": 62.35,
+      "PER2011": 63.98,
+      "VAR2111": 3.2
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 3295,
+      "DADOS2011": 2978,
+      "PER2021": 29.47,
+      "PER2011": 28.2,
+      "VAR2111": 10.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 915,
+      "DADOS2011": 826,
+      "PER2021": 8.18,
+      "PER2011": 7.82,
+      "VAR2111": 10.77
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de São Mamede de Infesta e Senhora da Hora",
+      "GrupoEtario": "Total",
+      "DADOS2021": 21227,
+      "DADOS2011": 20292,
+      "PER2021": 30.33,
+      "PER2011": 30.2,
+      "VAR2111": 4.61
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 14008,
+      "DADOS2011": 14400,
+      "PER2021": 65.99,
+      "PER2011": 70.96,
+      "VAR2111": -2.72
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5807,
+      "DADOS2011": 4824,
+      "PER2021": 27.36,
+      "PER2011": 23.77,
+      "VAR2111": 20.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1412,
+      "DADOS2011": 1068,
+      "PER2021": 6.65,
+      "PER2011": 5.26,
+      "VAR2111": 32.21
+    },
+    {
+      "Concelho": "Oliveira de Azeméis",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 24897,
+      "DADOS2011": 24102,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 3.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 18239,
+      "DADOS2011": 18112,
+      "PER2021": 73.26,
+      "PER2011": 75.15,
+      "VAR2111": 0.7
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 4804,
+      "DADOS2011": 4091,
+      "PER2021": 19.3,
+      "PER2011": 16.97,
+      "VAR2111": 17.43
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1854,
+      "DADOS2011": 1899,
+      "PER2021": 7.45,
+      "PER2011": 7.88,
+      "VAR2111": -2.37
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Carregosa",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1339,
+      "DADOS2011": 1263,
+      "PER2021": 5.38,
+      "PER2011": 5.24,
+      "VAR2111": 6.02
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 997,
+      "DADOS2011": 1000,
+      "PER2021": 74.46,
+      "PER2011": 79.18,
+      "VAR2111": -0.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 231,
+      "DADOS2011": 160,
+      "PER2021": 17.25,
+      "PER2011": 12.67,
+      "VAR2111": 44.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 111,
+      "DADOS2011": 103,
+      "PER2021": 8.29,
+      "PER2011": 8.16,
+      "VAR2111": 7.77
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cesar",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1185,
+      "DADOS2011": 1135,
+      "PER2021": 4.76,
+      "PER2011": 4.71,
+      "VAR2111": 4.41
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 887,
+      "DADOS2011": 854,
+      "PER2021": 74.85,
+      "PER2011": 75.24,
+      "VAR2111": 3.86
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 198,
+      "DADOS2011": 154,
+      "PER2021": 16.71,
+      "PER2011": 13.57,
+      "VAR2111": 28.57
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 100,
+      "DADOS2011": 127,
+      "PER2021": 8.44,
+      "PER2011": 11.19,
+      "VAR2111": -21.26
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fajões",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1052,
+      "DADOS2011": 1064,
+      "PER2021": 4.23,
+      "PER2011": 4.41,
+      "VAR2111": -1.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 793,
+      "DADOS2011": 832,
+      "PER2021": 75.38,
+      "PER2011": 78.2,
+      "VAR2111": -4.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 158,
+      "DADOS2011": 115,
+      "PER2021": 15.02,
+      "PER2011": 10.81,
+      "VAR2111": 37.39
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 101,
+      "DADOS2011": 117,
+      "PER2021": 9.6,
+      "PER2011": 11,
+      "VAR2111": -13.68
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Loureiro",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1301,
+      "DADOS2011": 1179,
+      "PER2021": 5.23,
+      "PER2011": 4.89,
+      "VAR2111": 10.35
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1049,
+      "DADOS2011": 1001,
+      "PER2021": 80.63,
+      "PER2011": 84.9,
+      "VAR2111": 4.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 154,
+      "DADOS2011": 98,
+      "PER2021": 11.84,
+      "PER2011": 8.31,
+      "VAR2111": 57.14
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 98,
+      "DADOS2011": 80,
+      "PER2021": 7.53,
+      "PER2011": 6.79,
+      "VAR2111": 22.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira de Sarnes",
+      "GrupoEtario": "Total",
+      "DADOS2021": 722,
+      "DADOS2011": 690,
+      "PER2021": 2.9,
+      "PER2011": 2.86,
+      "VAR2111": 4.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 488,
+      "DADOS2011": 479,
+      "PER2021": 67.59,
+      "PER2011": 69.42,
+      "VAR2111": 1.88
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 187,
+      "DADOS2011": 150,
+      "PER2021": 25.9,
+      "PER2011": 21.74,
+      "VAR2111": 24.67
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 47,
+      "DADOS2011": 61,
+      "PER2021": 6.51,
+      "PER2011": 8.84,
+      "VAR2111": -22.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ossela",
+      "GrupoEtario": "Total",
+      "DADOS2021": 724,
+      "DADOS2011": 772,
+      "PER2021": 2.91,
+      "PER2011": 3.2,
+      "VAR2111": -6.22
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 612,
+      "DADOS2011": 634,
+      "PER2021": 84.53,
+      "PER2011": 82.12,
+      "VAR2111": -3.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 64,
+      "DADOS2011": 87,
+      "PER2021": 8.84,
+      "PER2011": 11.27,
+      "VAR2111": -26.44
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 48,
+      "DADOS2011": 51,
+      "PER2021": 6.63,
+      "PER2011": 6.61,
+      "VAR2111": -5.88
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Martinho da Gândara",
+      "GrupoEtario": "Total",
+      "DADOS2021": 660,
+      "DADOS2011": 649,
+      "PER2021": 2.65,
+      "PER2011": 2.69,
+      "VAR2111": 1.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 534,
+      "DADOS2011": 541,
+      "PER2021": 80.91,
+      "PER2011": 83.36,
+      "VAR2111": -1.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 74,
+      "DADOS2011": 71,
+      "PER2021": 11.21,
+      "PER2011": 10.94,
+      "VAR2111": 4.23
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 52,
+      "DADOS2011": 37,
+      "PER2021": 7.88,
+      "PER2011": 5.7,
+      "VAR2111": 40.54
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Roque",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1891,
+      "DADOS2011": 1829,
+      "PER2021": 7.6,
+      "PER2011": 7.59,
+      "VAR2111": 3.39
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1421,
+      "DADOS2011": 1380,
+      "PER2021": 75.15,
+      "PER2011": 75.45,
+      "VAR2111": 2.97
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 296,
+      "DADOS2011": 286,
+      "PER2021": 15.65,
+      "PER2011": 15.64,
+      "VAR2111": 3.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 174,
+      "DADOS2011": 163,
+      "PER2021": 9.2,
+      "PER2011": 8.91,
+      "VAR2111": 6.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Nogueira do Cravo e Pindelo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1944,
+      "DADOS2011": 1902,
+      "PER2021": 7.81,
+      "PER2011": 7.89,
+      "VAR2111": 2.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1492,
+      "DADOS2011": 1499,
+      "PER2021": 76.75,
+      "PER2011": 78.81,
+      "VAR2111": -0.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 265,
+      "DADOS2011": 223,
+      "PER2021": 13.63,
+      "PER2011": 11.72,
+      "VAR2111": 18.83
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 187,
+      "DADOS2011": 180,
+      "PER2021": 9.62,
+      "PER2011": 9.46,
+      "VAR2111": 3.89
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",
+      "GrupoEtario": "Total",
+      "DADOS2021": 7926,
+      "DADOS2011": 7402,
+      "PER2021": 31.84,
+      "PER2011": 30.71,
+      "VAR2111": 7.08
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5368,
+      "DADOS2011": 5221,
+      "PER2021": 67.73,
+      "PER2011": 70.53,
+      "VAR2111": 2.82
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2061,
+      "DADOS2011": 1687,
+      "PER2021": 26,
+      "PER2011": 22.79,
+      "VAR2111": 22.17
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 497,
+      "DADOS2011": 494,
+      "PER2021": 6.27,
+      "PER2011": 6.67,
+      "VAR2111": 0.61
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2449,
+      "DADOS2011": 2483,
+      "PER2021": 9.84,
+      "PER2011": 10.3,
+      "VAR2111": -1.37
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1997,
+      "DADOS2011": 2044,
+      "PER2021": 81.54,
+      "PER2011": 82.32,
+      "VAR2111": -2.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 267,
+      "DADOS2011": 245,
+      "PER2021": 10.9,
+      "PER2011": 9.87,
+      "VAR2111": 8.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 185,
+      "DADOS2011": 194,
+      "PER2021": 7.55,
+      "PER2011": 7.81,
+      "VAR2111": -4.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila de Cucujães",
+      "GrupoEtario": "Total",
+      "DADOS2021": 3704,
+      "DADOS2011": 3734,
+      "PER2021": 14.88,
+      "PER2011": 15.49,
+      "VAR2111": -0.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2601,
+      "DADOS2011": 2627,
+      "PER2021": 70.22,
+      "PER2011": 70.35,
+      "VAR2111": -0.99
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 849,
+      "DADOS2011": 815,
+      "PER2021": 22.92,
+      "PER2011": 21.83,
+      "VAR2111": 4.17
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 254,
+      "DADOS2011": 292,
+      "PER2021": 6.86,
+      "PER2011": 7.82,
+      "VAR2111": -13.01
+    },
+    {
+      "Concelho": "Paredes",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 30112,
+      "DADOS2011": 28032,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 7.42
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 20865,
+      "DADOS2011": 20038,
+      "PER2021": 69.29,
+      "PER2011": 71.48,
+      "VAR2111": 4.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5686,
+      "DADOS2011": 4967,
+      "PER2021": 18.88,
+      "PER2011": 17.72,
+      "VAR2111": 14.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 3561,
+      "DADOS2011": 3027,
+      "PER2021": 11.83,
+      "PER2011": 10.8,
+      "VAR2111": 17.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aguiar de Sousa",
+      "GrupoEtario": "Total",
+      "DADOS2021": 562,
+      "DADOS2011": 511,
+      "PER2021": 1.87,
+      "PER2011": 1.82,
+      "VAR2111": 9.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 467,
+      "DADOS2011": 426,
+      "PER2021": 83.1,
+      "PER2011": 83.37,
+      "VAR2111": 9.62
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 49,
+      "DADOS2011": 30,
+      "PER2021": 8.72,
+      "PER2011": 5.87,
+      "VAR2111": 63.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 46,
+      "DADOS2011": 55,
+      "PER2021": 8.19,
+      "PER2011": 10.76,
+      "VAR2111": -16.36
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Astromil",
+      "GrupoEtario": "Total",
+      "DADOS2021": 375,
+      "DADOS2011": 345,
+      "PER2021": 1.25,
+      "PER2011": 1.23,
+      "VAR2111": 8.7
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 284,
+      "DADOS2011": 263,
+      "PER2021": 75.73,
+      "PER2011": 76.23,
+      "VAR2111": 7.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 50,
+      "DADOS2011": 47,
+      "PER2021": 13.33,
+      "PER2011": 13.62,
+      "VAR2111": 6.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 41,
+      "DADOS2011": 35,
+      "PER2021": 10.93,
+      "PER2011": 10.14,
+      "VAR2111": 17.14
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Baltar",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1766,
+      "DADOS2011": 1647,
+      "PER2021": 5.86,
+      "PER2011": 5.88,
+      "VAR2111": 7.23
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1175,
+      "DADOS2011": 1142,
+      "PER2021": 66.53,
+      "PER2011": 69.34,
+      "VAR2111": 2.89
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 391,
+      "DADOS2011": 315,
+      "PER2021": 22.14,
+      "PER2011": 19.13,
+      "VAR2111": 24.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 200,
+      "DADOS2011": 190,
+      "PER2021": 11.33,
+      "PER2011": 11.54,
+      "VAR2111": 5.26
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Beire",
+      "GrupoEtario": "Total",
+      "DADOS2021": 679,
+      "DADOS2011": 626,
+      "PER2021": 2.25,
+      "PER2011": 2.23,
+      "VAR2111": 8.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 463,
+      "DADOS2011": 443,
+      "PER2021": 68.19,
+      "PER2011": 70.77,
+      "VAR2111": 4.51
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 137,
+      "DADOS2011": 120,
+      "PER2021": 20.18,
+      "PER2011": 19.17,
+      "VAR2111": 14.17
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 79,
+      "DADOS2011": 63,
+      "PER2021": 11.63,
+      "PER2011": 10.06,
+      "VAR2111": 25.4
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cete",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1130,
+      "DADOS2011": 1058,
+      "PER2021": 3.75,
+      "PER2011": 3.77,
+      "VAR2111": 6.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 818,
+      "DADOS2011": 815,
+      "PER2021": 72.39,
+      "PER2011": 77.03,
+      "VAR2111": 0.37
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 217,
+      "DADOS2011": 169,
+      "PER2021": 19.2,
+      "PER2011": 15.97,
+      "VAR2111": 28.4
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 95,
+      "DADOS2011": 74,
+      "PER2021": 8.41,
+      "PER2011": 6.99,
+      "VAR2111": 28.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cristelo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 634,
+      "DADOS2011": 590,
+      "PER2021": 2.11,
+      "PER2011": 2.1,
+      "VAR2111": 7.46
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 363,
+      "DADOS2011": 358,
+      "PER2021": 57.26,
+      "PER2011": 60.68,
+      "VAR2111": 1.4
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 201,
+      "DADOS2011": 187,
+      "PER2021": 31.7,
+      "PER2011": 31.69,
+      "VAR2111": 7.49
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 70,
+      "DADOS2011": 45,
+      "PER2021": 11.04,
+      "PER2011": 7.63,
+      "VAR2111": 55.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Duas Igrejas",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1233,
+      "DADOS2011": 1159,
+      "PER2021": 4.09,
+      "PER2011": 4.13,
+      "VAR2111": 6.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 736,
+      "DADOS2011": 691,
+      "PER2021": 59.69,
+      "PER2011": 59.62,
+      "VAR2111": 6.51
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 310,
+      "DADOS2011": 313,
+      "PER2021": 25.14,
+      "PER2011": 27.01,
+      "VAR2111": -0.96
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 187,
+      "DADOS2011": 155,
+      "PER2021": 15.17,
+      "PER2011": 13.37,
+      "VAR2111": 20.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gandra",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2428,
+      "DADOS2011": 2287,
+      "PER2021": 8.06,
+      "PER2011": 8.16,
+      "VAR2111": 6.17
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1911,
+      "DADOS2011": 1879,
+      "PER2021": 78.71,
+      "PER2011": 82.16,
+      "VAR2111": 1.7
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 304,
+      "DADOS2011": 209,
+      "PER2021": 12.52,
+      "PER2011": 9.14,
+      "VAR2111": 45.45
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 213,
+      "DADOS2011": 199,
+      "PER2021": 8.77,
+      "PER2011": 8.7,
+      "VAR2111": 7.04
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lordelo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 3237,
+      "DADOS2011": 3128,
+      "PER2021": 10.75,
+      "PER2011": 11.16,
+      "VAR2111": 3.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1904,
+      "DADOS2011": 1921,
+      "PER2021": 58.82,
+      "PER2011": 61.41,
+      "VAR2111": -0.88
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 775,
+      "DADOS2011": 772,
+      "PER2021": 23.94,
+      "PER2011": 24.68,
+      "VAR2111": 0.39
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 558,
+      "DADOS2011": 435,
+      "PER2021": 17.24,
+      "PER2011": 13.91,
+      "VAR2111": 28.28
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Louredo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 484,
+      "DADOS2011": 488,
+      "PER2021": 1.61,
+      "PER2011": 1.74,
+      "VAR2111": -0.82
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 345,
+      "DADOS2011": 354,
+      "PER2021": 71.28,
+      "PER2011": 72.54,
+      "VAR2111": -2.54
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 64,
+      "DADOS2011": 81,
+      "PER2021": 13.22,
+      "PER2011": 16.6,
+      "VAR2111": -20.99
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 75,
+      "DADOS2011": 53,
+      "PER2021": 15.5,
+      "PER2011": 10.86,
+      "VAR2111": 41.51
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Parada de Todeia",
+      "GrupoEtario": "Total",
+      "DADOS2021": 668,
+      "DADOS2011": 604,
+      "PER2021": 2.22,
+      "PER2011": 2.15,
+      "VAR2111": 10.6
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 477,
+      "DADOS2011": 452,
+      "PER2021": 71.41,
+      "PER2011": 74.83,
+      "VAR2111": 5.53
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 98,
+      "DADOS2011": 77,
+      "PER2021": 14.67,
+      "PER2011": 12.75,
+      "VAR2111": 27.27
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 93,
+      "DADOS2011": 75,
+      "PER2021": 13.92,
+      "PER2011": 12.42,
+      "VAR2111": 24
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paredes",
+      "GrupoEtario": "Total",
+      "DADOS2021": 7565,
+      "DADOS2011": 6729,
+      "PER2021": 25.12,
+      "PER2011": 24,
+      "VAR2111": 12.42
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5214,
+      "DADOS2011": 4794,
+      "PER2021": 68.92,
+      "PER2011": 71.24,
+      "VAR2111": 8.76
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1662,
+      "DADOS2011": 1360,
+      "PER2021": 21.97,
+      "PER2011": 20.21,
+      "VAR2111": 22.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 689,
+      "DADOS2011": 575,
+      "PER2021": 9.11,
+      "PER2011": 8.55,
+      "VAR2111": 19.83
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rebordosa",
+      "GrupoEtario": "Total",
+      "DADOS2021": 3033,
+      "DADOS2011": 2879,
+      "PER2021": 10.07,
+      "PER2011": 10.27,
+      "VAR2111": 5.35
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2042,
+      "DADOS2011": 1970,
+      "PER2021": 67.33,
+      "PER2011": 68.43,
+      "VAR2111": 3.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 546,
+      "DADOS2011": 502,
+      "PER2021": 18,
+      "PER2011": 17.44,
+      "VAR2111": 8.76
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 445,
+      "DADOS2011": 407,
+      "PER2021": 14.67,
+      "PER2011": 14.14,
+      "VAR2111": 9.34
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Recarei",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1564,
+      "DADOS2011": 1499,
+      "PER2021": 5.19,
+      "PER2011": 5.35,
+      "VAR2111": 4.34
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1213,
+      "DADOS2011": 1128,
+      "PER2021": 77.56,
+      "PER2011": 75.25,
+      "VAR2111": 7.54
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 152,
+      "DADOS2011": 142,
+      "PER2021": 9.72,
+      "PER2011": 9.47,
+      "VAR2111": 7.04
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 199,
+      "DADOS2011": 229,
+      "PER2021": 12.72,
+      "PER2011": 15.28,
+      "VAR2111": -13.1
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobreira",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1483,
+      "DADOS2011": 1483,
+      "PER2021": 4.92,
+      "PER2011": 5.29,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1253,
+      "DADOS2011": 1187,
+      "PER2021": 84.49,
+      "PER2011": 80.04,
+      "VAR2111": 5.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 110,
+      "DADOS2011": 93,
+      "PER2021": 7.42,
+      "PER2011": 6.27,
+      "VAR2111": 18.28
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 120,
+      "DADOS2011": 117,
+      "PER2021": 8.09,
+      "PER2011": 7.89,
+      "VAR2111": 2.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sobrosa",
+      "GrupoEtario": "Total",
+      "DADOS2021": 872,
+      "DADOS2011": 811,
+      "PER2021": 2.9,
+      "PER2011": 2.89,
+      "VAR2111": 7.52
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 574,
+      "DADOS2011": 584,
+      "PER2021": 65.83,
+      "PER2011": 72.01,
+      "VAR2111": -1.71
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 175,
+      "DADOS2011": 150,
+      "PER2021": 20.07,
+      "PER2011": 18.5,
+      "VAR2111": 16.67
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 123,
+      "DADOS2011": 77,
+      "PER2021": 14.11,
+      "PER2011": 9.49,
+      "VAR2111": 59.74
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vandoma",
+      "GrupoEtario": "Total",
+      "DADOS2021": 803,
+      "DADOS2011": 747,
+      "PER2021": 2.67,
+      "PER2011": 2.66,
+      "VAR2111": 7.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 543,
+      "DADOS2011": 557,
+      "PER2021": 67.62,
+      "PER2011": 74.56,
+      "VAR2111": -2.51
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 142,
+      "DADOS2011": 110,
+      "PER2021": 17.68,
+      "PER2011": 14.73,
+      "VAR2111": 29.09
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 118,
+      "DADOS2011": 80,
+      "PER2021": 14.69,
+      "PER2011": 10.71,
+      "VAR2111": 47.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilela",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1596,
+      "DADOS2011": 1527,
+      "PER2021": 5.3,
+      "PER2011": 5.45,
+      "VAR2111": 4.52
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1083,
+      "DADOS2011": 1074,
+      "PER2021": 67.86,
+      "PER2011": 70.33,
+      "VAR2111": 0.84
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 303,
+      "DADOS2011": 290,
+      "PER2021": 18.98,
+      "PER2011": 18.99,
+      "VAR2111": 4.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 210,
+      "DADOS2011": 163,
+      "PER2021": 13.16,
+      "PER2011": 10.67,
+      "VAR2111": 28.83
+    },
+    {
+      "Concelho": "Porto",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 102106,
+      "DADOS2011": 98669,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 3.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 50163,
+      "DADOS2011": 49986,
+      "PER2021": 49.13,
+      "PER2011": 50.66,
+      "VAR2111": 0.35
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 45106,
+      "DADOS2011": 43302,
+      "PER2021": 44.18,
+      "PER2011": 43.89,
+      "VAR2111": 4.17
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 6837,
+      "DADOS2011": 5381,
+      "PER2021": 6.7,
+      "PER2011": 5.45,
+      "VAR2111": 27.06
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Bonfim",
+      "GrupoEtario": "Total",
+      "DADOS2021": 10853,
+      "DADOS2011": 10683,
+      "PER2021": 10.63,
+      "PER2011": 10.83,
+      "VAR2111": 1.59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5079,
+      "DADOS2011": 5087,
+      "PER2021": 46.8,
+      "PER2011": 47.62,
+      "VAR2111": -0.16
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5060,
+      "DADOS2011": 4981,
+      "PER2021": 46.62,
+      "PER2011": 46.63,
+      "VAR2111": 1.59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 714,
+      "DADOS2011": 615,
+      "PER2021": 6.58,
+      "PER2011": 5.76,
+      "VAR2111": 16.1
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Campanhã",
+      "GrupoEtario": "Total",
+      "DADOS2021": 12586,
+      "DADOS2011": 12763,
+      "PER2021": 12.33,
+      "PER2011": 12.94,
+      "VAR2111": -1.39
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 4959,
+      "DADOS2011": 4962,
+      "PER2021": 39.4,
+      "PER2011": 38.88,
+      "VAR2111": -0.06
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 6934,
+      "DADOS2011": 7202,
+      "PER2021": 55.09,
+      "PER2011": 56.43,
+      "VAR2111": -3.72
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 693,
+      "DADOS2011": 599,
+      "PER2021": 5.51,
+      "PER2011": 4.69,
+      "VAR2111": 15.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paranhos",
+      "GrupoEtario": "Total",
+      "DADOS2021": 20836,
+      "DADOS2011": 18880,
+      "PER2021": 20.41,
+      "PER2011": 19.13,
+      "VAR2111": 10.36
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 9536,
+      "DADOS2011": 9525,
+      "PER2021": 45.77,
+      "PER2011": 50.45,
+      "VAR2111": 0.12
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 9905,
+      "DADOS2011": 8338,
+      "PER2021": 47.54,
+      "PER2011": 44.16,
+      "VAR2111": 18.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1395,
+      "DADOS2011": 1017,
+      "PER2021": 6.7,
+      "PER2011": 5.39,
+      "VAR2111": 37.17
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ramalde",
+      "GrupoEtario": "Total",
+      "DADOS2021": 16319,
+      "DADOS2011": 15266,
+      "PER2021": 15.98,
+      "PER2011": 15.47,
+      "VAR2111": 6.9
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 9559,
+      "DADOS2011": 9372,
+      "PER2021": 58.58,
+      "PER2011": 61.39,
+      "VAR2111": 2
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5725,
+      "DADOS2011": 5093,
+      "PER2021": 35.08,
+      "PER2011": 33.36,
+      "VAR2111": 12.41
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1035,
+      "DADOS2011": 801,
+      "PER2021": 6.34,
+      "PER2011": 5.25,
+      "VAR2111": 29.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Aldoar, Foz do Douro e Nevogilde",
+      "GrupoEtario": "Total",
+      "DADOS2021": 11755,
+      "DADOS2011": 11280,
+      "PER2021": 11.51,
+      "PER2011": 11.43,
+      "VAR2111": 4.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 7589,
+      "DADOS2011": 7492,
+      "PER2021": 64.56,
+      "PER2011": 66.42,
+      "VAR2111": 1.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 3332,
+      "DADOS2011": 3124,
+      "PER2021": 28.35,
+      "PER2011": 27.7,
+      "VAR2111": 6.66
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 834,
+      "DADOS2011": 664,
+      "PER2021": 7.09,
+      "PER2011": 5.89,
+      "VAR2111": 25.6
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+      "GrupoEtario": "Total",
+      "DADOS2021": 18022,
+      "DADOS2011": 18261,
+      "PER2021": 17.65,
+      "PER2011": 18.51,
+      "VAR2111": -1.31
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 7135,
+      "DADOS2011": 7296,
+      "PER2021": 39.59,
+      "PER2011": 39.95,
+      "VAR2111": -2.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 9540,
+      "DADOS2011": 9888,
+      "PER2021": 52.94,
+      "PER2011": 54.15,
+      "VAR2111": -3.52
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1347,
+      "DADOS2011": 1077,
+      "PER2021": 7.47,
+      "PER2011": 5.9,
+      "VAR2111": 25.07
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Lordelo do Ouro e Massarelos",
+      "GrupoEtario": "Total",
+      "DADOS2021": 11735,
+      "DADOS2011": 11536,
+      "PER2021": 11.49,
+      "PER2011": 11.69,
+      "VAR2111": 1.73
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 6306,
+      "DADOS2011": 6252,
+      "PER2021": 53.74,
+      "PER2011": 54.2,
+      "VAR2111": 0.86
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 4610,
+      "DADOS2011": 4676,
+      "PER2021": 39.28,
+      "PER2011": 40.53,
+      "VAR2111": -1.41
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 819,
+      "DADOS2011": 608,
+      "PER2021": 6.98,
+      "PER2011": 5.27,
+      "VAR2111": 34.7
+    },
+    {
+      "Concelho": "Póvoa de Varzim",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 23458,
+      "DADOS2011": 21523,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 8.99
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 16514,
+      "DADOS2011": 15829,
+      "PER2021": 70.4,
+      "PER2011": 73.54,
+      "VAR2111": 4.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5004,
+      "DADOS2011": 4057,
+      "PER2021": 21.33,
+      "PER2011": 18.85,
+      "VAR2111": 23.34
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1940,
+      "DADOS2011": 1637,
+      "PER2021": 8.27,
+      "PER2011": 7.61,
+      "VAR2111": 18.51
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Balazar",
+      "GrupoEtario": "Total",
+      "DADOS2021": 825,
+      "DADOS2011": 803,
+      "PER2021": 3.52,
+      "PER2011": 3.73,
+      "VAR2111": 2.74
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 677,
+      "DADOS2011": 662,
+      "PER2021": 82.06,
+      "PER2011": 82.44,
+      "VAR2111": 2.27
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 73,
+      "DADOS2011": 45,
+      "PER2021": 8.85,
+      "PER2011": 5.6,
+      "VAR2111": 62.22
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 75,
+      "DADOS2011": 96,
+      "PER2021": 9.09,
+      "PER2011": 11.96,
+      "VAR2111": -21.88
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Estela",
+      "GrupoEtario": "Total",
+      "DADOS2021": 692,
+      "DADOS2011": 648,
+      "PER2021": 2.95,
+      "PER2011": 3.01,
+      "VAR2111": 6.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 620,
+      "DADOS2011": 597,
+      "PER2021": 89.6,
+      "PER2011": 92.13,
+      "VAR2111": 3.85
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 32,
+      "DADOS2011": 15,
+      "PER2021": 4.62,
+      "PER2011": 2.31,
+      "VAR2111": 113.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 40,
+      "DADOS2011": 36,
+      "PER2021": 5.78,
+      "PER2011": 5.56,
+      "VAR2111": 11.11
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Laundos",
+      "GrupoEtario": "Total",
+      "DADOS2021": 599,
+      "DADOS2011": 562,
+      "PER2021": 2.55,
+      "PER2011": 2.61,
+      "VAR2111": 6.58
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 553,
+      "DADOS2011": 513,
+      "PER2021": 92.32,
+      "PER2011": 91.28,
+      "VAR2111": 7.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5,
+      "DADOS2011": 6,
+      "PER2021": 0.83,
+      "PER2011": 1.07,
+      "VAR2111": -16.67
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 41,
+      "DADOS2011": 43,
+      "PER2021": 6.84,
+      "PER2011": 7.65,
+      "VAR2111": -4.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rates",
+      "GrupoEtario": "Total",
+      "DADOS2021": 719,
+      "DADOS2011": 682,
+      "PER2021": 3.07,
+      "PER2011": 3.17,
+      "VAR2111": 5.43
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 629,
+      "DADOS2011": 619,
+      "PER2021": 87.48,
+      "PER2011": 90.76,
+      "VAR2111": 1.62
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 31,
+      "DADOS2011": 20,
+      "PER2021": 4.31,
+      "PER2011": 2.93,
+      "VAR2111": 55
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 59,
+      "DADOS2011": 43,
+      "PER2021": 8.21,
+      "PER2011": 6.3,
+      "VAR2111": 37.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias da Póvoa de Varzim, Beiriz e Argivai",
+      "GrupoEtario": "Total",
+      "DADOS2021": 13742,
+      "DADOS2011": 12497,
+      "PER2021": 58.58,
+      "PER2011": 58.06,
+      "VAR2111": 9.96
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 8951,
+      "DADOS2011": 8489,
+      "PER2021": 65.14,
+      "PER2011": 67.93,
+      "VAR2111": 5.44
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 3677,
+      "DADOS2011": 3104,
+      "PER2021": 26.76,
+      "PER2011": 24.84,
+      "VAR2111": 18.46
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1114,
+      "DADOS2011": 904,
+      "PER2021": 8.11,
+      "PER2011": 7.23,
+      "VAR2111": 23.23
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Aguçadoura e Navais",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1735,
+      "DADOS2011": 1651,
+      "PER2021": 7.4,
+      "PER2011": 7.67,
+      "VAR2111": 5.09
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1437,
+      "DADOS2011": 1457,
+      "PER2021": 82.82,
+      "PER2011": 88.25,
+      "VAR2111": -1.37
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 125,
+      "DADOS2011": 52,
+      "PER2021": 7.2,
+      "PER2011": 3.15,
+      "VAR2111": 140.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 173,
+      "DADOS2011": 142,
+      "PER2021": 9.97,
+      "PER2011": 8.6,
+      "VAR2111": 21.83
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Aver-o-Mar, Amorim e Terroso",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5146,
+      "DADOS2011": 4680,
+      "PER2021": 21.94,
+      "PER2011": 21.74,
+      "VAR2111": 9.96
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 3647,
+      "DADOS2011": 3492,
+      "PER2021": 70.87,
+      "PER2011": 74.62,
+      "VAR2111": 4.44
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1061,
+      "DADOS2011": 815,
+      "PER2021": 20.62,
+      "PER2011": 17.41,
+      "VAR2111": 30.18
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 438,
+      "DADOS2011": 373,
+      "PER2021": 8.51,
+      "PER2011": 7.97,
+      "VAR2111": 17.43
+    },
+    {
+      "Concelho": "Santa Maria da Feira",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 50939,
+      "DADOS2011": 48586,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 4.84
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 37645,
+      "DADOS2011": 37435,
+      "PER2021": 73.9,
+      "PER2011": 77.05,
+      "VAR2111": 0.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 8871,
+      "DADOS2011": 7100,
+      "PER2021": 17.41,
+      "PER2011": 14.61,
+      "VAR2111": 24.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 4423,
+      "DADOS2011": 4051,
+      "PER2021": 8.68,
+      "PER2011": 8.34,
+      "VAR2111": 9.18
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Argoncilhe",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2986,
+      "DADOS2011": 2918,
+      "PER2021": 5.86,
+      "PER2011": 6.01,
+      "VAR2111": 2.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2179,
+      "DADOS2011": 2171,
+      "PER2021": 72.97,
+      "PER2011": 74.4,
+      "VAR2111": 0.37
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 434,
+      "DADOS2011": 379,
+      "PER2021": 14.53,
+      "PER2011": 12.99,
+      "VAR2111": 14.51
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 373,
+      "DADOS2011": 368,
+      "PER2021": 12.49,
+      "PER2011": 12.61,
+      "VAR2111": 1.36
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arrifana",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2449,
+      "DADOS2011": 2363,
+      "PER2021": 4.81,
+      "PER2011": 4.86,
+      "VAR2111": 3.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1637,
+      "DADOS2011": 1663,
+      "PER2021": 66.84,
+      "PER2011": 70.38,
+      "VAR2111": -1.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 645,
+      "DADOS2011": 546,
+      "PER2021": 26.34,
+      "PER2011": 23.11,
+      "VAR2111": 18.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 167,
+      "DADOS2011": 154,
+      "PER2021": 6.82,
+      "PER2011": 6.52,
+      "VAR2111": 8.44
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Escapães",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1189,
+      "DADOS2011": 1150,
+      "PER2021": 2.33,
+      "PER2011": 2.37,
+      "VAR2111": 3.39
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 918,
+      "DADOS2011": 904,
+      "PER2021": 77.21,
+      "PER2011": 78.61,
+      "VAR2111": 1.55
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 192,
+      "DADOS2011": 170,
+      "PER2021": 16.15,
+      "PER2011": 14.78,
+      "VAR2111": 12.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 79,
+      "DADOS2011": 76,
+      "PER2021": 6.64,
+      "PER2011": 6.61,
+      "VAR2111": 3.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fiães",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2667,
+      "DADOS2011": 2799,
+      "PER2021": 5.24,
+      "PER2011": 5.76,
+      "VAR2111": -4.72
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1880,
+      "DADOS2011": 2029,
+      "PER2021": 70.49,
+      "PER2011": 72.49,
+      "VAR2111": -7.34
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 550,
+      "DADOS2011": 538,
+      "PER2021": 20.62,
+      "PER2011": 19.22,
+      "VAR2111": 2.23
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 237,
+      "DADOS2011": 232,
+      "PER2021": 8.89,
+      "PER2011": 8.29,
+      "VAR2111": 2.16
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fornos",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1272,
+      "DADOS2011": 1204,
+      "PER2021": 2.5,
+      "PER2011": 2.48,
+      "VAR2111": 5.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 990,
+      "DADOS2011": 973,
+      "PER2021": 77.83,
+      "PER2011": 80.81,
+      "VAR2111": 1.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 203,
+      "DADOS2011": 169,
+      "PER2021": 15.96,
+      "PER2011": 14.04,
+      "VAR2111": 20.12
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 79,
+      "DADOS2011": 62,
+      "PER2021": 6.21,
+      "PER2011": 5.15,
+      "VAR2111": 27.42
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Lourosa",
+      "GrupoEtario": "Total",
+      "DADOS2021": 3087,
+      "DADOS2011": 3083,
+      "PER2021": 6.06,
+      "PER2011": 6.35,
+      "VAR2111": 0.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2090,
+      "DADOS2011": 2190,
+      "PER2021": 67.7,
+      "PER2011": 71.03,
+      "VAR2111": -4.57
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 676,
+      "DADOS2011": 567,
+      "PER2021": 21.9,
+      "PER2011": 18.39,
+      "VAR2111": 19.22
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 321,
+      "DADOS2011": 326,
+      "PER2021": 10.4,
+      "PER2011": 10.57,
+      "VAR2111": -1.53
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Milheirós de Poiares",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1325,
+      "DADOS2011": 1270,
+      "PER2021": 2.6,
+      "PER2011": 2.61,
+      "VAR2111": 4.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 904,
+      "DADOS2011": 910,
+      "PER2021": 68.23,
+      "PER2011": 71.65,
+      "VAR2111": -0.66
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 304,
+      "DADOS2011": 235,
+      "PER2021": 22.94,
+      "PER2011": 18.5,
+      "VAR2111": 29.36
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 117,
+      "DADOS2011": 125,
+      "PER2021": 8.83,
+      "PER2011": 9.84,
+      "VAR2111": -6.4
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mozelos",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2683,
+      "DADOS2011": 2496,
+      "PER2021": 5.27,
+      "PER2011": 5.14,
+      "VAR2111": 7.49
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2103,
+      "DADOS2011": 2016,
+      "PER2021": 78.38,
+      "PER2011": 80.77,
+      "VAR2111": 4.32
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 402,
+      "DADOS2011": 310,
+      "PER2021": 14.98,
+      "PER2011": 12.42,
+      "VAR2111": 29.68
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 178,
+      "DADOS2011": 170,
+      "PER2021": 6.63,
+      "PER2011": 6.81,
+      "VAR2111": 4.71
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Nogueira da Regedoura",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2108,
+      "DADOS2011": 1999,
+      "PER2021": 4.14,
+      "PER2011": 4.11,
+      "VAR2111": 5.45
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1579,
+      "DADOS2011": 1571,
+      "PER2021": 74.91,
+      "PER2011": 78.59,
+      "VAR2111": 0.51
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 314,
+      "DADOS2011": 230,
+      "PER2021": 14.9,
+      "PER2011": 11.51,
+      "VAR2111": 36.52
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 215,
+      "DADOS2011": 198,
+      "PER2021": 10.2,
+      "PER2011": 9.9,
+      "VAR2111": 8.59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Paços de Brandão",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1859,
+      "DADOS2011": 1786,
+      "PER2021": 3.65,
+      "PER2011": 3.68,
+      "VAR2111": 4.09
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1312,
+      "DADOS2011": 1344,
+      "PER2021": 70.58,
+      "PER2011": 75.25,
+      "VAR2111": -2.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 372,
+      "DADOS2011": 298,
+      "PER2021": 20.01,
+      "PER2011": 16.69,
+      "VAR2111": 24.83
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 175,
+      "DADOS2011": 144,
+      "PER2021": 9.41,
+      "PER2011": 8.06,
+      "VAR2111": 21.53
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rio Meão",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1815,
+      "DADOS2011": 1713,
+      "PER2021": 3.56,
+      "PER2011": 3.53,
+      "VAR2111": 5.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1380,
+      "DADOS2011": 1387,
+      "PER2021": 76.03,
+      "PER2011": 80.97,
+      "VAR2111": -0.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 272,
+      "DADOS2011": 209,
+      "PER2021": 14.99,
+      "PER2011": 12.2,
+      "VAR2111": 30.14
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 163,
+      "DADOS2011": 117,
+      "PER2021": 8.98,
+      "PER2011": 6.83,
+      "VAR2111": 39.32
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Romariz",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1050,
+      "DADOS2011": 1033,
+      "PER2021": 2.06,
+      "PER2011": 2.13,
+      "VAR2111": 1.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 780,
+      "DADOS2011": 808,
+      "PER2021": 74.29,
+      "PER2011": 78.22,
+      "VAR2111": -3.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 145,
+      "DADOS2011": 101,
+      "PER2021": 13.81,
+      "PER2011": 9.78,
+      "VAR2111": 43.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 125,
+      "DADOS2011": 124,
+      "PER2021": 11.9,
+      "PER2011": 12,
+      "VAR2111": 0.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Sanguedo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1189,
+      "DADOS2011": 1140,
+      "PER2021": 2.33,
+      "PER2011": 2.35,
+      "VAR2111": 4.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 901,
+      "DADOS2011": 906,
+      "PER2021": 75.78,
+      "PER2011": 79.47,
+      "VAR2111": -0.55
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 154,
+      "DADOS2011": 135,
+      "PER2021": 12.95,
+      "PER2011": 11.84,
+      "VAR2111": 14.07
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 134,
+      "DADOS2011": 99,
+      "PER2021": 11.27,
+      "PER2011": 8.68,
+      "VAR2111": 35.35
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Santa Maria de Lamas",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1847,
+      "DADOS2011": 1785,
+      "PER2021": 3.63,
+      "PER2011": 3.67,
+      "VAR2111": 3.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1308,
+      "DADOS2011": 1303,
+      "PER2021": 70.82,
+      "PER2011": 73,
+      "VAR2111": 0.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 395,
+      "DADOS2011": 334,
+      "PER2021": 21.39,
+      "PER2011": 18.71,
+      "VAR2111": 18.26
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 144,
+      "DADOS2011": 148,
+      "PER2021": 7.8,
+      "PER2011": 8.29,
+      "VAR2111": -2.7
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São João de Ver",
+      "GrupoEtario": "Total",
+      "DADOS2021": 4060,
+      "DADOS2011": 3674,
+      "PER2021": 7.97,
+      "PER2011": 7.56,
+      "VAR2111": 10.51
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 3123,
+      "DADOS2011": 2984,
+      "PER2021": 76.92,
+      "PER2011": 81.22,
+      "VAR2111": 4.66
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 616,
+      "DADOS2011": 440,
+      "PER2021": 15.17,
+      "PER2011": 11.98,
+      "VAR2111": 40
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 321,
+      "DADOS2011": 250,
+      "PER2021": 7.91,
+      "PER2011": 6.8,
+      "VAR2111": 28.4
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Paio de Oleiros",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1386,
+      "DADOS2011": 1418,
+      "PER2021": 2.72,
+      "PER2011": 2.92,
+      "VAR2111": -2.26
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 998,
+      "DADOS2011": 1021,
+      "PER2021": 72.01,
+      "PER2011": 72,
+      "VAR2111": -2.25
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 272,
+      "DADOS2011": 272,
+      "PER2021": 19.62,
+      "PER2011": 19.18,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 116,
+      "DADOS2011": 125,
+      "PER2021": 8.37,
+      "PER2011": 8.82,
+      "VAR2111": -7.2
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Caldas de São Jorge e Pigeiros",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1371,
+      "DADOS2011": 1343,
+      "PER2021": 2.69,
+      "PER2011": 2.76,
+      "VAR2111": 2.08
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1093,
+      "DADOS2011": 1083,
+      "PER2021": 79.72,
+      "PER2011": 80.64,
+      "VAR2111": 0.92
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 162,
+      "DADOS2011": 141,
+      "PER2021": 11.82,
+      "PER2011": 10.5,
+      "VAR2111": 14.89
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 116,
+      "DADOS2011": 119,
+      "PER2021": 8.46,
+      "PER2011": 8.86,
+      "VAR2111": -2.52
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Canedo, Vale e Vila Maior",
+      "GrupoEtario": "Total",
+      "DADOS2021": 3241,
+      "DADOS2011": 3194,
+      "PER2021": 6.36,
+      "PER2011": 6.57,
+      "VAR2111": 1.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2632,
+      "DADOS2011": 2647,
+      "PER2021": 81.21,
+      "PER2011": 82.87,
+      "VAR2111": -0.57
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 308,
+      "DADOS2011": 266,
+      "PER2021": 9.5,
+      "PER2011": 8.33,
+      "VAR2111": 15.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 301,
+      "DADOS2011": 281,
+      "PER2021": 9.29,
+      "PER2011": 8.8,
+      "VAR2111": 7.12
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Lobão, Gião, Louredo e Guisande",
+      "GrupoEtario": "Total",
+      "DADOS2021": 3566,
+      "DADOS2011": 3406,
+      "PER2021": 7,
+      "PER2011": 7.01,
+      "VAR2111": 4.7
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2701,
+      "DADOS2011": 2688,
+      "PER2021": 75.74,
+      "PER2011": 78.92,
+      "VAR2111": 0.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 483,
+      "DADOS2011": 394,
+      "PER2021": 13.54,
+      "PER2011": 11.57,
+      "VAR2111": 22.59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 382,
+      "DADOS2011": 324,
+      "PER2021": 10.71,
+      "PER2011": 9.51,
+      "VAR2111": 17.9
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 7439,
+      "DADOS2011": 6534,
+      "PER2021": 14.6,
+      "PER2011": 13.45,
+      "VAR2111": 13.85
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5276,
+      "DADOS2011": 5001,
+      "PER2021": 70.92,
+      "PER2011": 76.54,
+      "VAR2111": 5.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1666,
+      "DADOS2011": 1111,
+      "PER2021": 22.4,
+      "PER2011": 17,
+      "VAR2111": 49.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 497,
+      "DADOS2011": 422,
+      "PER2021": 6.68,
+      "PER2011": 6.46,
+      "VAR2111": 17.77
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União de freguesias de São Miguel de Souto e Mosteirô",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2350,
+      "DADOS2011": 2278,
+      "PER2021": 4.61,
+      "PER2011": 4.69,
+      "VAR2111": 3.16
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1861,
+      "DADOS2011": 1836,
+      "PER2021": 79.19,
+      "PER2011": 80.6,
+      "VAR2111": 1.36
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 306,
+      "DADOS2011": 255,
+      "PER2021": 13.02,
+      "PER2011": 11.19,
+      "VAR2111": 20
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 183,
+      "DADOS2011": 187,
+      "PER2021": 7.79,
+      "PER2011": 8.21,
+      "VAR2111": -2.14
+    },
+    {
+      "Concelho": "Santo Tirso",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 25401,
+      "DADOS2011": 24673,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 2.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 17262,
+      "DADOS2011": 16894,
+      "PER2021": 67.96,
+      "PER2011": 68.47,
+      "VAR2111": 2.18
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5480,
+      "DADOS2011": 5224,
+      "PER2021": 21.57,
+      "PER2011": 21.17,
+      "VAR2111": 4.9
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 2659,
+      "DADOS2011": 2555,
+      "PER2021": 10.47,
+      "PER2011": 10.36,
+      "VAR2111": 4.07
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Agrela",
+      "GrupoEtario": "Total",
+      "DADOS2021": 535,
+      "DADOS2011": 507,
+      "PER2021": 2.11,
+      "PER2011": 2.05,
+      "VAR2111": 5.52
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 404,
+      "DADOS2011": 389,
+      "PER2021": 75.51,
+      "PER2011": 76.73,
+      "VAR2111": 3.86
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 73,
+      "DADOS2011": 60,
+      "PER2021": 13.64,
+      "PER2011": 11.83,
+      "VAR2111": 21.67
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 58,
+      "DADOS2011": 58,
+      "PER2021": 10.84,
+      "PER2011": 11.44,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Água Longa",
+      "GrupoEtario": "Total",
+      "DADOS2021": 824,
+      "DADOS2011": 742,
+      "PER2021": 3.24,
+      "PER2011": 3.01,
+      "VAR2111": 11.05
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 625,
+      "DADOS2011": 571,
+      "PER2021": 75.85,
+      "PER2011": 76.95,
+      "VAR2111": 9.46
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 133,
+      "DADOS2011": 110,
+      "PER2021": 16.14,
+      "PER2011": 14.82,
+      "VAR2111": 20.91
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 66,
+      "DADOS2011": 61,
+      "PER2021": 8.01,
+      "PER2011": 8.22,
+      "VAR2111": 8.2
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aves",
+      "GrupoEtario": "Total",
+      "DADOS2021": 3133,
+      "DADOS2011": 3083,
+      "PER2021": 12.33,
+      "PER2011": 12.5,
+      "VAR2111": 1.62
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1946,
+      "DADOS2011": 1914,
+      "PER2021": 62.11,
+      "PER2011": 62.08,
+      "VAR2111": 1.67
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 877,
+      "DADOS2011": 823,
+      "PER2021": 27.99,
+      "PER2011": 26.69,
+      "VAR2111": 6.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 310,
+      "DADOS2011": 346,
+      "PER2021": 9.89,
+      "PER2011": 11.22,
+      "VAR2111": -10.4
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Monte Córdova",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1396,
+      "DADOS2011": 1370,
+      "PER2021": 5.5,
+      "PER2011": 5.55,
+      "VAR2111": 1.9
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1043,
+      "DADOS2011": 1038,
+      "PER2021": 74.71,
+      "PER2011": 75.77,
+      "VAR2111": 0.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 182,
+      "DADOS2011": 167,
+      "PER2021": 13.04,
+      "PER2011": 12.19,
+      "VAR2111": 8.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 171,
+      "DADOS2011": 165,
+      "PER2021": 12.25,
+      "PER2011": 12.04,
+      "VAR2111": 3.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Negrelos (São Tomé)",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1451,
+      "DADOS2011": 1441,
+      "PER2021": 5.71,
+      "PER2011": 5.84,
+      "VAR2111": 0.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 969,
+      "DADOS2011": 952,
+      "PER2021": 66.78,
+      "PER2011": 66.07,
+      "VAR2111": 1.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 285,
+      "DADOS2011": 253,
+      "PER2021": 19.64,
+      "PER2011": 17.56,
+      "VAR2111": 12.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 197,
+      "DADOS2011": 236,
+      "PER2021": 13.58,
+      "PER2011": 16.38,
+      "VAR2111": -16.53
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Rebordões",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1193,
+      "DADOS2011": 1180,
+      "PER2021": 4.7,
+      "PER2011": 4.78,
+      "VAR2111": 1.1
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 850,
+      "DADOS2011": 839,
+      "PER2021": 71.25,
+      "PER2011": 71.1,
+      "VAR2111": 1.31
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 231,
+      "DADOS2011": 237,
+      "PER2021": 19.36,
+      "PER2011": 20.08,
+      "VAR2111": -2.53
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 112,
+      "DADOS2011": 104,
+      "PER2021": 9.39,
+      "PER2011": 8.81,
+      "VAR2111": 7.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Reguenga",
+      "GrupoEtario": "Total",
+      "DADOS2021": 532,
+      "DADOS2011": 530,
+      "PER2021": 2.09,
+      "PER2011": 2.15,
+      "VAR2111": 0.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 370,
+      "DADOS2011": 380,
+      "PER2021": 69.55,
+      "PER2011": 71.7,
+      "VAR2111": -2.63
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 118,
+      "DADOS2011": 103,
+      "PER2021": 22.18,
+      "PER2011": 19.43,
+      "VAR2111": 14.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 44,
+      "DADOS2011": 47,
+      "PER2021": 8.27,
+      "PER2011": 8.87,
+      "VAR2111": -6.38
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Roriz",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1202,
+      "DADOS2011": 1187,
+      "PER2021": 4.73,
+      "PER2011": 4.81,
+      "VAR2111": 1.26
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 790,
+      "DADOS2011": 757,
+      "PER2021": 65.72,
+      "PER2011": 63.77,
+      "VAR2111": 4.36
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 218,
+      "DADOS2011": 250,
+      "PER2021": 18.14,
+      "PER2011": 21.06,
+      "VAR2111": -12.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 194,
+      "DADOS2011": 180,
+      "PER2021": 16.14,
+      "PER2011": 15.16,
+      "VAR2111": 7.78
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Areias, Sequeiró, Lama e Palmeira",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2336,
+      "DADOS2011": 2325,
+      "PER2021": 9.2,
+      "PER2011": 9.42,
+      "VAR2111": 0.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1587,
+      "DADOS2011": 1571,
+      "PER2021": 67.94,
+      "PER2011": 67.57,
+      "VAR2111": 1.02
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 496,
+      "DADOS2011": 508,
+      "PER2021": 21.23,
+      "PER2011": 21.85,
+      "VAR2111": -2.36
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 253,
+      "DADOS2011": 246,
+      "PER2021": 10.83,
+      "PER2011": 10.58,
+      "VAR2111": 2.85
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Carreira e Refojos de Riba de Ave",
+      "GrupoEtario": "Total",
+      "DADOS2021": 730,
+      "DADOS2011": 698,
+      "PER2021": 2.87,
+      "PER2011": 2.83,
+      "VAR2111": 4.58
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 544,
+      "DADOS2011": 525,
+      "PER2021": 74.52,
+      "PER2011": 75.21,
+      "VAR2111": 3.62
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 123,
+      "DADOS2011": 123,
+      "PER2021": 16.85,
+      "PER2011": 17.62,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 63,
+      "DADOS2011": 50,
+      "PER2021": 8.63,
+      "PER2011": 7.16,
+      "VAR2111": 26
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Lamelas e Guimarei",
+      "GrupoEtario": "Total",
+      "DADOS2021": 573,
+      "DADOS2011": 563,
+      "PER2021": 2.26,
+      "PER2011": 2.28,
+      "VAR2111": 1.78
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 438,
+      "DADOS2011": 433,
+      "PER2021": 76.44,
+      "PER2011": 76.91,
+      "VAR2111": 1.15
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 76,
+      "DADOS2011": 63,
+      "PER2021": 13.26,
+      "PER2011": 11.19,
+      "VAR2111": 20.63
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 59,
+      "DADOS2011": 67,
+      "PER2021": 10.3,
+      "PER2011": 11.9,
+      "VAR2111": -11.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães",
+      "GrupoEtario": "Total",
+      "DADOS2021": 7883,
+      "DADOS2011": 7573,
+      "PER2021": 31.03,
+      "PER2011": 30.69,
+      "VAR2111": 4.09
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5339,
+      "DADOS2011": 5276,
+      "PER2021": 67.73,
+      "PER2011": 69.67,
+      "VAR2111": 1.19
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1860,
+      "DADOS2011": 1673,
+      "PER2021": 23.6,
+      "PER2011": 22.09,
+      "VAR2111": 11.18
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 684,
+      "DADOS2011": 624,
+      "PER2021": 8.68,
+      "PER2011": 8.24,
+      "VAR2111": 9.62
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilarinho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1251,
+      "DADOS2011": 1223,
+      "PER2021": 4.93,
+      "PER2011": 4.96,
+      "VAR2111": 2.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 762,
+      "DADOS2011": 694,
+      "PER2021": 60.91,
+      "PER2011": 56.75,
+      "VAR2111": 9.8
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 326,
+      "DADOS2011": 371,
+      "PER2021": 26.06,
+      "PER2011": 30.34,
+      "VAR2111": -12.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 163,
+      "DADOS2011": 158,
+      "PER2021": 13.03,
+      "PER2011": 12.92,
+      "VAR2111": 3.16
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Nova do Campo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2362,
+      "DADOS2011": 2251,
+      "PER2021": 9.3,
+      "PER2011": 9.12,
+      "VAR2111": 4.93
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1595,
+      "DADOS2011": 1555,
+      "PER2021": 67.53,
+      "PER2011": 69.08,
+      "VAR2111": 2.57
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 482,
+      "DADOS2011": 483,
+      "PER2021": 20.41,
+      "PER2011": 21.46,
+      "VAR2111": -0.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 285,
+      "DADOS2011": 213,
+      "PER2021": 12.07,
+      "PER2011": 9.46,
+      "VAR2111": 33.8
+    },
+    {
+      "Concelho": "São João da Madeira",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 9015,
+      "DADOS2011": 8208,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 9.83
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5537,
+      "DADOS2011": 5496,
+      "PER2021": 61.42,
+      "PER2011": 66.96,
+      "VAR2111": 0.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2901,
+      "DADOS2011": 2239,
+      "PER2021": 32.18,
+      "PER2011": 27.28,
+      "VAR2111": 29.57
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 577,
+      "DADOS2011": 473,
+      "PER2021": 6.4,
+      "PER2011": 5.76,
+      "VAR2111": 21.99
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São João da Madeira",
+      "GrupoEtario": "Total",
+      "DADOS2021": 9015,
+      "DADOS2011": 8208,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 9.83
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5537,
+      "DADOS2011": 5496,
+      "PER2021": 61.42,
+      "PER2011": 66.96,
+      "VAR2111": 0.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2901,
+      "DADOS2011": 2239,
+      "PER2021": 32.18,
+      "PER2011": 27.28,
+      "VAR2111": 29.57
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 577,
+      "DADOS2011": 473,
+      "PER2021": 6.4,
+      "PER2011": 5.76,
+      "VAR2111": 21.99
+    },
+    {
+      "Concelho": "Trofa",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 13941,
+      "DADOS2011": 12969,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 7.49
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 9882,
+      "DADOS2011": 9676,
+      "PER2021": 70.88,
+      "PER2011": 74.61,
+      "VAR2111": 2.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2884,
+      "DADOS2011": 2244,
+      "PER2021": 20.69,
+      "PER2011": 17.3,
+      "VAR2111": 28.52
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1175,
+      "DADOS2011": 1049,
+      "PER2021": 8.43,
+      "PER2011": 8.09,
+      "VAR2111": 12.01
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Covelas",
+      "GrupoEtario": "Total",
+      "DADOS2021": 505,
+      "DADOS2011": 496,
+      "PER2021": 3.62,
+      "PER2011": 3.82,
+      "VAR2111": 1.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 405,
+      "DADOS2011": 407,
+      "PER2021": 80.2,
+      "PER2011": 82.06,
+      "VAR2111": -0.49
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 43,
+      "DADOS2011": 44,
+      "PER2021": 8.51,
+      "PER2011": 8.87,
+      "VAR2111": -2.27
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 57,
+      "DADOS2011": 45,
+      "PER2021": 11.29,
+      "PER2011": 9.07,
+      "VAR2111": 26.67
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Muro",
+      "GrupoEtario": "Total",
+      "DADOS2021": 659,
+      "DADOS2011": 614,
+      "PER2021": 4.73,
+      "PER2011": 4.73,
+      "VAR2111": 7.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 482,
+      "DADOS2011": 464,
+      "PER2021": 73.14,
+      "PER2011": 75.57,
+      "VAR2111": 3.88
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 92,
+      "DADOS2011": 87,
+      "PER2021": 13.96,
+      "PER2011": 14.17,
+      "VAR2111": 5.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 85,
+      "DADOS2011": 63,
+      "PER2021": 12.9,
+      "PER2011": 10.26,
+      "VAR2111": 34.92
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Alvarelhos e Guidões",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1591,
+      "DADOS2011": 1502,
+      "PER2021": 11.41,
+      "PER2011": 11.58,
+      "VAR2111": 5.93
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1191,
+      "DADOS2011": 1169,
+      "PER2021": 74.86,
+      "PER2011": 77.83,
+      "VAR2111": 1.88
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 211,
+      "DADOS2011": 177,
+      "PER2021": 13.26,
+      "PER2011": 11.78,
+      "VAR2111": 19.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 189,
+      "DADOS2011": 156,
+      "PER2021": 11.88,
+      "PER2011": 10.39,
+      "VAR2111": 21.15
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Bougado (São Martinho e Santiago)",
+      "GrupoEtario": "Total",
+      "DADOS2021": 7922,
+      "DADOS2011": 7340,
+      "PER2021": 56.83,
+      "PER2011": 56.6,
+      "VAR2111": 7.93
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5442,
+      "DADOS2011": 5377,
+      "PER2021": 68.69,
+      "PER2011": 73.26,
+      "VAR2111": 1.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1911,
+      "DADOS2011": 1421,
+      "PER2021": 24.12,
+      "PER2011": 19.36,
+      "VAR2111": 34.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 569,
+      "DADOS2011": 542,
+      "PER2021": 7.18,
+      "PER2011": 7.38,
+      "VAR2111": 4.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Coronado (São Romão e São Mamede)",
+      "GrupoEtario": "Total",
+      "DADOS2021": 3264,
+      "DADOS2011": 3017,
+      "PER2021": 23.41,
+      "PER2011": 23.26,
+      "VAR2111": 8.19
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2362,
+      "DADOS2011": 2259,
+      "PER2021": 72.37,
+      "PER2011": 74.88,
+      "VAR2111": 4.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 627,
+      "DADOS2011": 515,
+      "PER2021": 19.21,
+      "PER2011": 17.07,
+      "VAR2111": 21.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 275,
+      "DADOS2011": 243,
+      "PER2021": 8.43,
+      "PER2011": 8.05,
+      "VAR2111": 13.17
+    },
+    {
+      "Concelho": "Vale de Cambra",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 8419,
+      "DADOS2011": 8450,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": -0.37
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 6598,
+      "DADOS2011": 6823,
+      "PER2021": 78.37,
+      "PER2011": 80.75,
+      "VAR2111": -3.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1168,
+      "DADOS2011": 963,
+      "PER2021": 13.87,
+      "PER2011": 11.4,
+      "VAR2111": 21.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 653,
+      "DADOS2011": 664,
+      "PER2021": 7.76,
+      "PER2011": 7.86,
+      "VAR2111": -1.66
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arões",
+      "GrupoEtario": "Total",
+      "DADOS2021": 507,
+      "DADOS2011": 565,
+      "PER2021": 6.02,
+      "PER2011": 6.69,
+      "VAR2111": -10.27
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 482,
+      "DADOS2011": 552,
+      "PER2021": 95.07,
+      "PER2011": 97.7,
+      "VAR2111": -12.68
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 3,
+      "DADOS2011": 1,
+      "PER2021": 0.59,
+      "PER2011": 0.18,
+      "VAR2111": 200
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 22,
+      "DADOS2011": 12,
+      "PER2021": 4.34,
+      "PER2011": 2.12,
+      "VAR2111": 83.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Cepelos",
+      "GrupoEtario": "Total",
+      "DADOS2021": 454,
+      "DADOS2011": 480,
+      "PER2021": 5.39,
+      "PER2011": 5.68,
+      "VAR2111": -5.42
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 410,
+      "DADOS2011": 447,
+      "PER2021": 90.31,
+      "PER2011": 93.13,
+      "VAR2111": -8.28
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 9,
+      "DADOS2011": 5,
+      "PER2021": 1.98,
+      "PER2011": 1.04,
+      "VAR2111": 80
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 35,
+      "DADOS2011": 28,
+      "PER2021": 7.71,
+      "PER2011": 5.83,
+      "VAR2111": 25
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Junqueira",
+      "GrupoEtario": "Total",
+      "DADOS2021": 319,
+      "DADOS2011": 367,
+      "PER2021": 3.79,
+      "PER2011": 4.34,
+      "VAR2111": -13.08
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 302,
+      "DADOS2011": 342,
+      "PER2021": 94.67,
+      "PER2011": 93.19,
+      "VAR2111": -11.7
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 0,
+      "DADOS2011": 0,
+      "PER2021": 0,
+      "PER2011": 0,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 17,
+      "DADOS2011": 25,
+      "PER2021": 5.33,
+      "PER2011": 6.81,
+      "VAR2111": -32
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira de Cambra",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1726,
+      "DADOS2011": 1741,
+      "PER2021": 20.5,
+      "PER2011": 20.6,
+      "VAR2111": -0.86
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1341,
+      "DADOS2011": 1350,
+      "PER2021": 77.69,
+      "PER2011": 77.54,
+      "VAR2111": -0.67
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 256,
+      "DADOS2011": 239,
+      "PER2021": 14.83,
+      "PER2011": 13.73,
+      "VAR2111": 7.11
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 129,
+      "DADOS2011": 152,
+      "PER2021": 7.47,
+      "PER2011": 8.73,
+      "VAR2111": -15.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Roge",
+      "GrupoEtario": "Total",
+      "DADOS2021": 616,
+      "DADOS2011": 636,
+      "PER2021": 7.32,
+      "PER2011": 7.53,
+      "VAR2111": -3.14
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 567,
+      "DADOS2011": 589,
+      "PER2021": 92.05,
+      "PER2011": 92.61,
+      "VAR2111": -3.74
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 16,
+      "DADOS2011": 11,
+      "PER2021": 2.6,
+      "PER2011": 1.73,
+      "VAR2111": 45.45
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 33,
+      "DADOS2011": 36,
+      "PER2021": 5.36,
+      "PER2011": 5.66,
+      "VAR2111": -8.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Pedro de Castelões",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2671,
+      "DADOS2011": 2628,
+      "PER2021": 31.73,
+      "PER2011": 31.1,
+      "VAR2111": 1.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2033,
+      "DADOS2011": 2071,
+      "PER2021": 76.11,
+      "PER2011": 78.81,
+      "VAR2111": -1.83
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 402,
+      "DADOS2011": 336,
+      "PER2021": 15.05,
+      "PER2011": 12.79,
+      "VAR2111": 19.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 236,
+      "DADOS2011": 221,
+      "PER2021": 8.84,
+      "PER2011": 8.41,
+      "VAR2111": 6.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2126,
+      "DADOS2011": 2033,
+      "PER2021": 25.25,
+      "PER2011": 24.06,
+      "VAR2111": 4.57
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1463,
+      "DADOS2011": 1472,
+      "PER2021": 68.81,
+      "PER2011": 72.41,
+      "VAR2111": -0.61
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 482,
+      "DADOS2011": 371,
+      "PER2021": 22.67,
+      "PER2011": 18.25,
+      "VAR2111": 29.92
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 181,
+      "DADOS2011": 190,
+      "PER2021": 8.51,
+      "PER2011": 9.35,
+      "VAR2111": -4.74
+    },
+    {
+      "Concelho": "Valongo",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 36614,
+      "DADOS2011": 33772,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 8.42
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 24905,
+      "DADOS2011": 24207,
+      "PER2021": 68.02,
+      "PER2011": 71.68,
+      "VAR2111": 2.88
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 9216,
+      "DADOS2011": 7397,
+      "PER2021": 25.17,
+      "PER2011": 21.9,
+      "VAR2111": 24.59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 2493,
+      "DADOS2011": 2168,
+      "PER2021": 6.81,
+      "PER2011": 6.42,
+      "VAR2111": 14.99
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Alfena",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5408,
+      "DADOS2011": 5290,
+      "PER2021": 14.77,
+      "PER2011": 15.66,
+      "VAR2111": 2.23
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 3680,
+      "DADOS2011": 3696,
+      "PER2021": 68.05,
+      "PER2011": 69.87,
+      "VAR2111": -0.43
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1358,
+      "DADOS2011": 1214,
+      "PER2021": 25.11,
+      "PER2011": 22.95,
+      "VAR2111": 11.86
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 370,
+      "DADOS2011": 380,
+      "PER2021": 6.84,
+      "PER2011": 7.18,
+      "VAR2111": -2.63
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Ermesinde",
+      "GrupoEtario": "Total",
+      "DADOS2021": 15794,
+      "DADOS2011": 14699,
+      "PER2021": 43.14,
+      "PER2011": 43.52,
+      "VAR2111": 7.45
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 10231,
+      "DADOS2011": 10139,
+      "PER2021": 64.78,
+      "PER2011": 68.98,
+      "VAR2111": 0.91
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 4603,
+      "DADOS2011": 3775,
+      "PER2021": 29.14,
+      "PER2011": 25.68,
+      "VAR2111": 21.93
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 960,
+      "DADOS2011": 785,
+      "PER2021": 6.08,
+      "PER2011": 5.34,
+      "VAR2111": 22.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Campo e Sobrado",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5402,
+      "DADOS2011": 5163,
+      "PER2021": 14.75,
+      "PER2011": 15.29,
+      "VAR2111": 4.63
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 3922,
+      "DADOS2011": 3809,
+      "PER2021": 72.6,
+      "PER2011": 73.77,
+      "VAR2111": 2.97
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 893,
+      "DADOS2011": 767,
+      "PER2021": 16.53,
+      "PER2011": 14.86,
+      "VAR2111": 16.43
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 587,
+      "DADOS2011": 587,
+      "PER2021": 10.87,
+      "PER2011": 11.37,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Valongo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 10010,
+      "DADOS2011": 8620,
+      "PER2021": 27.34,
+      "PER2011": 25.52,
+      "VAR2111": 16.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 7072,
+      "DADOS2011": 6563,
+      "PER2021": 70.65,
+      "PER2011": 76.14,
+      "VAR2111": 7.76
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2362,
+      "DADOS2011": 1641,
+      "PER2021": 23.6,
+      "PER2011": 19.04,
+      "VAR2111": 43.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 576,
+      "DADOS2011": 416,
+      "PER2021": 5.75,
+      "PER2011": 4.83,
+      "VAR2111": 38.46
+    },
+    {
+      "Concelho": "Vila do Conde",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 29131,
+      "DADOS2011": 26783,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 8.77
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 20915,
+      "DADOS2011": 20118,
+      "PER2021": 71.8,
+      "PER2011": 75.11,
+      "VAR2111": 3.96
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5898,
+      "DADOS2011": 4759,
+      "PER2021": 20.25,
+      "PER2011": 17.77,
+      "VAR2111": 23.93
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 2318,
+      "DADOS2011": 1906,
+      "PER2021": 7.96,
+      "PER2011": 7.12,
+      "VAR2111": 21.62
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Árvore",
+      "GrupoEtario": "Total",
+      "DADOS2021": 2037,
+      "DADOS2011": 1841,
+      "PER2021": 6.99,
+      "PER2011": 6.87,
+      "VAR2111": 10.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1549,
+      "DADOS2011": 1417,
+      "PER2021": 76.04,
+      "PER2011": 76.97,
+      "VAR2111": 9.32
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 357,
+      "DADOS2011": 292,
+      "PER2021": 17.53,
+      "PER2011": 15.86,
+      "VAR2111": 22.26
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 131,
+      "DADOS2011": 132,
+      "PER2021": 6.43,
+      "PER2011": 7.17,
+      "VAR2111": -0.76
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Aveleda",
+      "GrupoEtario": "Total",
+      "DADOS2021": 431,
+      "DADOS2011": 430,
+      "PER2021": 1.48,
+      "PER2011": 1.61,
+      "VAR2111": 0.23
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 299,
+      "DADOS2011": 305,
+      "PER2021": 69.37,
+      "PER2011": 70.93,
+      "VAR2111": -1.97
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 105,
+      "DADOS2011": 87,
+      "PER2021": 24.36,
+      "PER2011": 20.23,
+      "VAR2111": 20.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 27,
+      "DADOS2011": 38,
+      "PER2021": 6.26,
+      "PER2011": 8.84,
+      "VAR2111": -28.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Azurara",
+      "GrupoEtario": "Total",
+      "DADOS2021": 899,
+      "DADOS2011": 817,
+      "PER2021": 3.09,
+      "PER2011": 3.05,
+      "VAR2111": 10.04
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 593,
+      "DADOS2011": 591,
+      "PER2021": 65.96,
+      "PER2011": 72.34,
+      "VAR2111": 0.34
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 227,
+      "DADOS2011": 178,
+      "PER2021": 25.25,
+      "PER2011": 21.79,
+      "VAR2111": 27.53
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 79,
+      "DADOS2011": 48,
+      "PER2021": 8.79,
+      "PER2011": 5.88,
+      "VAR2111": 64.58
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Fajozes",
+      "GrupoEtario": "Total",
+      "DADOS2021": 460,
+      "DADOS2011": 463,
+      "PER2021": 1.58,
+      "PER2011": 1.73,
+      "VAR2111": -0.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 304,
+      "DADOS2011": 307,
+      "PER2021": 66.09,
+      "PER2011": 66.31,
+      "VAR2111": -0.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 124,
+      "DADOS2011": 117,
+      "PER2021": 26.96,
+      "PER2011": 25.27,
+      "VAR2111": 5.98
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 32,
+      "DADOS2011": 39,
+      "PER2021": 6.96,
+      "PER2011": 8.42,
+      "VAR2111": -17.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Gião",
+      "GrupoEtario": "Total",
+      "DADOS2021": 584,
+      "DADOS2011": 563,
+      "PER2021": 2,
+      "PER2011": 2.1,
+      "VAR2111": 3.73
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 482,
+      "DADOS2011": 466,
+      "PER2021": 82.53,
+      "PER2011": 82.77,
+      "VAR2111": 3.43
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 75,
+      "DADOS2011": 68,
+      "PER2021": 12.84,
+      "PER2011": 12.08,
+      "VAR2111": 10.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 27,
+      "DADOS2011": 29,
+      "PER2021": 4.62,
+      "PER2011": 5.15,
+      "VAR2111": -6.9
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Guilhabreu",
+      "GrupoEtario": "Total",
+      "DADOS2021": 775,
+      "DADOS2011": 736,
+      "PER2021": 2.66,
+      "PER2011": 2.75,
+      "VAR2111": 5.3
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 555,
+      "DADOS2011": 564,
+      "PER2021": 71.61,
+      "PER2011": 76.63,
+      "VAR2111": -1.6
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 142,
+      "DADOS2011": 127,
+      "PER2021": 18.32,
+      "PER2011": 17.26,
+      "VAR2111": 11.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 78,
+      "DADOS2011": 45,
+      "PER2021": 10.06,
+      "PER2011": 6.11,
+      "VAR2111": 73.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Junqueira",
+      "GrupoEtario": "Total",
+      "DADOS2021": 638,
+      "DADOS2011": 638,
+      "PER2021": 2.19,
+      "PER2011": 2.38,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 497,
+      "DADOS2011": 485,
+      "PER2021": 77.9,
+      "PER2011": 76.02,
+      "VAR2111": 2.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 81,
+      "DADOS2011": 86,
+      "PER2021": 12.7,
+      "PER2011": 13.48,
+      "VAR2111": -5.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 60,
+      "DADOS2011": 67,
+      "PER2021": 9.4,
+      "PER2011": 10.5,
+      "VAR2111": -10.45
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Labruge",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1094,
+      "DADOS2011": 943,
+      "PER2021": 3.76,
+      "PER2011": 3.52,
+      "VAR2111": 16.01
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 799,
+      "DADOS2011": 761,
+      "PER2021": 73.03,
+      "PER2011": 80.7,
+      "VAR2111": 4.99
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 191,
+      "DADOS2011": 114,
+      "PER2021": 17.46,
+      "PER2011": 12.09,
+      "VAR2111": 67.54
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 104,
+      "DADOS2011": 68,
+      "PER2021": 9.51,
+      "PER2011": 7.21,
+      "VAR2111": 52.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Macieira da Maia",
+      "GrupoEtario": "Total",
+      "DADOS2021": 825,
+      "DADOS2011": 745,
+      "PER2021": 2.83,
+      "PER2011": 2.78,
+      "VAR2111": 10.74
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 578,
+      "DADOS2011": 554,
+      "PER2021": 70.06,
+      "PER2011": 74.36,
+      "VAR2111": 4.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 176,
+      "DADOS2011": 124,
+      "PER2021": 21.33,
+      "PER2011": 16.64,
+      "VAR2111": 41.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 71,
+      "DADOS2011": 67,
+      "PER2021": 8.61,
+      "PER2011": 8.99,
+      "VAR2111": 5.97
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Mindelo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1547,
+      "DADOS2011": 1255,
+      "PER2021": 5.31,
+      "PER2011": 4.69,
+      "VAR2111": 23.27
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 1038,
+      "DADOS2011": 900,
+      "PER2021": 67.1,
+      "PER2011": 71.71,
+      "VAR2111": 15.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 370,
+      "DADOS2011": 262,
+      "PER2021": 23.92,
+      "PER2011": 20.88,
+      "VAR2111": 41.22
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 139,
+      "DADOS2011": 93,
+      "PER2021": 8.99,
+      "PER2011": 7.41,
+      "VAR2111": 49.46
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Modivas",
+      "GrupoEtario": "Total",
+      "DADOS2021": 620,
+      "DADOS2011": 596,
+      "PER2021": 2.13,
+      "PER2011": 2.23,
+      "VAR2111": 4.03
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 436,
+      "DADOS2011": 421,
+      "PER2021": 70.32,
+      "PER2011": 70.64,
+      "VAR2111": 3.56
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 147,
+      "DADOS2011": 127,
+      "PER2021": 23.71,
+      "PER2011": 21.31,
+      "VAR2111": 15.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 37,
+      "DADOS2011": 48,
+      "PER2021": 5.97,
+      "PER2011": 8.05,
+      "VAR2111": -22.92
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada",
+      "GrupoEtario": "Total",
+      "DADOS2021": 810,
+      "DADOS2011": 793,
+      "PER2021": 2.78,
+      "PER2011": 2.96,
+      "VAR2111": 2.14
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 675,
+      "DADOS2011": 665,
+      "PER2021": 83.33,
+      "PER2011": 83.86,
+      "VAR2111": 1.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 60,
+      "DADOS2011": 50,
+      "PER2021": 7.41,
+      "PER2011": 6.31,
+      "VAR2111": 20
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 75,
+      "DADOS2011": 78,
+      "PER2021": 9.26,
+      "PER2011": 9.84,
+      "VAR2111": -3.85
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Fornelo e Vairão",
+      "GrupoEtario": "Total",
+      "DADOS2021": 872,
+      "DADOS2011": 848,
+      "PER2021": 2.99,
+      "PER2011": 3.17,
+      "VAR2111": 2.83
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 627,
+      "DADOS2011": 619,
+      "PER2021": 71.9,
+      "PER2011": 73,
+      "VAR2111": 1.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 151,
+      "DADOS2011": 147,
+      "PER2021": 17.32,
+      "PER2011": 17.33,
+      "VAR2111": 2.72
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 94,
+      "DADOS2011": 82,
+      "PER2021": 10.78,
+      "PER2011": 9.67,
+      "VAR2111": 14.63
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Malta e Canidelo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 746,
+      "DADOS2011": 738,
+      "PER2021": 2.56,
+      "PER2011": 2.76,
+      "VAR2111": 1.08
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 553,
+      "DADOS2011": 557,
+      "PER2021": 74.13,
+      "PER2011": 75.47,
+      "VAR2111": -0.72
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 139,
+      "DADOS2011": 127,
+      "PER2021": 18.63,
+      "PER2011": 17.21,
+      "VAR2111": 9.45
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 54,
+      "DADOS2011": 54,
+      "PER2021": 7.24,
+      "PER2011": 7.32,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Retorta e Tougues",
+      "GrupoEtario": "Total",
+      "DADOS2021": 704,
+      "DADOS2011": 672,
+      "PER2021": 2.42,
+      "PER2011": 2.51,
+      "VAR2111": 4.76
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 570,
+      "DADOS2011": 529,
+      "PER2021": 80.97,
+      "PER2011": 78.72,
+      "VAR2111": 7.75
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 93,
+      "DADOS2011": 104,
+      "PER2021": 13.21,
+      "PER2011": 15.48,
+      "VAR2111": -10.58
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 41,
+      "DADOS2011": 39,
+      "PER2021": 5.82,
+      "PER2011": 5.8,
+      "VAR2111": 5.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Rio Mau e Arcos",
+      "GrupoEtario": "Total",
+      "DADOS2021": 861,
+      "DADOS2011": 819,
+      "PER2021": 2.96,
+      "PER2011": 3.06,
+      "VAR2111": 5.13
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 733,
+      "DADOS2011": 700,
+      "PER2021": 85.13,
+      "PER2011": 85.47,
+      "VAR2111": 4.71
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 50,
+      "DADOS2011": 36,
+      "PER2021": 5.81,
+      "PER2011": 4.4,
+      "VAR2111": 38.89
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 78,
+      "DADOS2011": 83,
+      "PER2021": 9.06,
+      "PER2011": 10.13,
+      "VAR2111": -6.02
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Touguinha e Touguinhó",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1089,
+      "DADOS2011": 1036,
+      "PER2021": 3.74,
+      "PER2011": 3.87,
+      "VAR2111": 5.12
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 913,
+      "DADOS2011": 874,
+      "PER2021": 83.84,
+      "PER2011": 84.36,
+      "VAR2111": 4.46
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 101,
+      "DADOS2011": 87,
+      "PER2021": 9.27,
+      "PER2011": 8.4,
+      "VAR2111": 16.09
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 75,
+      "DADOS2011": 75,
+      "PER2021": 6.89,
+      "PER2011": 7.24,
+      "VAR2111": 0
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Vilar e Mosteiró",
+      "GrupoEtario": "Total",
+      "DADOS2021": 889,
+      "DADOS2011": 863,
+      "PER2021": 3.05,
+      "PER2011": 3.22,
+      "VAR2111": 3.01
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 618,
+      "DADOS2011": 627,
+      "PER2021": 69.52,
+      "PER2011": 72.65,
+      "VAR2111": -1.44
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 202,
+      "DADOS2011": 178,
+      "PER2021": 22.72,
+      "PER2011": 20.63,
+      "VAR2111": 13.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 69,
+      "DADOS2011": 58,
+      "PER2021": 7.76,
+      "PER2011": 6.72,
+      "VAR2111": 18.97
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila Chã",
+      "GrupoEtario": "Total",
+      "DADOS2021": 1260,
+      "DADOS2011": 1041,
+      "PER2021": 4.33,
+      "PER2011": 3.89,
+      "VAR2111": 21.04
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 892,
+      "DADOS2011": 809,
+      "PER2021": 70.79,
+      "PER2011": 77.71,
+      "VAR2111": 10.26
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 209,
+      "DADOS2011": 132,
+      "PER2021": 16.59,
+      "PER2011": 12.68,
+      "VAR2111": 58.33
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 159,
+      "DADOS2011": 100,
+      "PER2021": 12.62,
+      "PER2011": 9.61,
+      "VAR2111": 59
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vila do Conde",
+      "GrupoEtario": "Total",
+      "DADOS2021": 11032,
+      "DADOS2011": 10071,
+      "PER2021": 37.87,
+      "PER2011": 37.6,
+      "VAR2111": 9.54
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 7619,
+      "DADOS2011": 7393,
+      "PER2021": 69.06,
+      "PER2011": 73.41,
+      "VAR2111": 3.06
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2604,
+      "DADOS2011": 2058,
+      "PER2021": 23.6,
+      "PER2011": 20.43,
+      "VAR2111": 26.53
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 809,
+      "DADOS2011": 620,
+      "PER2021": 7.33,
+      "PER2011": 6.16,
+      "VAR2111": 30.48
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar de Pinheiro",
+      "GrupoEtario": "Total",
+      "DADOS2021": 958,
+      "DADOS2011": 875,
+      "PER2021": 3.29,
+      "PER2011": 3.27,
+      "VAR2111": 9.49
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 585,
+      "DADOS2011": 574,
+      "PER2021": 61.06,
+      "PER2011": 65.6,
+      "VAR2111": 1.92
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 294,
+      "DADOS2011": 258,
+      "PER2021": 30.69,
+      "PER2011": 29.49,
+      "VAR2111": 13.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 79,
+      "DADOS2011": 43,
+      "PER2021": 8.25,
+      "PER2011": 4.91,
+      "VAR2111": 83.72
+    },
+    {
+      "Concelho": "Vila Nova de Gaia",
+      "Freguesia": "Concelho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 121208,
+      "DADOS2011": 113485,
+      "PER2021": 100,
+      "PER2011": 100,
+      "VAR2111": 6.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 78513,
+      "DADOS2011": 76863,
+      "PER2021": 64.78,
+      "PER2011": 67.73,
+      "VAR2111": 2.15
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 33575,
+      "DADOS2011": 28921,
+      "PER2021": 27.7,
+      "PER2011": 25.48,
+      "VAR2111": 16.09
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 9120,
+      "DADOS2011": 7701,
+      "PER2021": 7.52,
+      "PER2011": 6.79,
+      "VAR2111": 18.43
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Arcozelo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5953,
+      "DADOS2011": 5290,
+      "PER2021": 4.91,
+      "PER2011": 4.66,
+      "VAR2111": 12.53
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 4124,
+      "DADOS2011": 3902,
+      "PER2021": 69.28,
+      "PER2011": 73.76,
+      "VAR2111": 5.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1342,
+      "DADOS2011": 1031,
+      "PER2021": 22.54,
+      "PER2011": 19.49,
+      "VAR2111": 30.16
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 487,
+      "DADOS2011": 357,
+      "PER2021": 8.18,
+      "PER2011": 6.75,
+      "VAR2111": 36.41
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Avintes",
+      "GrupoEtario": "Total",
+      "DADOS2021": 4130,
+      "DADOS2011": 4106,
+      "PER2021": 3.41,
+      "PER2011": 3.62,
+      "VAR2111": 0.58
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2481,
+      "DADOS2011": 2510,
+      "PER2021": 60.07,
+      "PER2011": 61.13,
+      "VAR2111": -1.16
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1279,
+      "DADOS2011": 1241,
+      "PER2021": 30.97,
+      "PER2011": 30.22,
+      "VAR2111": 3.06
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 370,
+      "DADOS2011": 355,
+      "PER2021": 8.96,
+      "PER2011": 8.65,
+      "VAR2111": 4.23
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canelas",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5332,
+      "DADOS2011": 4854,
+      "PER2021": 4.4,
+      "PER2011": 4.28,
+      "VAR2111": 9.85
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 3756,
+      "DADOS2011": 3545,
+      "PER2021": 70.44,
+      "PER2011": 73.03,
+      "VAR2111": 5.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1220,
+      "DADOS2011": 1000,
+      "PER2021": 22.88,
+      "PER2011": 20.6,
+      "VAR2111": 22
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 356,
+      "DADOS2011": 309,
+      "PER2021": 6.68,
+      "PER2011": 6.37,
+      "VAR2111": 15.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Canidelo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 11488,
+      "DADOS2011": 10696,
+      "PER2021": 9.48,
+      "PER2011": 9.43,
+      "VAR2111": 7.4
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 7726,
+      "DADOS2011": 7483,
+      "PER2021": 67.25,
+      "PER2011": 69.96,
+      "VAR2111": 3.25
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2873,
+      "DADOS2011": 2488,
+      "PER2021": 25.01,
+      "PER2011": 23.26,
+      "VAR2111": 15.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 889,
+      "DADOS2011": 725,
+      "PER2021": 7.74,
+      "PER2011": 6.78,
+      "VAR2111": 22.62
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Madalena",
+      "GrupoEtario": "Total",
+      "DADOS2021": 4177,
+      "DADOS2011": 3797,
+      "PER2021": 3.45,
+      "PER2011": 3.35,
+      "VAR2111": 10.01
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2853,
+      "DADOS2011": 2641,
+      "PER2021": 68.3,
+      "PER2011": 69.55,
+      "VAR2111": 8.03
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 995,
+      "DADOS2011": 882,
+      "PER2021": 23.82,
+      "PER2011": 23.23,
+      "VAR2111": 12.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 329,
+      "DADOS2011": 274,
+      "PER2021": 7.88,
+      "PER2011": 7.22,
+      "VAR2111": 20.07
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Oliveira do Douro",
+      "GrupoEtario": "Total",
+      "DADOS2021": 9005,
+      "DADOS2011": 8472,
+      "PER2021": 7.43,
+      "PER2011": 7.47,
+      "VAR2111": 6.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5763,
+      "DADOS2011": 5591,
+      "PER2021": 64,
+      "PER2011": 65.99,
+      "VAR2111": 3.08
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2714,
+      "DADOS2011": 2435,
+      "PER2021": 30.14,
+      "PER2011": 28.74,
+      "VAR2111": 11.46
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 528,
+      "DADOS2011": 446,
+      "PER2021": 5.86,
+      "PER2011": 5.26,
+      "VAR2111": 18.39
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "São Félix da Marinha",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5353,
+      "DADOS2011": 4750,
+      "PER2021": 4.42,
+      "PER2011": 4.19,
+      "VAR2111": 12.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 3524,
+      "DADOS2011": 3278,
+      "PER2021": 65.83,
+      "PER2011": 69.01,
+      "VAR2111": 7.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1363,
+      "DADOS2011": 1092,
+      "PER2021": 25.46,
+      "PER2011": 22.99,
+      "VAR2111": 24.82
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 466,
+      "DADOS2011": 380,
+      "PER2021": 8.71,
+      "PER2011": 8,
+      "VAR2111": 22.63
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Grijó e Sermonde",
+      "GrupoEtario": "Total",
+      "DADOS2021": 4364,
+      "DADOS2011": 4120,
+      "PER2021": 3.6,
+      "PER2011": 3.63,
+      "VAR2111": 5.92
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 2927,
+      "DADOS2011": 2836,
+      "PER2021": 67.07,
+      "PER2011": 68.83,
+      "VAR2111": 3.21
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 978,
+      "DADOS2011": 899,
+      "PER2021": 22.41,
+      "PER2011": 21.82,
+      "VAR2111": 8.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 459,
+      "DADOS2011": 385,
+      "PER2021": 10.52,
+      "PER2011": 9.34,
+      "VAR2111": 19.22
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Gulpilhares e Valadares",
+      "GrupoEtario": "Total",
+      "DADOS2021": 8703,
+      "DADOS2011": 8159,
+      "PER2021": 7.18,
+      "PER2011": 7.19,
+      "VAR2111": 6.67
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5876,
+      "DADOS2011": 5764,
+      "PER2021": 67.52,
+      "PER2011": 70.65,
+      "VAR2111": 1.94
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2202,
+      "DADOS2011": 1904,
+      "PER2021": 25.3,
+      "PER2011": 23.34,
+      "VAR2111": 15.65
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 625,
+      "DADOS2011": 491,
+      "PER2021": 7.18,
+      "PER2011": 6.02,
+      "VAR2111": 27.29
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Mafamude e Vilar do Paraíso",
+      "GrupoEtario": "Total",
+      "DADOS2021": 22513,
+      "DADOS2011": 21075,
+      "PER2021": 18.57,
+      "PER2011": 18.57,
+      "VAR2111": 6.82
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 14302,
+      "DADOS2011": 14548,
+      "PER2021": 63.53,
+      "PER2011": 69.03,
+      "VAR2111": -1.69
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 6744,
+      "DADOS2011": 5434,
+      "PER2021": 29.96,
+      "PER2011": 25.78,
+      "VAR2111": 24.11
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 1467,
+      "DADOS2011": 1093,
+      "PER2021": 6.52,
+      "PER2011": 5.19,
+      "VAR2111": 34.22
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Pedroso e Seixezelo",
+      "GrupoEtario": "Total",
+      "DADOS2021": 7605,
+      "DADOS2011": 7183,
+      "PER2021": 6.27,
+      "PER2011": 6.33,
+      "VAR2111": 5.87
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 5050,
+      "DADOS2011": 4826,
+      "PER2021": 66.4,
+      "PER2011": 67.19,
+      "VAR2111": 4.64
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1894,
+      "DADOS2011": 1684,
+      "PER2021": 24.9,
+      "PER2011": 23.44,
+      "VAR2111": 12.47
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 661,
+      "DADOS2011": 673,
+      "PER2021": 8.69,
+      "PER2011": 9.37,
+      "VAR2111": -1.78
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Sandim, Olival, Lever e Crestuma",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5612,
+      "DADOS2011": 5611,
+      "PER2021": 4.63,
+      "PER2011": 4.94,
+      "VAR2111": 0.02
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 4174,
+      "DADOS2011": 4094,
+      "PER2021": 74.38,
+      "PER2011": 72.96,
+      "VAR2111": 1.95
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 831,
+      "DADOS2011": 778,
+      "PER2021": 14.81,
+      "PER2011": 13.87,
+      "VAR2111": 6.81
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 607,
+      "DADOS2011": 739,
+      "PER2021": 10.82,
+      "PER2011": 13.17,
+      "VAR2111": -17.86
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Santa Marinha e São Pedro da Afurada",
+      "GrupoEtario": "Total",
+      "DADOS2021": 14892,
+      "DADOS2011": 13996,
+      "PER2021": 12.29,
+      "PER2011": 12.33,
+      "VAR2111": 6.4
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 8291,
+      "DADOS2011": 8226,
+      "PER2021": 55.67,
+      "PER2011": 58.77,
+      "VAR2111": 0.79
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 5634,
+      "DADOS2011": 5015,
+      "PER2021": 37.83,
+      "PER2011": 35.83,
+      "VAR2111": 12.34
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 967,
+      "DADOS2011": 755,
+      "PER2021": 6.49,
+      "PER2011": 5.39,
+      "VAR2111": 28.08
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "União das freguesias de Serzedo e Perosinho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 5162,
+      "DADOS2011": 4940,
+      "PER2021": 4.26,
+      "PER2011": 4.35,
+      "VAR2111": 4.49
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 3426,
+      "DADOS2011": 3282,
+      "PER2021": 66.37,
+      "PER2011": 66.44,
+      "VAR2111": 4.39
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 1316,
+      "DADOS2011": 1243,
+      "PER2021": 25.49,
+      "PER2011": 25.16,
+      "VAR2111": 5.87
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 420,
+      "DADOS2011": 415,
+      "PER2021": 8.14,
+      "PER2011": 8.4,
+      "VAR2111": 1.2
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": "Vilar de Andorinho",
+      "GrupoEtario": "Total",
+      "DADOS2021": 6919,
+      "DADOS2011": 6436,
+      "PER2021": 5.71,
+      "PER2011": 5.67,
+      "VAR2111": 7.5
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É Proprietário ou coproprietário",
+      "DADOS2021": 4240,
+      "DADOS2011": 4337,
+      "PER2021": 61.28,
+      "PER2011": 67.39,
+      "VAR2111": -2.24
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "É arrendatário ou subarrendatário",
+      "DADOS2021": 2190,
+      "DADOS2011": 1795,
+      "PER2021": 31.65,
+      "PER2011": 27.89,
+      "VAR2111": 22.01
+    },
+    {
+      "Concelho": " ",
+      "Freguesia": " ",
+      "GrupoEtario": "Outras Situações",
+      "DADOS2021": 489,
+      "DADOS2011": 304,
+      "PER2021": 7.07,
+      "PER2011": 4.72,
+      "VAR2111": 60.86
+    }
+  ]
