@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Densidade de alojamentos</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+        <link rel="stylesheet" href="../../../../alternativa.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans&display=swap" rel="stylesheet">
+        <link href="../../../../outrosscripts/nouislider.css" rel="stylesheet">
+        <link rel="shortcut icon" href="../../../../imagens/LogotipoCorrigido.svg">
+        <script src="../../../../outrosscripts/nouislider.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+        <script src="../../../../geojson/contornoAmp.geojson"></script>
+        <script src="../../../../geojson/contornoFreguesias.geojson"></script>
+        <script src="../../../../geojson/Morfologia/DensidadeAlojamentos/DadosRelativosFreguesias.geojson"></script>
+        <script src="../../../../geojson/Morfologia/DensidadeAlojamentos/DadosRelativosConcelhos.geojson"></script>
+        <script src="../../../../outrosscripts/leaflet.zoomhome.js"></script>
+    </head>
+<body>
+    <nav class="nav-main">
+        <ul>
+            <li><a href="../../../../index.html">Página Inicial</a></li>
+        </ul>
+        <div class="logotipos">
+            <div class="logotipo "><img src="../../../../imagens/LogotipoCorrigido.svg" alt="logotipo"></div>
+            <div class="flup"><a href="https://sigarra.up.pt/flup/pt/web_page.inicial">
+                <img src="../../../../imagens/LogoFLUP.svg" alt="flup"></a>
+            </div>
+        </div>
+    </nav>  
+    <aside class="nav-sidebar">
+
+        <li>
+            <a href="#" class="sub-btn">População e Família<i class="fas fa-angle-right dropdown rotation"></i></a>
+            <div class="sub-menu">
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>População</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="../../../Populacao/Populacao/PopulacaoResidente.html"  class="sub-item">População residente</a>
+                    <a href="../../../Populacao/GrupoEtario/GrupoEtario.html"  class="sub-item">Grupo etário</a>
+                    <a href="../../../Populacao/NivelEnsino/NivelEnsino.html"  class="sub-item">Nível de ensino</a>
+                    <a href="../../../Populacao/PopulacaoEstrangeira/PopulacaoEstrangeira.html"  class="sub-item">População estrangeira</a>
+                </div>
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Famílias</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="../../../Populacao/Familias/Familias.html"  class="sub-item">Famílias existentes</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="#" class="sub-btn" >Parque Habitacional<i class="fas fa-angle-right dropdown rotation"></i></a>
+            <div class="sub-menu">
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Alojamentos</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu" >
+                    <a href="../../../ParqueHabitacional/Alojamentos/tipoalojamento.html"  class="sub-item">Tipo de alojamento</a>
+                    <a href="../../../ParqueHabitacional/Alojamentos/formalojamento.html"  class="sub-item">Forma de ocupação</a>
+                    <a href="../../../ParqueHabitacional/Alojamentos/regimeocupacao.html"  class="sub-item">Regime de ocupação</a>
+                </div>
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Edifícios</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="../../../ParqueHabitacional/Edificios/NumeroEdificios/NumeroEdificios.html"  class="sub-item ">Número de edifícios</a>
+                    <a href="../../../ParqueHabitacional/Edificios/EpocaConstrucao/EpocaConstrucao.html"  class="sub-item ">Época de construção</a>
+                    <a href="../../../ParqueHabitacional/Edificios/IdadeMedia/IdadeMedia.html"  class="sub-item">Idade Média</a>
+                    <a href="../../../ParqueHabitacional/Edificios/EstadoConservacao/EstadoConservacao.html"  class="sub-item ">Estado de conservação</a>
+                    <a href="../../../ParqueHabitacional/Edificios/Dimensao/DimensaoEdificios.html"  class="sub-item ">Dimensão de alojamentos</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="#" class="sub-btn">Condições de Habitabilidade<i class="fas fa-angle-right dropdown rotation"></i></a>
+            <div class="sub-menu">
+                <a href="../../../CondicoesHabitabilidade/Sobrelotacao/Sobrelotacao.html"  class="sub-item">Sobrelotação</a>
+                <a href="../../../CondicoesHabitabilidade/InfraestruturaBasica/InfraestruturaBasica.html"  class="sub-item ">Infraestruturas básicas</a>
+                <a href="../../../CondicoesHabitabilidade/AguaCanalizada/AguaCanalizada.html"  class="sub-item">Água canalizada</a>
+                <a href="../../../CondicoesHabitabilidade/InstalacoesBanho/InstalacoesBanho.html"  class="sub-item">Instalações de banho</a>
+                <a href="../../../CondicoesHabitabilidade/SistemasAquecimento/SistemasAquecimento.html"  class="sub-item">Sistema de aquecimento</a>
+            </div>
+        </li>
+        <li>
+            <a href="#" class="sub-btn">Mercado Habitacional<i class="fas fa-angle-right dropdown rotation"></i></a>
+            <div class="sub-menu">
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Arrendamento</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu" >
+                    <a href="../../../MercadoHabitacional/Arrendamento/Precos/PrecosArrendamento.html"  class="sub-item">Preços</a>
+                    <a href="../../../MercadoHabitacional/Arrendamento/Contratos/Contratos.html"  class="sub-item">Contratos</a>
+                    <a href="../../../MercadoHabitacional/Arrendamento/TaxaEsforcoArrendamento/TaxaEsforcoArrendamento.html"  class="sub-item">Taxa de esforço</a>
+                    <a href="../../../MercadoHabitacional/Arrendamento/EncargosMensaisRenda/EncargosMensaisRenda.html"  class="sub-item ">Encargos mensais de renda</a>
+                </div>
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Venda</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu" >
+                    <a href="../../../MercadoHabitacional/Venda/Precos/PrecosVenda.html"  class="sub-item">Preço</a>
+                    <a href="../../../MercadoHabitacional/Venda/Credito/Credito.html"  class="sub-item">Crédito à habitação</a>
+                    <a href="../../../MercadoHabitacional/Venda/AvaliacaoBancaria/AvaliacaoBancaria.html"  class="sub-item">Avaliação bancária</a>
+                    <a href="../../../MercadoHabitacional/Venda/IndiceAcessibilidade/IndiceAcessibilidade.html"  class="sub-item">Acessibilidade de compra</a>
+                    <a href="../../../MercadoHabitacional/Venda/EncargosCompra/EncargosCompra.html"  class="sub-item">Encargos mensais de compra</a>
+                </div>
+            </div>
+        </li>
+        <li id="centrar">
+            <a href="#" class="sub-btn3">Morfologia do Edificado<i class="fas fa-angle-right dropdown rotacaoativa"></i></a>
+            <div class="sub-menu"  id="mostrarBarra2" >
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Edifícios</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu" >
+                    <a href="../../../Morfologia/Edificios/TipoEdificio/TipoEdificio.html"  class="sub-item ">Tipo de edifício</a>
+                    <a href="../../../Morfologia/Edificios/NumeroPisos/NumeroPisos.html"  class="sub-item">Número de pisos</a>
+                </div>
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Alojamentos</strong><i class="fas fa-angle-right dropdown rotacaoativa"></i></a>
+                <div class="sub-menu"id="mostrarBarra" >
+                    <a href="../../../Morfologia/Alojamentos/DensidadeAlojamentos/DensidadeAlojamentos.html"  class="sub-item active">Densidade</a>
+                    <a href="../../../Morfologia/Alojamentos/SuperficieUtil/SuperficieUtil.html"  class="sub-item">Superfície útil</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="#" class="sub-btn">Construção<i class="fas fa-angle-right dropdown rotation"></i></a>
+            <div class="sub-menu">
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Fogos</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="../../../Construcao/Fogos/Licenciados/FogosLicenciados.html"  class="sub-item">Fogos licenciados</a>
+                    <a href="../../../Construcao/Fogos/Concluidos/Concluidos.html"  class="sub-item">Fogos concluídos</a>
+                </div>
+                <a href="#" class="sub-btn mercadoHabitacional"><strong>Edifícios</strong><i class="fas fa-angle-right dropdown rotation"></i></a>
+                <div class="sub-menu">
+                    <a href="../../../Construcao/Edificios/Licenciados/EdificiosLicenciados.html"  class="sub-item">Edifícios licenciados</a>
+                    <a href="../../../Construcao/Edificios/Concluidos/EdificioConcluidos.html"  class="sub-item">Edifiícios concluídos</a>
+                </div>
+            </div>
+        </li>
+    </aside>
+    <div id="geral">
+        <div id="caixa">
+            <div id="space">
+                <button class="btn active3" id="opcaoMapa">Mapa</button>
+                <button class="btn" id="opcaoTabela">Tabela</button>
+            </div>
+            <div id ="opcoesTabela">
+                    <button id='tabelaPercentagem' class="btn active1" style="left:18%">Dados Relativos</button>
+                    <button id='tabelaVariacao' class="btn" style="left:18%">Taxa de Variação</button>
+            </div>
+        </div>
+        <div id="inteiro">
+            <div id="mapa">
+                <div id="tituloMapa"></div>
+                <div id='mapDIV'></div>
+                <div id="Fontes">
+                    <div class="ine"></div>
+                    <button class="btn" id="opcaoFonte">Metainformação</button>
+                </div>
+            </div>
+            <div id="metaInformacao">
+                <div style="display:grid">
+                    <div class="tabelaCores referencias">
+                        <strong> Designação: </strong> 
+                    </div>
+                    <div class="tabelaCores descricao">
+                        Densidade de alojamentos (N.º/ km²) por Localização geográfica.
+                    </div>
+                    <div class="tabelaCores referencias">
+                        <strong>Periodicidade:</strong> 
+                    </div>
+                    <div class="tabelaCores descricao">
+                        Decenal. 
+                    </div>
+                    <div class="tabelaCores referencias">
+                        <strong>Fonte:</strong> 
+                    </div>
+                    <div class="tabelaCores descricao">
+                        INE, Recenseamento da população e habitação.
+                    </div>
+                    <div class="tabelaCores referencias">
+                        <strong>Primeiro período disponível:</strong> 
+                    </div>
+                    <div class="tabelaCores descricao">
+                        2001. 
+                    </div>
+                    <div class="tabelaCores referencias">
+                        <strong>Último período disponível:</strong> 
+                    </div>
+                    <div class="tabelaCores descricao">
+                        2011. 
+                    </div>
+                    <div class="tabelaCores referencias">
+                        <strong>Conceitos:</strong> 
+                    </div>
+                    <div class=" tabelaCores descricao">
+                        <p><strong>Alojamento: </strong>Local distinto e independente que, pelo modo como foi construído, reconstruído, ampliado, transformado ou está a ser utilizado, se destina a habitação com a condição de não estar a ser utilizado totalmente para outros fins no momento de referência: por distinto entende-se que é cercado por paredes de tipo clássico ou de outro tipo, é coberto e permite que uma pessoa ou um grupo de pessoas possa dormir, preparar refeições ou abrigar-se das intempéries separado de outros membros da coletividade; por independente entende-se que os seus ocupantes não têm que atravessar outros alojamentos para entrar ou sair do alojamento onde habitam.</p>
+                        <p><strong>Alojamento familiar: </strong>Alojamento que, normalmente, se destina a alojar apenas uma família e não é totalmente utilizado para outros fins no momento de referência.</p> 
+                        <p><strong>Período de referência: </strong>Período de tempo a que a informação se refere e que pode ser um dia específico ou um intervalo de tempo (mês, ano fiscal, ano civil, entre outros).</p>
+                    </div>
+                    <div class="tabelaCores referencias">
+                        <strong>Unidade de medida (símbolo):</strong> 
+                    </div>
+                    <div class=" tabelaCores descricao">
+                        Número / Quilómetro quadrado (N.º/ km²). 
+                    </div>
+                    <div class="tabelaCores referencias">
+                        <strong>Potência de 10:</strong> 
+                    </div>
+                    <div class="tabelaCores descricao">
+                        0. 
+                    </div>
+                    <div class="tabelaCores referencias">
+                        <strong>Fórmula:</strong> 
+                    </div>
+                    <div class="tabelaCores descricao">
+                        Número de alojamentos / área. 
+                    </div>
+                    <div class="tabelaCores referencias">
+                        <strong>Informação retirada de:</strong> 
+                    </div>
+                    <div class=" tabelaCores descricao">
+                        <a href="https://censos.ine.pt/bddXplorer/htdocs/minfo.jsp?var_cd=0006980&lingua=PT">Metainformação</a>
+                        <p><a href="https://smi.ine.pt/Conceito?clear=True">Sistema integrado de metainformação do Instituto Nacional de Estatística</a></p>
+                    </div>
+                </div>
+            </div>
+            <div id='tabela'>
+                <div class ="tableFixHead">
+                    <table id="populacaoresidente_tabela">
+                        <thead>
+                            <tr class="fixar1">
+                                <th colspan="3"></th>
+                                <th colspan="2" class="ano borderleft">Ano</th>
+                            </tr>
+                            <tr class="fixar2">
+                                <th class="borderbottom" style="width: 20%;">Concelho</th>
+                                <th class="borderbottom" style="width: 20%;">Freguesia</th>
+                                <th class="borderbottom" style="width: 20%;">Densidade ( Alojamentos / Área (km²) )</th>
+                                <th id="2001" class=" borderleft borderbottom" style="width: 20%;">2011</th>
+                                <th class="borderbottom" style="width: 20%;">2021</th>
+                            </tr>
+                        </thead>
+                        <tbody id="juntarValores">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div id='painel'>
+                <div id = "myDIV">
+                    <button id = "concelho" class="butaoEscala EscalasTerritoriais  active2">Concelho</button>
+                    <button id = "freguesias" class="butaoEscala EscalasTerritoriais ">Freguesia</button>
+                </div>
+                <div id="temporal">
+                    <div class="titulo">
+                        <p>Escolha o ano:</p>
+                    </div>
+                    <div class="margin">
+                        <a id="prev" class="previous round">&#8249;</a>
+                        <select id="mySelect">
+                            <option value="2001">2001</option>
+                            <option value="2011">2011</option>
+                        </select>
+                        <a id="next" class="previous round">&#8250;</a>
+                    </div>
+                </div>
+                <div id="filtrar">
+                    <div>
+                        <strong>Filtrar dados:</strong>
+                        <div class="opcoesFiltrar">
+                            <div class="minimo especificoMinimo">Minímo<input type="number"  id="input-number-min"></div>
+                            <div id="slidersGeral">
+                                <div class="sliderAtivo"></div>
+                            </div>
+                            <div class="maximo especificoMaximo">Máximo<input type="number"  id="input-number-max"></div>
+                        </div>
+                    </div>
+                </div>
+                <div id="geralEscalas">
+                    <div id="escalasConcelho">
+                        <button id="percentagem" class="butao active4">Dados Relativos</button>
+                        <button id="taxaVariacao" class="butao">Taxa de Variação</button>
+                    </div>
+                </div>
+                <div id="painelLegenda">
+                    <div class="legendaNegrito">Legenda</div>
+                    <div id='legendaA'></div>
+                </div>        
+            </div>
+        </div>
+    </div>
+    <script src="DensidadeAlojamentos.js" defer></script>
+
+    <script>
+        $(document).ready(function(){
+            $('.sub-btn1').click(function(){
+                $(this).next('.sub-menu').slideToggle();
+                $(this).find('.dropdown').toggleClass('rotate');
+            });
+            $('.sub-btn3').click(function(){
+                $(this).next('.sub-menu').slideToggle();
+                $(this).find('.dropdown').toggleClass('rotate');
+            });
+            $('.sub-btn').click(function(){
+                $(this).next('.sub-menu').slideToggle();
+                $(this).find('.dropdown').toggleClass('rotacaonormal');
+            });
+            const element = document.getElementById("centrar");
+            element.scrollIntoView();
+        });
+        
+    </script>
+</body>
+</html>
