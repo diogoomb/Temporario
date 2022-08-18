@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+html{   
+    scroll-behavior: smooth;
+}
+*{
+    box-sizing: inherit;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+  
+body{
+     background-color: #f4f4f4;
+     margin: 0;
+}
+  
+.wrapper{
+    display: flex;
+    position: relative;
+    margin-left: 150px;
+}
+  
+.sidebar{
+    width: 150px;
+    height: 100%;
+    color: #fff;
+    background-color: #152b59c4;
+    position: fixed;
+    top:0px;
+    left: 0px;
+}
+.sidebar a{
+    display: grid;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+    line-height: 3;
+    text-align: center;
+    cursor: pointer;
+    justify-items: center;
+    text-align:center;
+
+}
+
+.sidebar a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+  
+ .sidebar  a .fa-solid, .sidebar a .fa {
+    padding-top: 20px;
+    display: block;
+    color:#A67607
+}
+ .sidebar a:hover{
+    opacity: 0.7;
+    background-color: #f4f4f4;
+    color: #000;
+}
+    
+   
+.active{
+    background-color: #000000;
+}
+.wrapper .main_content{
+    width: auto;
+    position: relative;
+    top:0px
+}
+  
+.wrapper .main_content .titulo .cabecalho{
+    width: auto;
+}
+  
+.wrapper .main_content .info{
+    color: #000000;
+}
+.corSobre, #Contacto{
+    background-color: #e7e7e7;
+}
+.texto{
+    font-size: 49pt;
+    padding: 80px;
+    text-align: center;
+    line-height: 1.5;
+    font-family: system-ui;
+}
+.blink_me {
+    color: rgb(0, 0, 0);
+    animation: background2 30s ease-out infinite;
+    opacity: 0.85;
+    
+}
+.blink_me i{
+    color: rgb(0, 0, 0)!important;
+    animation: blinker 7s ease-out infinite;
+    background: transparent;
+}
+  
+@keyframes background2 {
+
+
+    7% {background-color: #e6354e;}
+    14% {background-color: #eb4650;}
+    21% {background-color: #f2683a;}
+    28% {background-color: #faa842;}
+    35% {background-color: #c2367a;}
+    42% {background-color: #974180;}
+    49% {background-color: #502a64;}
+    56% {background-color: #362b69;}
+    63% {background-color: #0db0d1;}
+    70% {background-color: #3b94cc;}
+    77% {background-color: #3167a4;}
+    84% {background-color: #2b4686;}
+    91% {background-color: #069f9e;}
+    100% {background-color: #5aad6e;}
+    }
+
+
+.borda{
+    border-bottom: 2px solid #000;
+}
+.b25{
+    width: 25%;
+}
+
+.b15{
+    width: 15%;
+}
+.b10{
+    width: 10%;
+}
+#curiosidades, #sobre, #Contacto{
+    color: #000;
+}
+#shiva{
+    width: 100px;
+    height: 100px;
+    background: transparent;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    float:left;
+    margin:5px;
+    text-align: center;
+}
+.count{
+    line-height: 100px;
+    color:#000;
+    font-size:25px;
+}
+.number-item{
+    width: 50%;
+    height: auto;
+    background: transparent;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    float:left;
+    margin:5px;
+    text-align: center;
+}
+.contar{
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+}
+.populacao{
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+}
+.populacao h1{
+    font-size: 18pt;
+    display: inline-flex;
+    display: inline;
+
+}
+.imagemfundo{
+    position: relative;
+    right: 0px;
+    z-index: 0;
+    color: #000;
+    width: 100%;
+}
+.imagemfundo img{
+    width: 100%;
+    height: 100%;
+}
+.titulo{
+    display: block;
+    height: auto;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+  
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+  
+.container {
+    border-radius: 5px;
+    background-color: transparent;
+    padding: 20px;
+}
+.cabecalho img{
+    width: 100px;
+    height: 50px;
+}
+.dados{
+    float: right;
+}
+.experiencia{
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+}
+.opacity{
+    opacity: 0.6;
+}
+.posicaoContacto{
+    padding-top: 20px;
+}
+.main_content .info .projeto{
+    padding:15px 5px 15px 20px
+}
+
+.sobreProjeto{
+    font-size: 16pt;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sobreProjeto ul li{
+    font-weight: 500;
+    color: rgb(81, 81, 81);
+    padding-top: 1px;
+}
+
+.footer{
+    font-size: 17pt;
+    color: white;
+    position: relative;
+    height: 140px;
+    text-align: center;
+    width: auto;
+    background-color: #585858;
+    z-index: 5000;
+    margin: 0;
+    display: grid;
+    align-items: center;
+    align-content: center;
+    justify-content: center
+}
+.logotipo{
+    text-align: center;
+    background: #e5e1d6 /*#ababab*/;
+}
+
+.circle{
+    counter-reset: list-counter;
+    list-style: none;
+}   
+
+.circle li:before{
+    content: counter(list-counter);
+    counter-increment: list-counter;
+    width: 1em;
+    height: 1em;
+    padding: .5em;
+    margin-right: 1em;
+    border-radius: 50%;
+    border: .25em solid #ccc;
+    background: #152b59cc;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    line-height: 1;
+    
+}
+h3{
+    display: inline-flex;
+}
+
+/* .show-btn, .hide-btn{
+    font-size: 35px;
+    color: white;
+    position: fixed;
+    top: 20px;
+    left: 50px;
+    z-index: 1;
+}
+#chk{
+    display: none;
+}
+.hide-btn{
+    opacity: 0;
+}
+#chk:checked ~ .sidebar{
+    left: 0;
+}
+#chk:checked ~ .show-btn{
+    opacity: 0; 
+}
+#chk:checked ~ .hide-btn{
+    opacity: 1; 
+}
+#chk:checked ~ .main_content{
+    width: 80%;
+}
+@media screen and (max-width:768px){
+    .sidebar{
+        width: 100%;
+    }
+    
+} */
+
+
+   
+  
+  @media screen and (max-width: 500px) {
+    .sidebar {
+        width: 500px;
+        height: auto;
+        position: relative;
+    }
+    .wrapper{
+        margin-left: 0px;
+    }
+    .wrapper .main_content{
+        width: 500px;
+
+    }
+    .texto{
+        font-size: 26pt;
+    }
+    #curiosidades{
+        width: 500px;
+    }
+    .contar{
+        display: block;
+    }
+    footer{
+        width: 500px;
+        margin-left: 0px;
+
+    }
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+  }
